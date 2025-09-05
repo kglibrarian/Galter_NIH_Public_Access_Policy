@@ -1,59 +1,65 @@
-_publisher,papers,unique_journals,total_uncovered_usd,within_cap_papers,abovecap_papers
-Springer Nature,356,100,1532277.0,5,351
-Elsevier,390,147,1154829.0,8,382
-Wiley,169,70,405365.0,0,169
-American Society for Clinical Investigation,90,2,320200.0,0,90
-Oxford University Press (OUP),101,37,258656.46,1,100
-Wolters Kluwer,97,37,253070.0,4,93
-Proceedings of the National Academy of Sciences,42,1,167790.0,0,42
-American Association for Cancer Research (AACR),25,6,158550.0,0,25
-American Chemical Society (ACS),57,19,142500.0,0,57
-Frontiers,34,13,64789.5,0,34
-American Medical Association (AMA),23,4,58000.0,0,23
-MDPI,40,16,55875.0,0,40
-American Association for the Advancement of Science (AAAS),16,1,55200.0,0,16
-Taylor & Francis,24,14,44220.0,0,24
-The Company of Biologists,13,4,39200.0,0,13
-SAGE Publications,28,16,38700.0,1,27
-Rockefeller University Press,9,1,36000.0,0,9
-BMJ,17,6,29290.75,0,17
-Society for Neuroscience,8,2,26420.0,0,8
-Thieme,18,2,26100.0,0,18
-American Society for Microbiology,16,5,25400.0,4,12
-Public Library of Science (PLoS),27,5,22324.0,0,27
-American Psychological Association (APA),19,7,19000.0,0,19
-American Society of Clinical Oncology (ASCO),5,2,17500.0,0,5
-eLife,17,1,17000.0,0,17
-American Academy of Pediatrics (AAP),6,2,15000.0,0,6
-Radiological Society of North America (RSNA),8,2,12000.0,0,8
-American Society for Cell Biology (ASCB),6,1,11970.0,0,6
-Cold Spring Harbor Laboratory,5,2,11500.0,0,5
-Mary Ann Liebert,5,3,8000.0,0,5
-AIP Publishing,4,1,7200.0,0,4
-The Endocrine Society,4,2,6712.0,0,4
-JMIR Publications,16,6,6000.0,7,9
-Institute of Electrical and Electronics Engineers (IEEE),9,3,5805.0,0,9
-American Society of Hematology,1,1,4600.0,0,1
-Life Science Alliance,2,1,3950.0,0,2
-American Diabetes Association,7,2,3500.0,0,7
-Cambridge University Press (CUP),2,2,3100.0,0,2
-Journal of Neurosurgery Publishing Group (JNSPG),3,1,3000.0,0,3
-IOP Publishing,2,1,2650.0,0,2
-Impact Journals,2,1,2400.0,0,2
-Royal Society of Chemistry (RSC),3,2,2067.0,2,1
-Bioscientifica,1,1,2063.0,0,1
-ASME International,1,1,1000.0,0,1
-American Public Health Association,1,1,500.0,0,1
-Optica Publishing Group,7,2,470.0,0,7
-COPD Foundation,1,1,450.0,0,1
-American Speech Language Hearing Association,5,2,0.0,5,0
-AME Publishing Company,5,1,0.0,5,0
-American Physiological Society,8,4,0.0,8,0
-Bio-Protocol,2,1,0.0,2,0
-American Thoracic Society,8,3,0.0,8,0
-Association for Computing Machinery (ACM),2,1,0.0,2,0
-Association for Research in Vision and Ophthalmology (ARVO),6,2,0.0,6,0
-MyJove,2,1,0.0,2,0
-MIT Press,5,3,0.0,5,0
-Environmental Health Perspectives,2,1,0.0,2,0
-"SPIE, the international society for optics and photonics",4,1,0.0,4,0
+_publisher,papers,unique_journals,total_uncovered_usd,within_cap_papers,abovecap_papers,waived_papers
+Elsevier,458,201,1165085.0,6,452,0
+Springer Nature,366,127,1046277.0,125,241,119
+Wolters Kluwer,140,44,349745.0,13,127,9
+Oxford University Press (OUP),132,46,323618.91,1,131,0
+American Association for Cancer Research (AACR),28,7,170550.0,0,28,0
+American Society for Clinical Investigation,40,2,139200.0,0,40,0
+American Chemical Society (ACS),54,27,130000.0,2,52,0
+Proceedings of the National Academy of Sciences,32,1,127840.0,0,32,0
+American Medical Association (AMA),35,5,88000.0,0,35,0
+MDPI,57,24,78500.0,0,57,0
+Frontiers,34,16,64007.0,0,34,0
+SAGE Publications,37,19,57300.0,2,35,0
+American Association for the Advancement of Science (AAAS),15,1,51750.0,0,15,0
+Taylor & Francis,26,20,50270.0,0,26,0
+Society for Neuroscience,13,2,42610.0,0,13,0
+BMJ,21,10,36610.0,0,21,0
+Thieme,25,3,36250.0,0,25,0
+The Company of Biologists,10,4,30800.0,0,10,0
+American Psychological Association (APA),28,12,28000.0,0,28,0
+American Society for Microbiology,17,7,26950.0,3,14,0
+American Society of Clinical Oncology (ASCO),8,3,24972.0,0,8,0
+Public Library of Science (PLoS),25,7,22034.0,0,25,0
+American Society of Hematology,5,2,21035.0,0,5,0
+American Academy of Pediatrics (AAP),6,2,15000.0,0,6,0
+eLife,13,1,13000.0,0,13,0
+Mary Ann Liebert,7,5,12000.0,0,7,0
+Rockefeller University Press,3,2,12000.0,0,3,0
+The Endocrine Society,6,3,10588.0,0,6,0
+Royal Society of Chemistry (RSC),6,6,10335.0,1,5,0
+American Society for Cell Biology (ASCB),5,1,9975.0,0,5,0
+JMIR Publications,19,7,8500.0,7,12,0
+Cold Spring Harbor Laboratory,3,2,8100.0,0,3,0
+Cambridge University Press (CUP),4,3,6200.0,0,4,0
+Radiological Society of North America (RSNA),4,2,6000.0,0,4,0
+Institute of Electrical and Electronics Engineers (IEEE),6,3,3870.0,0,6,0
+AIP Publishing,2,1,3600.0,0,2,0
+American Diabetes Association,7,2,3500.0,0,7,0
+IOP Publishing,3,2,3050.0,0,3,0
+Wiley,223,100,2500.0,222,1,222
+Bioscientifica,1,1,2063.0,0,1,0
+Journal of Neurosurgery Publishing Group (JNSPG),2,1,2000.0,0,2,0
+Life Science Alliance,1,1,1975.0,0,1,0
+Ferrata Storti Foundation (Haematologica),1,1,1574.0,0,1,0
+Impact Journals,1,1,1200.0,0,1,0
+ASME International,1,1,1000.0,0,1,0
+Optica Publishing Group,5,3,895.0,0,5,0
+American Physical Society (APS),1,1,840.0,0,1,0
+American Public Health Association,1,1,500.0,0,1,0
+COPD Foundation,1,1,450.0,0,1,0
+MIT Press,6,4,250.0,5,1,0
+Environmental Health Perspectives,2,1,0.0,2,0,0
+American Speech Language Hearing Association,10,2,0.0,10,0,0
+American Thoracic Society,8,3,0.0,8,0,0
+Association for Computing Machinery (ACM),1,1,0.0,1,0,0
+Bio-Protocol,3,1,0.0,3,0,0
+American Physiological Society,10,6,0.0,10,0,0
+AME Publishing Company,3,1,0.0,3,0,0
+Centers for Disease Control and Prevention (CDC),1,1,0.0,1,0,0
+Association for Research in Vision and Ophthalmology (ARVO),3,2,0.0,3,0,0
+MyJove,1,1,0.0,1,0,0
+Radiation Research Society,1,1,0.0,1,0,0
+"SPIE, the international society for optics and photonics",3,2,0.0,3,0,0
+Ubiquity Press,1,1,0.0,1,0,0
+Unknown,42,36,0.0,42,0,42

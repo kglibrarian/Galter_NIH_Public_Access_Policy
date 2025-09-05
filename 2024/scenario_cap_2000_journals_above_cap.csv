@@ -1,544 +1,579 @@
-_issn_norm,_journal_label,_publisher,apc,papers,uncovered_total,within_cap
-21567085,Biomed Opt Express,Optica Publishing Group,2005.0,6,30.0,False
-26325012,Sleep Adv,Oxford University Press (OUP),2054.0,1,54.0,False
-24725560,SLAS Discov,Elsevier,2070.0,1,70.0,False
-23796146,Learn Health Syst,Wiley,2080.0,1,80.0,False
-26913593,Ann Surg Open,Wolters Kluwer,2100.0,2,200.0,False
-1098660X,J Clin Microbiol,American Society for Microbiology,2100.0,1,100.0,False
-23259582,J Int Assoc Provid AIDS Care,SAGE Publications,2100.0,1,100.0,False
-15328511,J Stroke Cerebrovasc Dis,Elsevier,2170.0,1,170.0,False
-27313395,Commun Eng,Springer Nature,2190.0,1,190.0,False
-2452199X,Bioact Mater,Elsevier,2200.0,5,1000.0,False
-20358385,Neurol Int,MDPI,2250.0,1,250.0,False
-26622211,Implement Sci Commun,Springer Nature,2290.0,4,1160.0,False
-23738731,Transplant Direct,Wolters Kluwer,2300.0,1,300.0,False
-19326203,PLoS One,Public Library of Science (PLoS),2382.0,14,5348.0,False
-15394794,Opt Lett,Optica Publishing Group,2440.0,1,440.0,False
-2372952X,Chronic Obstr Pulm Dis,COPD Foundation,2450.0,1,450.0,False
-2561326X,JMIR Form Res,JMIR Publications,2500.0,7,3500.0,False
-19355548,Diabetes Care,American Diabetes Association,2500.0,5,2500.0,False
-1939327X,Diabetes,American Diabetes Association,2500.0,2,1000.0,False
-26669145,Ophthalmol Sci,Elsevier,2500.0,2,1000.0,False
-15410048,Am J Public Health,American Public Health Association,2500.0,1,500.0,False
-23528737,Alzheimers Dement (N Y),Wiley,2540.0,7,3780.0,False
-23528729,Alzheimers Dement (Amst),Wiley,2540.0,1,540.0,False
-27679764,Cancer Res Commun,American Association for Cancer Research (AACR),2550.0,1,550.0,False
-17582652,J Int AIDS Soc,Wiley,2600.0,1,600.0,False
-26322498,Neurooncol Adv,Oxford University Press (OUP),2615.0,2,1230.0,False
-19491042,Nucleus,Taylor & Francis,2630.0,2,1260.0,False
-21682208,IEEE J Biomed Health Inform,Institute of Electrical and Electronics Engineers (IEEE),2645.0,5,3225.0,False
-15582531,IEEE Trans Biomed Eng,Institute of Electrical and Electronics Engineers (IEEE),2645.0,2,1290.0,False
-1558254X,IEEE Trans Med Imaging,Institute of Electrical and Electronics Engineers (IEEE),2645.0,2,1290.0,False
-20452322,Sci Rep,Springer Nature,2690.0,24,16560.0,False
-20567936,NPJ Sci Learn,Springer Nature,2690.0,2,1380.0,False
-17560381,BioData Min,Springer Nature,2690.0,1,690.0,False
-20587716,Cell Death Discov,Springer Nature,2690.0,1,690.0,False
-26929384,JCPP Adv,Wiley,2705.0,1,705.0,False
-17580463,Database (Oxford),Oxford University Press (OUP),2729.0,1,729.0,False
-14673045,Curr Issues Mol Biol,MDPI,2750.0,1,750.0,False
-20763425,Brain Sci,MDPI,2750.0,1,750.0,False
-17456215,Trials,Springer Nature,2790.0,2,1580.0,False
-27314553,BMC Prim Care,Springer Nature,2790.0,1,790.0,False
-21501327,J Prim Care Community Health,SAGE Publications,2800.0,5,4000.0,False
-15252191,Am J Pathol,Elsevier,2800.0,4,3200.0,False
-1877718X,J Parkinsons Dis,SAGE Publications,2800.0,4,3200.0,False
-20477163,Sci Prog,SAGE Publications,2800.0,1,800.0,False
-20552076,Digit Health,SAGE Publications,2800.0,1,800.0,False
-24680249,Kidney Int Rep,Elsevier,2800.0,1,800.0,False
-25424823,J Alzheimers Dis Rep,SAGE Publications,2800.0,1,800.0,False
-29768357,Subst Use,SAGE Publications,2800.0,1,800.0,False
-14661268,Cell Stress Chaperones,Elsevier,2850.0,2,1700.0,False
-22601341,J Frailty Aging,Elsevier,2850.0,1,850.0,False
-24734039,JBMR Plus,Oxford University Press (OUP),2888.0,1,888.0,False
-26663546,Brain Behav Immun Health,Elsevier,2890.0,3,2670.0,False
-19400640,Addict Sci Clin Pract,Springer Nature,2890.0,1,890.0,False
-2471254X,Hepatol Commun,Wolters Kluwer,2900.0,2,1800.0,False
-2772963X,JACC Adv,Elsevier,2936.0,2,1872.0,False
-14726947,BMC Med Inform Decis Mak,Springer Nature,2990.0,4,3960.0,False
-17501172,Orphanet J Rare Dis,Springer Nature,2990.0,2,1980.0,False
-13652060,Ann Med,Taylor & Francis,2990.0,1,990.0,False
-27307174,Res Child Adolesc Psychopathol,Springer Nature,2990.0,1,990.0,False
-2050084X,Elife,eLife,3000.0,17,17000.0,False
-1532429X,J Cardiovasc Magn Reson,Elsevier,3000.0,5,5000.0,False
-23290382,Psychol Sex Orientat Gend Divers,American Psychological Association (APA),3000.0,5,5000.0,False
-19390602,Fam Syst Health,American Psychological Association (APA),3000.0,4,4000.0,False
-19330693,J Neurosurg,Journal of Neurosurgery Publishing Group (JNSPG),3000.0,3,3000.0,False
-1939134X,Psychol Assess,American Psychological Association (APA),3000.0,3,3000.0,False
-2769755X,J Psychopathol Clin Sci,American Psychological Association (APA),3000.0,3,3000.0,False
-15420086,Biophys J,Elsevier,3000.0,2,2000.0,False
-19307810,Health Psychol,American Psychological Association (APA),3000.0,2,2000.0,False
-15288951,J Biomech Eng,ASME International,3000.0,1,1000.0,False
-19311559,Neuropsychology,American Psychological Association (APA),3000.0,1,1000.0,False
-23766972,Stigma Health,American Psychological Association (APA),3000.0,1,1000.0,False
-20446055,BMJ Open,BMJ,3025.75,5,5128.75,False
-15537374,PLoS Pathog,Public Library of Science (PLoS),3043.0,8,8344.0,False
-15537358,PLoS Comput Biol,Public Library of Science (PLoS),3043.0,3,3129.0,False
-15537404,PLoS Genet,Public Library of Science (PLoS),3043.0,1,1043.0,False
-18790534,Comput Biol Med,Elsevier,3080.0,1,1080.0,False
-14712334,BMC Infect Dis,Springer Nature,3090.0,1,1090.0,False
-15732800,Arch Sex Behav,Springer Nature,3090.0,1,1090.0,False
-17501326,Mol Neurodegener,Springer Nature,3090.0,1,1090.0,False
-20511426,J Immunother Cancer,BMJ,3125.0,4,4500.0,False
-15592030,Contemp Clin Trials,Elsevier,3140.0,1,1140.0,False
-22915222,JMIR Mhealth Uhealth,JMIR Publications,3150.0,1,1150.0,False
-10902155,Brain Lang,Elsevier,3170.0,2,2340.0,False
-14795868,Int J Behav Nutr Phys Act,Springer Nature,3177.0,1,1177.0,False
-26737647,Front Bioinform,Frontiers,3187.5,1,1187.5,False
-17509378,Infect Agent Cancer,Springer Nature,3190.0,3,3570.0,False
-15283658,Mol Med,Springer Nature,3190.0,1,1190.0,False
-15733432,J Autism Dev Disord,Springer Nature,3190.0,1,1190.0,False
-19492553,Oncotarget,Impact Journals,3200.0,2,2400.0,False
-15526259,Ann Thorac Surg,Elsevier,3200.0,1,1200.0,False
-18790984,J Virol Methods,Elsevier,3210.0,2,2420.0,False
-18784321,Womens Health Issues,Elsevier,3220.0,2,2440.0,False
-25890042,iScience,Elsevier,3240.0,9,11160.0,False
-20538790,Lupus Sci Med,BMJ,3243.0,3,3729.0,False
-20751729,Life (Basel),MDPI,3250.0,2,2500.0,False
-20754418,Diagnostics (Basel),MDPI,3250.0,2,2500.0,False
-22279059,Biomedicines,MDPI,3250.0,2,2500.0,False
-20734425,Genes (Basel),MDPI,3250.0,1,1250.0,False
-20754426,J Pers Med,MDPI,3250.0,1,1250.0,False
-18727913,Int J Antimicrob Agents,Elsevier,3280.0,1,1280.0,False
-14712458,BMC Public Health,Springer Nature,3290.0,3,3870.0,False
-20426410,Biol Sex Differ,Springer Nature,3290.0,2,2580.0,False
-1471244X,BMC Psychiatry,Springer Nature,3290.0,1,1290.0,False
-14726963,BMC Health Serv Res,Springer Nature,3290.0,1,1290.0,False
-18732607,Am J Prev Med,Elsevier,3300.0,4,5200.0,False
-18733514,Neuropsychologia,Elsevier,3300.0,1,1300.0,False
-18791379,J Psychiatr Res,Elsevier,3320.0,2,2640.0,False
-17412552,J Neural Eng,IOP Publishing,3325.0,2,2650.0,False
-14388871,J Med Internet Res,JMIR Publications,3350.0,1,1350.0,False
-18726240,Brain Res,Elsevier,3360.0,4,5440.0,False
-20734409,Cells,MDPI,3375.0,4,5500.0,False
-23065354,Bioengineering (Basel),MDPI,3375.0,4,5500.0,False
-23083425,J Cardiovasc Dev Dis,MDPI,3375.0,2,2750.0,False
-20762607,Microorganisms,MDPI,3375.0,1,1375.0,False
-22279032,Healthcare (Basel),MDPI,3375.0,1,1375.0,False
-17485908,Implement Sci,Springer Nature,3390.0,2,2780.0,False
-14712407,BMC Cancer,Springer Nature,3390.0,1,1390.0,False
-10958673,J Surg Res,Elsevier,3410.0,3,4230.0,False
-24721972,J Endocr Soc,The Endocrine Society,3418.0,2,2836.0,False
-1083351X,J Biol Chem,Elsevier,3430.0,7,10010.0,False
-2352345X,Cell Mol Gastroenterol Hepatol,Elsevier,3430.0,2,2860.0,False
-15359484,Mol Cell Proteomics,Elsevier,3430.0,1,1430.0,False
-15397262,J Lipid Res,Elsevier,3430.0,1,1430.0,False
-29498759,J Subst Use Addict Treat,Elsevier,3440.0,3,4320.0,False
-10988785,Am J Perinatol,Thieme,3450.0,16,23200.0,False
-18690327,Appl Clin Inform,Thieme,3450.0,2,2900.0,False
-10976779,Gastrointest Endosc,Elsevier,3450.0,1,1450.0,False
-18735126,Parkinsonism Relat Disord,Elsevier,3460.0,2,2920.0,False
-19341563,PM R,Wiley,3470.0,3,4410.0,False
-14320428,Diabetologia,Springer Nature,3490.0,6,8940.0,False
-1465993X,Respir Res,Springer Nature,3490.0,1,1490.0,False
-19348800,Infant Behav Dev,Elsevier,3490.0,1,1490.0,False
-26386135,Radiol Cardiothorac Imaging,Radiological Society of North America (RSNA),3500.0,6,9000.0,False
-15271315,Radiology,Radiological Society of North America (RSNA),3500.0,2,3000.0,False
-27711897,Urogynecology (Phila),Wolters Kluwer,3500.0,2,3000.0,False
-22110356,Mult Scler Relat Disord,Elsevier,3500.0,1,1500.0,False
-2666335X,F S Sci,Elsevier,3500.0,1,1500.0,False
-1938131X,Jt Comm J Qual Patient Saf,Elsevier,3510.0,2,3020.0,False
-27559637,Eur Heart J Imaging Methods Pract,Oxford University Press (OUP),3510.0,1,1510.0,False
-10970193,Hum Brain Mapp,Wiley,3520.0,3,4560.0,False
-18727697,Int J Psychophysiol,Elsevier,3540.0,1,1540.0,False
-25785745,ACR Open Rheumatol,Wiley,3550.0,3,4650.0,False
-15328392,Hum Pathol,Elsevier,3550.0,2,3100.0,False
-14692198,Dev Psychopathol,Cambridge University Press (CUP),3550.0,1,1550.0,False
-14698978,Psychol Med,Cambridge University Press (CUP),3550.0,1,1550.0,False
-25899333,Am J Obstet Gynecol MFM,Elsevier,3550.0,1,1550.0,False
-19318405,AIDS Res Hum Retroviruses,Mary Ann Liebert,3600.0,3,4800.0,False
-14681331,Eur J Neurol,Wiley,3600.0,1,1600.0,False
-1931843X,J Womens Health (Larchmt),Mary Ann Liebert,3600.0,1,1600.0,False
-2156535X,J Adolesc Young Adult Oncol,Mary Ann Liebert,3600.0,1,1600.0,False
-15573117,J Heart Lung Transplant,Elsevier,3606.0,1,1606.0,False
-19506007,Biomed Pharmacother,Elsevier,3610.0,1,1610.0,False
-20726694,Cancers (Basel),MDPI,3625.0,9,14625.0,False
-14220067,Int J Mol Sci,MDPI,3625.0,6,9750.0,False
-20763921,Antioxidants (Basel),MDPI,3625.0,2,3250.0,False
-15323064,Respir Med,Elsevier,3630.0,1,1630.0,False
-17528062,Clin Transl Sci,Wiley,3630.0,1,1630.0,False
-10991492,NMR Biomed,Wiley,3640.0,3,4920.0,False
-10960260,Prev Med,Elsevier,3650.0,2,3300.0,False
-10985549,Mol Cell Biol,Taylor & Francis,3650.0,2,3300.0,False
-19403208,J Am Coll Health,Taylor & Francis,3650.0,2,3300.0,False
-19490984,Gut Microbes,Taylor & Francis,3650.0,2,3300.0,False
-00220426,J Drug Issues,SAGE Publications,3650.0,1,1650.0,False
-02687038,Aphasiology,Taylor & Francis,3650.0,1,1650.0,False
-13600451,AIDS Care,Taylor & Francis,3650.0,1,1650.0,False
-15407586,J Psychosoc Oncol,Taylor & Francis,3650.0,1,1650.0,False
-18732380,J Biomech,Elsevier,3650.0,1,1650.0,False
-15222594,Magn Reson Med,Wiley,3680.0,4,6720.0,False
-15222586,J Magn Reson Imaging,Wiley,3680.0,3,5040.0,False
-18732518,Vaccine,Elsevier,3680.0,1,1680.0,False
-2730664X,Commun Med (Lond),Springer Nature,3690.0,4,6760.0,False
-23732822,eNeuro,Society for Neuroscience,3690.0,3,5070.0,False
-15495477,Genes Dev,Cold Spring Harbor Laboratory,3700.0,3,5100.0,False
-15300374,Menopause,Wolters Kluwer,3700.0,1,1700.0,False
-15506606,J Immunol,Oxford University Press (OUP),3710.0,5,8550.0,False
-15275418,J Am Acad Child Adolesc Psychiatry,Elsevier,3710.0,2,3420.0,False
-15214036,Biom J,Wiley,3740.0,2,3480.0,False
-18726976,Arch Gerontol Geriatr,Elsevier,3750.0,1,1750.0,False
-10982302,Dev Psychobiol,Wiley,3760.0,1,1760.0,False
-25742531,JAMIA Open,Oxford University Press (OUP),3762.0,2,3524.0,False
-15410420,Biometrics,Oxford University Press (OUP),3780.0,1,1780.0,False
-15732517,J Affect Disord,Elsevier,3790.0,7,12530.0,False
-18728952,Clin Neurophysiol,Elsevier,3790.0,5,8950.0,False
-20515960,Acta Neuropathol Commun,Springer Nature,3790.0,5,8950.0,False
-15736695,Prev Sci,Springer Nature,3790.0,4,7160.0,False
-14749726,Aging Cell,Wiley,3790.0,3,5370.0,False
-14333023,Int Urogynecol J,Springer Nature,3790.0,1,1790.0,False
-23744677,NPJ Breast Cancer,Springer Nature,3790.0,1,1790.0,False
-15231747,J Invest Dermatol,Elsevier,3800.0,5,9000.0,False
-10897690,J Chem Phys,AIP Publishing,3800.0,4,7200.0,False
-19383673,J Leukoc Biol,Oxford University Press (OUP),3800.0,3,5400.0,False
-18731708,Reprod Toxicol,Elsevier,3800.0,1,1800.0,False
-20479980,J Am Heart Assoc,Wolters Kluwer,3810.0,7,12670.0,False
-18787568,Acta Biomater,Elsevier,3810.0,4,7240.0,False
-18733360,Psychoneuroendocrinology,Elsevier,3830.0,4,7320.0,False
-18789307,Dev Cogn Neurosci,Elsevier,3830.0,4,7320.0,False
-19738102,Cortex,Elsevier,3830.0,4,7320.0,False
-18735134,Patient Educ Couns,Elsevier,3830.0,2,3660.0,False
-18791883,Am J Surg,Elsevier,3830.0,1,1830.0,False
-1549490X,Oncologist,Oxford University Press (OUP),3852.0,1,1852.0,False
-15206777,Neurourol Urodyn,Wiley,3860.0,6,11160.0,False
-10960953,Environ Res,Elsevier,3860.0,2,3720.0,False
-18791972,J Adolesc Health,Elsevier,3870.0,3,5610.0,False
-23738057,NPJ Parkinsons Dis,Springer Nature,3890.0,4,7560.0,False
-14795876,J Transl Med,Springer Nature,3890.0,2,3780.0,False
-15732649,Qual Life Res,Springer Nature,3890.0,2,3780.0,False
-15737225,Cancer Causes Control,Springer Nature,3890.0,2,3780.0,False
-20590105,NPJ Vaccines,Springer Nature,3890.0,2,3780.0,False
-15733890,Metabolomics,Springer Nature,3890.0,1,1890.0,False
-15236838,Am J Kidney Dis,Elsevier,3900.0,6,11400.0,False
-14617005,Autism,SAGE Publications,3900.0,1,1900.0,False
-14679280,Psychol Sci,SAGE Publications,3900.0,1,1900.0,False
-15532712,Acad Emerg Med,Wiley,3900.0,1,1900.0,False
-18787479,Neurotherapeutics,Elsevier,3900.0,1,1900.0,False
-21677026,Clin Psychol Sci,SAGE Publications,3900.0,1,1900.0,False
-26338823,Function (Oxf),Oxford University Press (OUP),3900.0,1,1900.0,False
-16642295,Front Neurol,Frontiers,3906.0,3,5718.0,False
-16625099,Front Mol Neurosci,Frontiers,3906.0,2,3812.0,False
-16625102,Front Cell Neurosci,Frontiers,3906.0,2,3812.0,False
-16648021,Front Genet,Frontiers,3906.0,2,3812.0,False
-16625161,Front Hum Neurosci,Frontiers,3906.0,1,1906.0,False
-2297055X,Front Cardiovasc Med,Frontiers,3906.0,1,1906.0,False
-1095564X,Dev Biol,Elsevier,3910.0,1,1910.0,False
-18737838,Cognition,Elsevier,3910.0,1,1910.0,False
-29937175,Alcohol Clin Exp Res (Hoboken),Wiley,3910.0,1,1910.0,False
-13993062,Transpl Infect Dis,Wiley,3920.0,1,1920.0,False
-16643224,Front Immunol,Frontiers,3938.0,12,23256.0,False
-2234943X,Front Oncol,Frontiers,3938.0,3,5814.0,False
-16624548,Front Neurosci,Frontiers,3938.0,2,3876.0,False
-1664042X,Front Physiol,Frontiers,3938.0,2,3876.0,False
-19457197,J Clin Endocrinol Metab,The Endocrine Society,3938.0,2,3876.0,False
-22962565,Front Public Health,Frontiers,3938.0,2,3876.0,False
-16640640,Front Psychiatry,Frontiers,3938.0,1,1938.0,False
-15321991,Cell Calcium,Elsevier,3950.0,2,3900.0,False
-18734626,J Gastrointest Surg,Elsevier,3950.0,1,1950.0,False
-26404567,Adv Intell Syst,Wiley,3970.0,2,3940.0,False
-15328414,J Card Fail,Elsevier,3970.0,1,1970.0,False
-25751077,Life Sci Alliance,Life Science Alliance,3975.0,2,3950.0,False
-1095953X,Neurobiol Dis,Elsevier,3980.0,5,9900.0,False
-15328171,Am J Emerg Med,Elsevier,3980.0,1,1980.0,False
-18733468,FEBS Lett,Wiley,3980.0,1,1980.0,False
-17430003,J Neuroeng Rehabil,Springer Nature,3990.0,2,3980.0,False
-14351102,Arch Womens Ment Health,Springer Nature,3990.0,1,1990.0,False
-15543528,Behav Res Methods,Springer Nature,3990.0,1,1990.0,False
-20402392,Mol Autism,Springer Nature,3990.0,1,1990.0,False
-13624962,Nucleic Acids Res,Oxford University Press (OUP),3992.0,3,5976.0,False
-19394586,Mol Biol Cell,American Society for Cell Biology (ASCB),3995.0,6,11970.0,False
-25743805,JAMA Netw Open,American Medical Association (AMA),4000.0,17,34000.0,False
-22132201,J Allergy Clin Immunol Pract,Elsevier,4000.0,3,6000.0,False
-1744411X,J Clin Exp Neuropsychol,Taylor & Francis,4000.0,2,4000.0,False
-17548411,Dis Model Mech,The Company of Biologists,4000.0,2,4000.0,False
-10979891,Am J Drug Alcohol Abuse,Taylor & Francis,4000.0,1,2000.0,False
-15322491,Subst Use Misuse,Taylor & Francis,4000.0,1,2000.0,False
-10960007,Exp Eye Res,Elsevier,4010.0,3,6030.0,False
-1879260X,Biochim Biophys Acta Mol Basis Dis,Elsevier,4010.0,1,2010.0,False
-14698986,Psychophysiology,Wiley,4020.0,2,4040.0,False
-18791484,Atherosclerosis,Elsevier,4020.0,1,2020.0,False
-18737757,Child Abuse Negl,Elsevier,4050.0,2,4100.0,False
-24519030,Biol Psychiatry Cogn Neurosci Neuroimaging,Elsevier,4050.0,1,2050.0,False
-18735347,Soc Sci Med,Elsevier,4060.0,2,4120.0,False
-17417899,Reproduction,Bioscientifica,4063.0,1,2063.0,False
-20474849,Biomater Sci,Royal Society of Chemistry (RSC),4067.0,1,2067.0,False
-15322998,Stress Health,Wiley,4070.0,2,4140.0,False
-15570657,Int J Methods Psychiatr Res,Wiley,4070.0,1,2070.0,False
-17422094,J Neuroinflammation,Springer Nature,4090.0,4,8360.0,False
-23986352,NPJ Digit Med,Springer Nature,4090.0,3,6270.0,False
-15365166,J Neuroophthalmol,Wolters Kluwer,4100.0,1,2100.0,False
-15561380,J Thorac Oncol,Elsevier,4100.0,1,2100.0,False
-23289503,Ann Clin Transl Neurol,Wiley,4100.0,1,2100.0,False
-26321297,Brain Commun,Oxford University Press (OUP),4118.85,6,12713.100000000002,False
-15327361,Surgery,Elsevier,4130.0,2,4260.0,False
-18758908,J Alzheimers Dis,SAGE Publications,4150.0,2,4300.0,False
-17407753,Clin Trials,SAGE Publications,4150.0,1,2150.0,False
-18729754,Neurochem Int,Elsevier,4170.0,1,2170.0,False
-15288447,J Pain,Elsevier,4180.0,1,2180.0,False
-13674811,Bioinformatics,Oxford University Press (OUP),4188.0,2,4376.0,False
-15737217,Breast Cancer Res Treat,Springer Nature,4190.0,4,8760.0,False
-15483576,Curr HIV/AIDS Rep,Springer Nature,4190.0,3,6570.0,False
-20573995,NPJ Regen Med,Springer Nature,4190.0,3,6570.0,False
-23993642,Commun Biol,Springer Nature,4190.0,3,6570.0,False
-1466609X,Crit Care,Springer Nature,4190.0,1,2190.0,False
-17417015,BMC Med,Springer Nature,4190.0,1,2190.0,False
-15525279,Alzheimers Dement,Wiley,4200.0,22,48400.0,False
-10976787,J Am Acad Dermatol,Elsevier,4200.0,4,8800.0,False
-18790380,Curr Opin Genet Dev,Elsevier,4200.0,1,2200.0,False
-26660873,JACC CardioOncol,Elsevier,4200.0,1,2200.0,False
-27526542,PNAS Nexus,Oxford University Press (OUP),4202.0,1,2202.0,False
-18727123,Psychiatry Res,Elsevier,4230.0,1,2230.0,False
-18734596,Free Radic Biol Med,Elsevier,4240.0,1,2240.0,False
-18791026,Sci Total Environ,Elsevier,4250.0,2,4500.0,False
-23288957,Open Forum Infect Dis,Oxford University Press (OUP),4256.0,2,4512.0,False
-15691802,Matrix Biol,Elsevier,4280.0,3,6840.0,False
-20555008,NPJ Biofilms Microbiomes,Springer Nature,4290.0,3,6870.0,False
-14209071,Cell Mol Life Sci,Springer Nature,4290.0,2,4580.0,False
-15400514,Shock,Wolters Kluwer,4300.0,5,11500.0,False
-21507511,mBio,American Society for Microbiology,4300.0,5,11500.0,False
-23795077,mSystems,American Society for Microbiology,4300.0,5,11500.0,False
-1098108X,Int J Eat Disord,Wiley,4300.0,4,9200.0,False
-15464156,Alzheimer Dis Assoc Disord,Wolters Kluwer,4300.0,4,9200.0,False
-18737064,Neuropharmacology,Elsevier,4300.0,2,4600.0,False
-23795042,mSphere,American Society for Microbiology,4300.0,1,2300.0,False
-18736882,Curr Opin Neurobiol,Elsevier,4320.0,2,4640.0,False
-18785506,Sleep Med,Elsevier,4350.0,1,2350.0,False
-1879033X,Curr Opin Struct Biol,Elsevier,4360.0,1,2360.0,False
-19353456,Mucosal Immunol,Elsevier,4370.0,2,4740.0,False
-10956859,Gynecol Oncol,Elsevier,4380.0,1,2380.0,False
-15509109,Sleep,Oxford University Press (OUP),4388.0,2,4776.0,False
-15374424,J Clin Child Adolesc Psychol,Taylor & Francis,4390.0,4,9560.0,False
-13646915,Aging Ment Health,Taylor & Francis,4390.0,3,7170.0,False
-15300447,Pediatr Res,Springer Nature,4390.0,3,7170.0,False
-14322072,Psychopharmacology (Berl),Springer Nature,4390.0,1,2390.0,False
-14602202,Curr Eye Res,Taylor & Francis,4390.0,1,2390.0,False
-15739686,Ann Biomed Eng,Springer Nature,4390.0,1,2390.0,False
-15524523,J Appl Gerontol,SAGE Publications,4400.0,4,9600.0,False
-15526887,J Aging Health,SAGE Publications,4400.0,2,4800.0,False
-15457214,Am J Geriatr Psychiatry,Elsevier,4400.0,1,2400.0,False
-20013078,J Extracell Vesicles,Wiley,4410.0,2,4820.0,False
-10969888,J Mass Spectrom,Wiley,4430.0,2,4860.0,False
-15315037,J Pediatr Surg,Elsevier,4430.0,2,4860.0,False
-18764754,Brain Stimul,Elsevier,4430.0,1,2430.0,False
-18736327,Addict Behav,Elsevier,4450.0,2,4900.0,False
-14716771,Br J Anaesth,Elsevier,4450.0,1,2450.0,False
-15427714,Clin Gastroenterol Hepatol,Elsevier,4470.0,4,9880.0,False
-15318257,Mov Disord,Wiley,4480.0,3,7440.0,False
-15300285,Mod Pathol,Elsevier,4480.0,2,4960.0,False
-17480361,J Rural Health,Wiley,4480.0,1,2480.0,False
-25092723,Geroscience,Springer Nature,4490.0,6,14940.0,False
-17208319,Aging Clin Exp Res,Springer Nature,4490.0,1,2490.0,False
-15205126,J Am Chem Soc,American Chemical Society (ACS),4500.0,9,22500.0,False
-15204995,Biochemistry,American Chemical Society (ACS),4500.0,5,12500.0,False
-1520510X,Inorg Chem,American Chemical Society (ACS),4500.0,5,12500.0,False
-15206882,Anal Chem,American Chemical Society (ACS),4500.0,5,12500.0,False
-15353907,J Proteome Res,American Chemical Society (ACS),4500.0,5,12500.0,False
-15306992,Nano Lett,American Chemical Society (ACS),4500.0,4,10000.0,False
-10984275,Pediatrics,American Academy of Pediatrics (AAP),4500.0,3,7500.0,False
-15205851,Environ Sci Technol,American Chemical Society (ACS),4500.0,3,7500.0,False
-1936086X,ACS Nano,American Chemical Society (ACS),4500.0,3,7500.0,False
-19487193,ACS Chem Neurosci,American Chemical Society (ACS),4500.0,3,7500.0,False
-21541671,Hosp Pediatr,American Academy of Pediatrics (AAP),4500.0,3,7500.0,False
-21611653,ACS Macro Lett,American Chemical Society (ACS),4500.0,3,7500.0,False
-1097685X,J Thorac Cardiovasc Surg,Elsevier,4500.0,2,5000.0,False
-15206890,Chem Rev,American Chemical Society (ACS),4500.0,2,5000.0,False
-19487185,J Phys Chem Lett,American Chemical Society (ACS),4500.0,2,5000.0,False
-21615063,ACS Synth Biol,American Chemical Society (ACS),4500.0,2,5000.0,False
-00219584,J Chem Educ,American Chemical Society (ACS),4500.0,1,2500.0,False
-15204812,Bioconjug Chem,American Chemical Society (ACS),4500.0,1,2500.0,False
-15408167,J Cardiovasc Electrophysiol,Wiley,4500.0,1,2500.0,False
-15548937,ACS Chem Biol,American Chemical Society (ACS),4500.0,1,2500.0,False
-18673880,ChemCatChem,Wiley,4500.0,1,2500.0,False
-18791123,J Am Soc Mass Spectrom,American Chemical Society (ACS),4500.0,1,2500.0,False
-23793694,ACS Sens,American Chemical Society (ACS),4500.0,1,2500.0,False
-25759108,ACS Pharmacol Transl Sci,American Chemical Society (ACS),4500.0,1,2500.0,False
-14697610,J Child Psychol Psychiatry,Wiley,4530.0,1,2530.0,False
-1527974X,J Am Med Inform Assoc,Oxford University Press (OUP),4549.0,9,22941.0,False
-13990012,Clin Transplant,Wiley,4550.0,1,2550.0,False
-15206300,Am J Hum Biol,Wiley,4550.0,1,2550.0,False
-10969098,J Surg Oncol,Wiley,4570.0,9,23130.0,False
-10976833,J Pediatr,Elsevier,4570.0,1,2570.0,False
-10898638,J Mol Biol,Elsevier,4580.0,3,7740.0,False
-15733254,AIDS Behav,Springer Nature,4590.0,9,23310.0,False
-15344681,Ann Surg Oncol,Springer Nature,4590.0,5,12950.0,False
-15327558,Int J Behav Med,Springer Nature,4590.0,2,5180.0,False
-14320460,Dysphagia,Springer Nature,4590.0,1,2590.0,False
-16006143,Am J Transplant,Elsevier,4600.0,10,26000.0,False
-10991166,Int J Geriatr Psychiatry,Wiley,4600.0,1,2600.0,False
-13600443,Addiction,Wiley,4600.0,1,2600.0,False
-15244040,Neurosurgery,Wolters Kluwer,4600.0,1,2600.0,False
-19432631,Genetics,Oxford University Press (OUP),4611.0,3,7833.0,False
-14643685,Int J Epidemiol,Oxford University Press (OUP),4621.05,2,5242.1,False
-17585368,J Gerontol B Psychol Sci Soc Sci,Oxford University Press (OUP),4628.0,6,15768.0,False
-1758535X,J Gerontol A Biol Sci Med Sci,Oxford University Press (OUP),4628.0,4,10512.0,False
-13652982,Neurogastroenterol Motil,Wiley,4640.0,4,10560.0,False
-10970223,Prenat Diagn,Wiley,4640.0,1,2640.0,False
-15455017,Pediatr Blood Cancer,Wiley,4640.0,1,2640.0,False
-23669608,Small Methods,Wiley,4640.0,1,2640.0,False
-15328406,J Arthroplasty,Elsevier,4650.0,1,2650.0,False
-18737897,J Anxiety Disord,Elsevier,4650.0,1,2650.0,False
-2365709X,Adv Mater Technol,Wiley,4680.0,1,2680.0,False
-15720241,Am J Gastroenterol,Wolters Kluwer,4700.0,4,10800.0,False
-15300293,Crit Care Med,Wolters Kluwer,4700.0,2,5400.0,False
-15318249,Ann Neurol,Wiley,4700.0,1,2700.0,False
-15371948,Med Care,Wolters Kluwer,4700.0,1,2700.0,False
-18791190,J Am Coll Surg,Wolters Kluwer,4700.0,1,2700.0,False
-20457634,Cancer Med,Wiley,4700.0,1,2700.0,False
-19393806,Autism Res,Wiley,4740.0,1,2740.0,False
-18736750,Environ Int,Elsevier,4750.0,1,2750.0,False
-2452302X,JACC Basic Transl Sci,Elsevier,4750.0,1,2750.0,False
-15325415,J Am Geriatr Soc,Wiley,4760.0,5,13800.0,False
-13653016,Paediatr Perinat Epidemiol,Wiley,4770.0,2,5540.0,False
-1432069X,Arch Dermatol Res,Springer Nature,4790.0,5,13950.0,False
-15733521,J Behav Med,Springer Nature,4790.0,5,13950.0,False
-14682869,J Urban Health,Springer Nature,4790.0,2,5580.0,False
-19322267,J Cancer Surviv,Springer Nature,4790.0,2,5580.0,False
-10970142,Cancer,Wiley,4790.0,1,2790.0,False
-1873233X,Obstet Gynecol,Wolters Kluwer,4800.0,3,8400.0,False
-18735843,Arch Clin Neuropsychol,Oxford University Press (OUP),4823.0,1,2823.0,False
-20555822,ESC Heart Fail,Wiley,4850.0,1,2850.0,False
-14766256,Am J Epidemiol,Oxford University Press (OUP),4856.0,1,2856.0,False
-20476310,Pediatr Obes,Wiley,4880.0,5,14400.0,False
-21922659,Adv Healthc Mater,Wiley,4880.0,2,5760.0,False
-15590089,Neuroinformatics,Springer Nature,4890.0,1,2890.0,False
-23793708,JCI Insight,American Society for Clinical Investigation,4900.0,16,46400.0,False
-10976825,J Allergy Clin Immunol,Elsevier,4900.0,9,26100.0,False
-14735571,AIDS,Wolters Kluwer,4900.0,9,26100.0,False
-14735598,J Hypertens,Wolters Kluwer,4900.0,3,8700.0,False
-15281140,Ann Surg,Wolters Kluwer,4900.0,3,8700.0,False
-1938808X,Acad Med,Wolters Kluwer,4900.0,3,8700.0,False
-19447884,J Acquir Immune Defic Syndr,Wolters Kluwer,4900.0,2,5800.0,False
-26663899,Patterns (N Y),Elsevier,4900.0,2,5800.0,False
-1526632X,Neurology,Wolters Kluwer,4900.0,1,2900.0,False
-1533712X,J Clin Psychopharmacol,Wolters Kluwer,4900.0,1,2900.0,False
-15346080,Transplantation,Wolters Kluwer,4900.0,1,2900.0,False
-14602423,Glycobiology,Oxford University Press (OUP),4923.36,1,2923.3599999999997,False
-14755785,Inj Prev,BMJ,4953.0,2,5906.0,False
-14702738,J Epidemiol Community Health,BMJ,4953.0,1,2953.0,False
-18727980,Cancer Lett,Elsevier,4960.0,1,2960.0,False
-18781632,Spine J,Elsevier,4980.0,1,2980.0,False
-1930739X,Obesity (Silver Spring),Wiley,4980.0,1,2980.0,False
-17451701,Schizophr Bull,Oxford University Press (OUP),4981.0,2,5962.0,False
-14320533,Acta Neuropathol,Springer Nature,4990.0,5,14950.0,False
-15733610,J Community Health,Springer Nature,4990.0,1,2990.0,False
-1600065X,Immunol Rev,Wiley,5000.0,4,12000.0,False
-22131787,JACC Heart Fail,Elsevier,5000.0,2,6000.0,False
-1755148X,Pigment Cell Melanoma Res,Wiley,5000.0,1,3000.0,False
-24055018,JACC Clin Electrophysiol,Elsevier,5000.0,1,3000.0,False
-15376613,J Infect Dis,Oxford University Press (OUP),5001.0,7,21007.0,False
-15376591,Clin Infect Dis,Oxford University Press (OUP),5001.0,1,3001.0,False
-10970215,Int J Cancer,Wiley,5030.0,1,3030.0,False
-15546578,J Neuropathol Exp Neurol,Oxford University Press (OUP),5036.0,3,9108.0,False
-14602199,Cereb Cortex,Oxford University Press (OUP),5038.0,2,6076.0,False
-17496632,Ann N Y Acad Sci,Wiley,5080.0,1,3080.0,False
-15300366,Genet Med,Elsevier,5110.0,1,3110.0,False
-15235866,Neuro Oncol,Oxford University Press (OUP),5132.0,8,25056.0,False
-15376605,Am J Hum Genet,Elsevier,5150.0,2,6300.0,False
-14765551,Leukemia,Springer Nature,5190.0,2,6380.0,False
-20420226,Cell Mol Immunol,Springer Nature,5190.0,2,6380.0,False
-21968837,J Racial Ethn Health Disparities,Springer Nature,5190.0,2,6380.0,False
-13652141,Br J Haematol,Wiley,5190.0,1,3190.0,False
-14710528,BJOG,Wiley,5190.0,1,3190.0,False
-15321827,Br J Cancer,Springer Nature,5190.0,1,3190.0,False
-14779129,Development,The Company of Biologists,5200.0,4,12800.0,False
-14779137,J Cell Sci,The Company of Biologists,5200.0,4,12800.0,False
-14779145,J Exp Biol,The Company of Biologists,5200.0,3,9600.0,False
-15333450,J Am Soc Nephrol,Wolters Kluwer,5200.0,3,9600.0,False
-15416100,J Nutr,Elsevier,5200.0,3,9600.0,False
-15495469,Genome Res,Cold Spring Harbor Laboratory,5200.0,2,6400.0,False
-19383207,Am J Clin Nutr,Elsevier,5200.0,2,6400.0,False
-21565376,Adv Nutr,Elsevier,5200.0,1,3200.0,False
-1555905X,Clin J Am Soc Nephrol,Wolters Kluwer,5250.0,2,6500.0,False
-21583188,Transl Psychiatry,Springer Nature,5290.0,7,23030.0,False
-15251497,J Gen Intern Med,Springer Nature,5290.0,2,6580.0,False
-1756994X,Genome Med,Springer Nature,5290.0,2,6580.0,False
-1740634X,Neuropsychopharmacology,Springer Nature,5290.0,1,3290.0,False
-13989995,Allergy,Wiley,5300.0,1,3300.0,False
-13993038,Pediatr Allergy Immunol,Wiley,5300.0,1,3300.0,False
-15211878,Bioessays,Wiley,5330.0,3,9990.0,False
-14714159,J Neurochem,Wiley,5330.0,2,6660.0,False
-10902139,Brain Behav Immun,Elsevier,5400.0,7,23800.0,False
-14697793,J Physiol,Wiley,5400.0,7,23800.0,False
-15244539,Circulation,Wolters Kluwer,5400.0,5,17000.0,False
-15273792,J Urol,Wolters Kluwer,5400.0,5,17000.0,False
-15244636,Arterioscler Thromb Vasc Biol,Wolters Kluwer,5400.0,4,13600.0,False
-19420080,Circ Cardiovasc Imaging,Wolters Kluwer,5400.0,4,13600.0,False
-15244571,Circ Res,Wolters Kluwer,5400.0,3,10200.0,False
-15244563,Hypertension,Wolters Kluwer,5400.0,2,6800.0,False
-19413297,Circ Heart Fail,Wolters Kluwer,5400.0,2,6800.0,False
-15244628,Stroke,Wolters Kluwer,5400.0,1,3400.0,False
-19417705,Circ Cardiovasc Qual Outcomes,Wolters Kluwer,5400.0,1,3400.0,False
-25748300,Circ Genom Precis Med,Wolters Kluwer,5400.0,1,3400.0,False
-10976868,Am J Obstet Gynecol,Elsevier,5410.0,4,13640.0,False
-14602105,J Natl Cancer Inst,Oxford University Press (OUP),5436.0,1,3436.0,False
-23752548,Sci Adv,American Association for the Advancement of Science (AAAS),5450.0,16,55200.0,False
-10968652,Am J Hematol,Wiley,5450.0,1,3450.0,False
-10969896,J Pathol,Wiley,5450.0,1,3450.0,False
-18732402,Biol Psychiatry,Elsevier,5489.0,2,6978.0,False
-1474760X,Genome Biol,Springer Nature,5490.0,7,24430.0,False
-14765578,Mol Psychiatry,Springer Nature,5490.0,4,13960.0,False
-26881535,JCO Oncol Pract,American Society of Clinical Oncology (ASCO),5500.0,4,14000.0,False
-1469994X,Nicotine Tob Res,Oxford University Press (OUP),5500.0,3,10500.0,False
-15277755,J Clin Oncol,American Society of Clinical Oncology (ASCO),5500.0,1,3500.0,False
-17553245,Cardiovasc Res,Oxford University Press (OUP),5516.55,2,7033.1,False
-14683288,Gut,BMJ,5537.0,2,7074.0,False
-15346293,Curr Neurol Neurosci Rep,Springer Nature,5590.0,1,3590.0,False
-22111247,Cell Rep,Elsevier,5620.0,29,104980.0,False
-26663791,Cell Rep Med,Elsevier,5620.0,11,39820.0,False
-1879016X,Pharmacol Ther,Elsevier,5660.0,1,3660.0,False
-14320738,Arch Toxicol,Springer Nature,5690.0,1,3690.0,False
-15588238,J Clin Invest,American Society for Clinical Investigation,5700.0,74,273800.0,False
-14602156,Brain,Oxford University Press (OUP),5702.4,6,22214.399999999998,False
-00108545,Coord Chem Rev,Elsevier,5740.0,1,3740.0,False
-14765594,Oncogene,Springer Nature,5990.0,5,19950.0,False
-10916490,Proc Natl Acad Sci U S A,Proceedings of the National Academy of Sciences,5995.0,42,167790.0,False
-15408140,J Cell Biol,Rockefeller University Press,6000.0,9,36000.0,False
-23806591,JAMA Cardiol,American Medical Association (AMA),6000.0,3,12000.0,False
-21686211,JAMA Pediatr,American Medical Association (AMA),6000.0,2,8000.0,False
-21686173,JAMA Ophthalmol,American Medical Association (AMA),6000.0,1,4000.0,False
-15214095,Adv Mater,Wiley,6070.0,6,24420.0,False
-15229645,Eur Heart J,Oxford University Press (OUP),6130.8,3,12392.400000000001,False
-15292401,J Neurosci,Society for Neuroscience,6270.0,5,21350.0,False
-15491676,PLoS Med,Public Library of Science (PLoS),6460.0,1,4460.0,False
-15280020,Blood,American Society of Hematology,6600.0,1,4600.0,False
-2666979X,Cell Genom,Elsevier,6675.0,3,14025.0,False
-2214109X,Lancet Glob Health,Elsevier,6680.0,1,4680.0,False
-23524650,Lancet Child Adolesc Health,Elsevier,6680.0,1,4680.0,False
-25425196,Lancet Planet Health,Elsevier,6680.0,1,4680.0,False
-21983844,Adv Sci (Weinh),Wiley,6730.0,4,18920.0,False
-20411723,Nat Commun,Springer Nature,6990.0,59,294410.0,False
-15573125,Mol Cancer Res,American Association for Cancer Research (AACR),7000.0,3,15000.0,False
-15388514,Mol Cancer Ther,American Association for Cancer Research (AACR),7000.0,1,5000.0,False
-18790445,Curr Biol,Elsevier,7030.0,4,20120.0,False
-01689525,Trends Genet,Elsevier,7030.0,3,15090.0,False
-1471499X,Trends Mol Med,Elsevier,7030.0,2,10060.0,False
-24058025,Trends Cancer,Elsevier,7030.0,2,10060.0,False
-1878108X,Trends Neurosci,Elsevier,7030.0,1,5030.0,False
-1879307X,Trends Cogn Sci,Elsevier,7030.0,1,5030.0,False
-15583597,J Am Coll Cardiol,Elsevier,7166.0,3,15498.0,False
-14744465,Lancet Neurol,Elsevier,7280.0,8,42240.0,False
-1474547X,Lancet,Elsevier,7890.0,3,17670.0,False
-17444292,Mol Syst Biol,Springer Nature,7990.0,2,11980.0,False
-15573265,Clin Cancer Res,American Association for Cancer Research (AACR),8000.0,11,66000.0,False
-15387445,Cancer Res,American Association for Cancer Research (AACR),8000.0,3,18000.0,False
-24054720,Cell Syst,Elsevier,9350.0,1,7350.0,False
-24519448,Cell Chem Biol,Elsevier,9350.0,1,7350.0,False
-19327420,Cell Metab,Elsevier,10400.0,11,92400.0,False
-10974164,Mol Cell,Elsevier,10400.0,10,84000.0,False
-10974199,Neuron,Elsevier,10400.0,7,58800.0,False
-10974180,Immunity,Elsevier,10400.0,3,25200.0,False
-21598290,Cancer Discov,American Association for Cancer Research (AACR),11000.0,6,54000.0,False
-10974172,Cell,Elsevier,11400.0,4,37600.0,False
-15292916,Nat Immunol,Springer Nature,12690.0,26,277940.0,False
-14764687,Nature,Springer Nature,12690.0,13,138970.0,False
-1546170X,Nat Med,Springer Nature,12690.0,5,53450.0,False
-15524469,Nat Chem Biol,Springer Nature,12690.0,5,53450.0,False
-20585276,Nat Microbiol,Springer Nature,12690.0,5,53450.0,False
-25225812,Nat Metab,Springer Nature,12690.0,5,53450.0,False
-15461718,Nat Genet,Springer Nature,12690.0,4,42760.0,False
-15459985,Nat Struct Mol Biol,Springer Nature,12690.0,2,21380.0,False
-17483395,Nat Nanotechnol,Springer Nature,12690.0,2,21380.0,False
-2157846X,Nat Biomed Eng,Springer Nature,12690.0,2,21380.0,False
-15461726,Nat Neurosci,Springer Nature,12690.0,1,10690.0,False
-15487105,Nat Methods,Springer Nature,12690.0,1,10690.0,False
-2397334X,Nat Ecol Evol,Springer Nature,12690.0,1,10690.0,False
-26628465,Nat Aging,Springer Nature,12690.0,1,10690.0,False
+_issn_norm,_journal_label,_publisher,apc,papers,uncovered_total,waived,within_cap
+21567085,Biomed Opt Express,Optica Publishing Group,2005.0,3,15.0,False,False
+26325012,Sleep Adv,Oxford University Press (OUP),2054.0,4,216.0,False,False
+24725560,SLAS Discov,Elsevier,2070.0,1,70.0,False,False
+23259582,J Int Assoc Provid AIDS Care,SAGE Publications,2100.0,2,200.0,False,False
+26913593,Ann Surg Open,Wolters Kluwer,2100.0,2,200.0,False,False
+10985522,Infect Immun,American Society for Microbiology,2100.0,1,100.0,False,False
+1098660X,J Clin Microbiol,American Society for Microbiology,2100.0,1,100.0,False,False
+15328511,J Stroke Cerebrovasc Dis,Elsevier,2170.0,1,170.0,False,False
+27313395,Commun Eng,Springer Nature,2190.0,1,190.0,False,False
+2452199X,Bioact Mater,Elsevier,2200.0,6,1200.0,False,False
+20358385,Neurol Int,MDPI,2250.0,1,250.0,False,False
+24721751,Netw Neurosci,MIT Press,2250.0,1,250.0,False,False
+24058440,Heliyon,Elsevier,2270.0,4,1080.0,False,False
+26622211,Implement Sci Commun,Springer Nature,2290.0,6,1740.0,False,False
+23738731,Transplant Direct,Wolters Kluwer,2300.0,1,300.0,False,False
+19326203,PLoS One,Public Library of Science (PLoS),2382.0,15,5730.0,False,False
+20571976,Biomed Phys Eng Express,IOP Publishing,2400.0,1,400.0,False,False
+15208532,J Opt Soc Am A Opt Image Sci Vis,Optica Publishing Group,2440.0,1,440.0,False,False
+15394794,Opt Lett,Optica Publishing Group,2440.0,1,440.0,False,False
+2372952X,Chronic Obstr Pulm Dis,COPD Foundation,2450.0,1,450.0,False,False
+26878941,JCO Glob Oncol,American Society of Clinical Oncology (ASCO),2472.0,1,472.0,False,False
+20555784,Pilot Feasibility Stud,Springer Nature,2490.0,1,490.0,False,False
+2561326X,JMIR Form Res,JMIR Publications,2500.0,9,4500.0,False,False
+19355548,Diabetes Care,American Diabetes Association,2500.0,4,2000.0,False,False
+26669145,Ophthalmol Sci,Elsevier,2500.0,4,2000.0,False,False
+1939327X,Diabetes,American Diabetes Association,2500.0,3,1500.0,False,False
+15410048,Am J Public Health,American Public Health Association,2500.0,1,500.0,False,False
+25901095,Arch Rehabil Res Clin Transl,Elsevier,2500.0,1,500.0,False,False
+27679764,Cancer Res Commun,American Association for Cancer Research (AACR),2550.0,1,550.0,False,False
+17468094,Biomed Signal Process Control,Elsevier,2590.0,1,590.0,False,False
+25900595,Kidney Med,Elsevier,2590.0,1,590.0,False,False
+26322498,Neurooncol Adv,Oxford University Press (OUP),2615.0,2,1230.0,False,False
+19491042,Nucleus,Taylor & Francis,2630.0,2,1260.0,False,False
+21682208,IEEE J Biomed Health Inform,Institute of Electrical and Electronics Engineers (IEEE),2645.0,4,2580.0,False,False
+15582531,IEEE Trans Biomed Eng,Institute of Electrical and Electronics Engineers (IEEE),2645.0,1,645.0,False,False
+1558254X,IEEE Trans Med Imaging,Institute of Electrical and Electronics Engineers (IEEE),2645.0,1,645.0,False,False
+20452322,Sci Rep,Springer Nature,2690.0,23,15870.0,False,False
+20587716,Cell Death Discov,Springer Nature,2690.0,2,1380.0,False,False
+17560381,BioData Min,Springer Nature,2690.0,1,690.0,False,False
+20567936,NPJ Sci Learn,Springer Nature,2690.0,1,690.0,False,False
+21697574,Plast Reconstr Surg Glob Open,Wolters Kluwer,2695.0,1,695.0,False,False
+17580463,Database (Oxford),Oxford University Press (OUP),2729.0,1,729.0,False,False
+15677257,Infect Genet Evol,Elsevier,2730.0,1,730.0,False,False
+20760817,Pathogens,MDPI,2750.0,2,1500.0,False,False
+14673045,Curr Issues Mol Biol,MDPI,2750.0,1,750.0,False,False
+20763425,Brain Sci,MDPI,2750.0,1,750.0,False,False
+20770375,Membranes (Basel),MDPI,2750.0,1,750.0,False,False
+26319268,NAR Genom Bioinform,Oxford University Press (OUP),2766.0,1,766.0,False,False
+17456215,Trials,Springer Nature,2790.0,2,1580.0,False,False
+27314553,BMC Prim Care,Springer Nature,2790.0,1,790.0,False,False
+21501327,J Prim Care Community Health,SAGE Publications,2800.0,4,3200.0,False,False
+15252191,Am J Pathol,Elsevier,2800.0,3,2400.0,False,False
+1877718X,J Parkinsons Dis,SAGE Publications,2800.0,3,2400.0,False,False
+15276473,Liver Transpl,Wolters Kluwer,2800.0,2,1600.0,False,False
+20477163,Sci Prog,SAGE Publications,2800.0,1,800.0,False,False
+20552076,Digit Health,SAGE Publications,2800.0,1,800.0,False,False
+24680249,Kidney Int Rep,Elsevier,2800.0,1,800.0,False,False
+25424823,J Alzheimers Dis Rep,SAGE Publications,2800.0,1,800.0,False,False
+26663503,JVS Vasc Sci,Elsevier,2800.0,1,800.0,False,False
+29768357,Subst Use,SAGE Publications,2800.0,1,800.0,False,False
+24700053,Phys Rev E,American Physical Society (APS),2840.0,1,840.0,False,False
+14661268,Cell Stress Chaperones,Elsevier,2850.0,2,1700.0,False,False
+22601341,J Frailty Aging,Elsevier,2850.0,1,850.0,False,False
+24734039,JBMR Plus,Oxford University Press (OUP),2888.0,1,888.0,False,False
+26663546,Brain Behav Immun Health,Elsevier,2890.0,3,2670.0,False,False
+19400640,Addict Sci Clin Pract,Springer Nature,2890.0,2,1780.0,False,False
+2471254X,Hepatol Commun,Wolters Kluwer,2900.0,2,1800.0,False,False
+2772963X,JACC Adv,Elsevier,2936.0,3,2808.0,False,False
+14726947,BMC Med Inform Decis Mak,Springer Nature,2990.0,2,1980.0,False,False
+17501172,Orphanet J Rare Dis,Springer Nature,2990.0,2,1980.0,False,False
+13652060,Ann Med,Taylor & Francis,2990.0,1,990.0,False,False
+14712105,BMC Bioinformatics,Springer Nature,2990.0,1,990.0,False,False
+18661955,J Neurodev Disord,Springer Nature,2990.0,1,990.0,False,False
+18689884,Sex Res Social Policy,Springer Nature,2990.0,1,990.0,False,False
+2050084X,Elife,eLife,3000.0,13,13000.0,False,False
+23290382,Psychol Sex Orientat Gend Divers,American Psychological Association (APA),3000.0,9,9000.0,False,False
+2769755X,J Psychopathol Clin Sci,American Psychological Association (APA),3000.0,5,5000.0,False,False
+1532429X,J Cardiovasc Magn Reson,Elsevier,3000.0,3,3000.0,False,False
+19390602,Fam Syst Health,American Psychological Association (APA),3000.0,3,3000.0,False,False
+15420086,Biophys J,Elsevier,3000.0,2,2000.0,False,False
+19307810,Health Psychol,American Psychological Association (APA),3000.0,2,2000.0,False,False
+19311559,Neuropsychology,American Psychological Association (APA),3000.0,2,2000.0,False,False
+19330693,J Neurosurg,Journal of Neurosurgery Publishing Group (JNSPG),3000.0,2,2000.0,False,False
+10999809,Cultur Divers Ethnic Minor Psychol,American Psychological Association (APA),3000.0,1,1000.0,False,False
+15288951,J Biomech Eng,ASME International,3000.0,1,1000.0,False,False
+15903729,Nutr Metab Cardiovasc Dis,Elsevier,3000.0,1,1000.0,False,False
+1935990X,Am Psychol,American Psychological Association (APA),3000.0,1,1000.0,False,False
+1939134X,Psychol Assess,American Psychological Association (APA),3000.0,1,1000.0,False,False
+19391498,Psychol Aging,American Psychological Association (APA),3000.0,1,1000.0,False,False
+19391501,Psychol Addict Behav,American Psychological Association (APA),3000.0,1,1000.0,False,False
+1942969X,Psychol Trauma,American Psychological Association (APA),3000.0,1,1000.0,False,False
+23766972,Stigma Health,American Psychological Association (APA),3000.0,1,1000.0,False,False
+26672960,J Acad Consult Liaison Psychiatry,Elsevier,3000.0,1,1000.0,False,False
+20446055,BMJ Open,BMJ,3025.75,8,8206.0,False,False
+15537374,PLoS Pathog,Public Library of Science (PLoS),3043.0,4,4172.0,False,False
+15537358,PLoS Comput Biol,Public Library of Science (PLoS),3043.0,2,2086.0,False,False
+15537404,PLoS Genet,Public Library of Science (PLoS),3043.0,1,1043.0,False,False
+27673170,PLOS Digit Health,Public Library of Science (PLoS),3043.0,1,1043.0,False,False
+18790534,Comput Biol Med,Elsevier,3080.0,1,1080.0,False,False
+14712334,BMC Infect Dis,Springer Nature,3090.0,2,2180.0,False,False
+14712164,BMC Genomics,Springer Nature,3090.0,1,1090.0,False,False
+17501326,Mol Neurodegener,Springer Nature,3090.0,1,1090.0,False,False
+20511426,J Immunother Cancer,BMJ,3125.0,4,4500.0,False,False
+16604601,Int J Environ Res Public Health,MDPI,3125.0,1,1125.0,False,False
+15592030,Contemp Clin Trials,Elsevier,3140.0,2,2280.0,False,False
+22915222,JMIR Mhealth Uhealth,JMIR Publications,3150.0,1,1150.0,False,False
+10960341,Virology,Elsevier,3160.0,1,1160.0,False,False
+10902155,Brain Lang,Elsevier,3170.0,1,1170.0,False,False
+14795868,Int J Behav Nutr Phys Act,Springer Nature,3177.0,1,1177.0,False,False
+26737647,Front Bioinform,Frontiers,3187.5,2,2375.0,False,False
+1471230X,BMC Gastroenterol,Springer Nature,3190.0,1,1190.0,False,False
+14712318,BMC Geriatr,Springer Nature,3190.0,1,1190.0,False,False
+15283658,Mol Med,Springer Nature,3190.0,1,1190.0,False,False
+17509378,Infect Agent Cancer,Springer Nature,3190.0,1,1190.0,False,False
+2191219X,EJNMMI Res,Springer Nature,3190.0,1,1190.0,False,False
+15526259,Ann Thorac Surg,Elsevier,3200.0,1,1200.0,False,False
+19492553,Oncotarget,Impact Journals,3200.0,1,1200.0,False,False
+18790984,J Virol Methods,Elsevier,3210.0,1,1210.0,False,False
+18784321,Womens Health Issues,Elsevier,3220.0,2,2440.0,False,False
+20010370,Comput Struct Biotechnol J,Elsevier,3230.0,1,1230.0,False,False
+25890042,iScience,Elsevier,3240.0,6,7440.0,False,False
+20538790,Lupus Sci Med,BMJ,3243.0,1,1243.0,False,False
+27534294,BMJ Public Health,BMJ,3243.0,1,1243.0,False,False
+20770383,J Clin Med,MDPI,3250.0,5,6250.0,False,False
+19994915,Viruses,MDPI,3250.0,1,1250.0,False,False
+20734425,Genes (Basel),MDPI,3250.0,1,1250.0,False,False
+20751729,Life (Basel),MDPI,3250.0,1,1250.0,False,False
+20754418,Diagnostics (Basel),MDPI,3250.0,1,1250.0,False,False
+20754426,J Pers Med,MDPI,3250.0,1,1250.0,False,False
+22279059,Biomedicines,MDPI,3250.0,1,1250.0,False,False
+18737358,Eat Behav,Elsevier,3270.0,1,1270.0,False,False
+18727913,Int J Antimicrob Agents,Elsevier,3280.0,1,1280.0,False,False
+14712458,BMC Public Health,Springer Nature,3290.0,5,6450.0,False,False
+1471244X,BMC Psychiatry,Springer Nature,3290.0,2,2580.0,False,False
+14726963,BMC Health Serv Res,Springer Nature,3290.0,2,2580.0,False,False
+20426410,Biol Sex Differ,Springer Nature,3290.0,2,2580.0,False,False
+18671764,Stat Biosci,Springer Nature,3290.0,1,1290.0,False,False
+18732607,Am J Prev Med,Elsevier,3300.0,5,6500.0,False,False
+18733514,Neuropsychologia,Elsevier,3300.0,3,3900.0,False,False
+25894196,Ophthalmol Glaucoma,Elsevier,3300.0,1,1300.0,False,False
+18791379,J Psychiatr Res,Elsevier,3320.0,3,3960.0,False,False
+17412552,J Neural Eng,IOP Publishing,3325.0,2,2650.0,False,False
+14388871,J Med Internet Res,JMIR Publications,3350.0,1,1350.0,False,False
+18726240,Brain Res,Elsevier,3360.0,2,2720.0,False,False
+20734409,Cells,MDPI,3375.0,5,6875.0,False,False
+23065354,Bioengineering (Basel),MDPI,3375.0,4,5500.0,False,False
+22279032,Healthcare (Basel),MDPI,3375.0,2,2750.0,False,False
+23083425,J Cardiovasc Dev Dis,MDPI,3375.0,2,2750.0,False,False
+20762607,Microorganisms,MDPI,3375.0,1,1375.0,False,False
+20797737,Biology (Basel),MDPI,3375.0,1,1375.0,False,False
+18791913,Am J Cardiol,Elsevier,3380.0,1,1380.0,False,False
+17485908,Implement Sci,Springer Nature,3390.0,4,5560.0,False,False
+14712407,BMC Cancer,Springer Nature,3390.0,2,2780.0,False,False
+15344436,Ann Allergy Asthma Immunol,Elsevier,3400.0,1,1400.0,False,False
+10958673,J Surg Res,Elsevier,3410.0,5,7050.0,False,False
+24721972,J Endocr Soc,The Endocrine Society,3418.0,2,2836.0,False,False
+1083351X,J Biol Chem,Elsevier,3430.0,6,8580.0,False,False
+2352345X,Cell Mol Gastroenterol Hepatol,Elsevier,3430.0,3,4290.0,False,False
+15359484,Mol Cell Proteomics,Elsevier,3430.0,1,1430.0,False,False
+15397262,J Lipid Res,Elsevier,3430.0,1,1430.0,False,False
+15581497,Neurobiol Aging,Elsevier,3430.0,1,1430.0,False,False
+13652230,Clin Exp Dermatol,Oxford University Press (OUP),3433.05,1,1433.0500000000002,False,False
+29498759,J Subst Use Addict Treat,Elsevier,3440.0,5,7200.0,False,False
+10988785,Am J Perinatol,Thieme,3450.0,22,31900.0,False,False
+18690327,Appl Clin Inform,Thieme,3450.0,2,2900.0,False,False
+10976779,Gastrointest Endosc,Elsevier,3450.0,1,1450.0,False,False
+10989021,Semin Neurol,Thieme,3450.0,1,1450.0,False,False
+21650497,Microbiol Spectr,American Society for Microbiology,3450.0,1,1450.0,False,False
+18735126,Parkinsonism Relat Disord,Elsevier,3460.0,3,4380.0,False,False
+1465993X,Respir Res,Springer Nature,3490.0,1,1490.0,False,False
+19348800,Infant Behav Dev,Elsevier,3490.0,1,1490.0,False,False
+27711897,Urogynecology (Phila),Wolters Kluwer,3500.0,4,6000.0,False,False
+26386135,Radiol Cardiothorac Imaging,Radiological Society of North America (RSNA),3500.0,3,4500.0,False,False
+15271315,Radiology,Radiological Society of North America (RSNA),3500.0,1,1500.0,False,False
+1741203X,Int Psychogeriatr,Elsevier,3500.0,1,1500.0,False,False
+22110356,Mult Scler Relat Disord,Elsevier,3500.0,1,1500.0,False,False
+23692960,JMIR Public Health Surveill,JMIR Publications,3500.0,1,1500.0,False,False
+2666335X,F S Sci,Elsevier,3500.0,1,1500.0,False,False
+1938131X,Jt Comm J Qual Patient Saf,Elsevier,3510.0,2,3020.0,False,False
+27559637,Eur Heart J Imaging Methods Pract,Oxford University Press (OUP),3510.0,1,1510.0,False,False
+18727697,Int J Psychophysiol,Elsevier,3540.0,1,1540.0,False,False
+25899333,Am J Obstet Gynecol MFM,Elsevier,3550.0,4,6200.0,False,False
+14698978,Psychol Med,Cambridge University Press (CUP),3550.0,2,3100.0,False,False
+14692198,Dev Psychopathol,Cambridge University Press (CUP),3550.0,1,1550.0,False,False
+14752662,Br J Nutr,Cambridge University Press (CUP),3550.0,1,1550.0,False,False
+15328392,Hum Pathol,Elsevier,3550.0,1,1550.0,False,False
+15928721,Haematologica,Ferrata Storti Foundation (Haematologica),3574.0,1,1574.0,False,False
+19318405,AIDS Res Hum Retroviruses,Mary Ann Liebert,3600.0,3,4800.0,False,False
+15357732,J Vasc Interv Radiol,Elsevier,3600.0,1,1600.0,False,False
+1931843X,J Womens Health (Larchmt),Mary Ann Liebert,3600.0,1,1600.0,False,False
+2156535X,J Adolesc Young Adult Oncol,Mary Ann Liebert,3600.0,1,1600.0,False,False
+15573117,J Heart Lung Transplant,Elsevier,3606.0,2,3212.0,False,False
+19506007,Biomed Pharmacother,Elsevier,3610.0,1,1610.0,False,False
+14220067,Int J Mol Sci,MDPI,3625.0,11,17875.0,False,False
+20726694,Cancers (Basel),MDPI,3625.0,7,11375.0,False,False
+14248247,Pharmaceuticals (Basel),MDPI,3625.0,2,3250.0,False,False
+20726643,Nutrients,MDPI,3625.0,2,3250.0,False,False
+20763921,Antioxidants (Basel),MDPI,3625.0,2,3250.0,False,False
+15323064,Respir Med,Elsevier,3630.0,2,3260.0,False,False
+10956867,Horm Behav,Elsevier,3640.0,1,1640.0,False,False
+00220426,J Drug Issues,SAGE Publications,3650.0,1,1650.0,False,False
+02687038,Aphasiology,Taylor & Francis,3650.0,1,1650.0,False,False
+10960260,Prev Med,Elsevier,3650.0,1,1650.0,False,False
+10985549,Mol Cell Biol,Taylor & Francis,3650.0,1,1650.0,False,False
+13600451,AIDS Care,Taylor & Francis,3650.0,1,1650.0,False,False
+15332659,J Ethn Subst Abuse,Taylor & Francis,3650.0,1,1650.0,False,False
+15403602,J Homosex,Taylor & Francis,3650.0,1,1650.0,False,False
+15407586,J Psychosoc Oncol,Taylor & Francis,3650.0,1,1650.0,False,False
+15598519,J Sex Res,Taylor & Francis,3650.0,1,1650.0,False,False
+18732380,J Biomech,Elsevier,3650.0,1,1650.0,False,False
+19403208,J Am Coll Health,Taylor & Francis,3650.0,1,1650.0,False,False
+19490984,Gut Microbes,Taylor & Francis,3650.0,1,1650.0,False,False
+18732518,Vaccine,Elsevier,3680.0,1,1680.0,False,False
+23732822,eNeuro,Society for Neuroscience,3690.0,5,8450.0,False,False
+2730664X,Commun Med (Lond),Springer Nature,3690.0,2,3380.0,False,False
+15300374,Menopause,Wolters Kluwer,3700.0,3,5100.0,False,False
+15495477,Genes Dev,Cold Spring Harbor Laboratory,3700.0,1,1700.0,False,False
+15506606,J Immunol,Oxford University Press (OUP),3710.0,4,6840.0,False,False
+15275418,J Am Acad Child Adolesc Psychiatry,Elsevier,3710.0,3,5130.0,False,False
+18737714,Gen Hosp Psychiatry,Elsevier,3720.0,1,1720.0,False,False
+18726976,Arch Gerontol Geriatr,Elsevier,3750.0,1,1750.0,False,False
+1873460X,J Diabetes Complications,Elsevier,3760.0,3,5280.0,False,False
+25742531,JAMIA Open,Oxford University Press (OUP),3762.0,3,5286.0,False,False
+15557162,Am J Med,Elsevier,3770.0,2,3540.0,False,False
+15234681,J Bone Miner Res,Oxford University Press (OUP),3780.0,1,1780.0,False,False
+15410420,Biometrics,Oxford University Press (OUP),3780.0,1,1780.0,False,False
+15732517,J Affect Disord,Elsevier,3790.0,7,12530.0,False,False
+18728952,Clin Neurophysiol,Elsevier,3790.0,4,7160.0,False,False
+20515960,Acta Neuropathol Commun,Springer Nature,3790.0,1,1790.0,False,False
+23744677,NPJ Breast Cancer,Springer Nature,3790.0,1,1790.0,False,False
+19383673,J Leukoc Biol,Oxford University Press (OUP),3800.0,5,9000.0,False,False
+15231747,J Invest Dermatol,Elsevier,3800.0,3,5400.0,False,False
+10897690,J Chem Phys,AIP Publishing,3800.0,2,3600.0,False,False
+1618131X,Int J Hyg Environ Health,Elsevier,3800.0,1,1800.0,False,False
+18731708,Reprod Toxicol,Elsevier,3800.0,1,1800.0,False,False
+18787568,Acta Biomater,Elsevier,3810.0,6,10860.0,False,False
+18789307,Dev Cogn Neurosci,Elsevier,3830.0,14,25620.0,False,False
+18733360,Psychoneuroendocrinology,Elsevier,3830.0,4,7320.0,False,False
+19738102,Cortex,Elsevier,3830.0,3,5490.0,False,False
+18735134,Patient Educ Couns,Elsevier,3830.0,2,3660.0,False,False
+18791883,Am J Surg,Elsevier,3830.0,2,3660.0,False,False
+1549490X,Oncologist,Oxford University Press (OUP),3852.0,1,1852.0,False,False
+10960953,Environ Res,Elsevier,3860.0,2,3720.0,False,False
+15364844,Inflamm Bowel Dis,Oxford University Press (OUP),3862.0,2,3724.0,False,False
+18791972,J Adolesc Health,Elsevier,3870.0,4,7480.0,False,False
+14602091,J Antimicrob Chemother,Oxford University Press (OUP),3873.15,1,1873.15,False,False
+14774054,Brief Bioinform,Oxford University Press (OUP),3885.0,1,1885.0,False,False
+14795876,J Transl Med,Springer Nature,3890.0,2,3780.0,False,False
+20590105,NPJ Vaccines,Springer Nature,3890.0,2,3780.0,False,False
+23738057,NPJ Parkinsons Dis,Springer Nature,3890.0,2,3780.0,False,False
+15236838,Am J Kidney Dis,Elsevier,3900.0,6,11400.0,False,False
+15273350,Hepatology,Wolters Kluwer,3900.0,2,3800.0,False,False
+14617005,Autism,SAGE Publications,3900.0,1,1900.0,False,False
+14679280,Psychol Sci,SAGE Publications,3900.0,1,1900.0,False,False
+1872678X,J Neurosci Methods,Elsevier,3900.0,1,1900.0,False,False
+18787479,Neurotherapeutics,Elsevier,3900.0,1,1900.0,False,False
+19425546,Mayo Clin Proc,Elsevier,3900.0,1,1900.0,False,False
+21677026,Clin Psychol Sci,SAGE Publications,3900.0,1,1900.0,False,False
+26338823,Function (Oxf),Oxford University Press (OUP),3900.0,1,1900.0,False,False
+16642295,Front Neurol,Frontiers,3906.0,4,7624.0,False,False
+16625099,Front Mol Neurosci,Frontiers,3906.0,1,1906.0,False,False
+16625102,Front Cell Neurosci,Frontiers,3906.0,1,1906.0,False,False
+16625161,Front Hum Neurosci,Frontiers,3906.0,1,1906.0,False,False
+16641078,Front Psychol,Frontiers,3906.0,1,1906.0,False,False
+16648021,Front Genet,Frontiers,3906.0,1,1906.0,False,False
+2296634X,Front Cell Dev Biol,Frontiers,3906.0,1,1906.0,False,False
+2297055X,Front Cardiovasc Med,Frontiers,3906.0,1,1906.0,False,False
+2504284X,Front Educ (Lausanne),Frontiers,3906.0,1,1906.0,False,False
+1095564X,Dev Biol,Elsevier,3910.0,2,3820.0,False,False
+15732509,Schizophr Res,Elsevier,3910.0,1,1910.0,False,False
+18737838,Cognition,Elsevier,3910.0,1,1910.0,False,False
+16643224,Front Immunol,Frontiers,3938.0,9,17442.0,False,False
+19457197,J Clin Endocrinol Metab,The Endocrine Society,3938.0,3,5814.0,False,False
+2234943X,Front Oncol,Frontiers,3938.0,3,5814.0,False,False
+22962565,Front Public Health,Frontiers,3938.0,3,5814.0,False,False
+1664042X,Front Physiol,Frontiers,3938.0,2,3876.0,False,False
+16640640,Front Psychiatry,Frontiers,3938.0,2,3876.0,False,False
+16624548,Front Neurosci,Frontiers,3938.0,1,1938.0,False,False
+19457170,Endocrinology,The Endocrine Society,3938.0,1,1938.0,False,False
+18734626,J Gastrointest Surg,Elsevier,3950.0,2,3900.0,False,False
+15321991,Cell Calcium,Elsevier,3950.0,1,1950.0,False,False
+15328414,J Card Fail,Elsevier,3970.0,1,1970.0,False,False
+25751077,Life Sci Alliance,Life Science Alliance,3975.0,1,1975.0,False,False
+1095953X,Neurobiol Dis,Elsevier,3980.0,5,9900.0,False,False
+15328171,Am J Emerg Med,Elsevier,3980.0,1,1980.0,False,False
+17430003,J Neuroeng Rehabil,Springer Nature,3990.0,2,3980.0,False,False
+1868310X,J Community Genet,Springer Nature,3990.0,1,1990.0,False,False
+20402392,Mol Autism,Springer Nature,3990.0,1,1990.0,False,False
+13624962,Nucleic Acids Res,Oxford University Press (OUP),3992.0,4,7968.0,False,False
+19394586,Mol Biol Cell,American Society for Cell Biology (ASCB),3995.0,5,9975.0,False,False
+25743805,JAMA Netw Open,American Medical Association (AMA),4000.0,26,52000.0,False,False
+22132201,J Allergy Clin Immunol Pract,Elsevier,4000.0,5,10000.0,False,False
+1744411X,J Clin Exp Neuropsychol,Taylor & Francis,4000.0,2,4000.0,False,False
+10979891,Am J Drug Alcohol Abuse,Taylor & Francis,4000.0,1,2000.0,False,False
+15322491,Subst Use Misuse,Taylor & Francis,4000.0,1,2000.0,False,False
+15577740,J Palliat Med,Mary Ann Liebert,4000.0,1,2000.0,False,False
+15579077,Thyroid,Mary Ann Liebert,4000.0,1,2000.0,False,False
+17548411,Dis Model Mech,The Company of Biologists,4000.0,1,2000.0,False,False
+10960007,Exp Eye Res,Elsevier,4010.0,2,4020.0,False,False
+10976809,J Vasc Surg,Elsevier,4010.0,2,4020.0,False,False
+1879260X,Biochim Biophys Acta Mol Basis Dis,Elsevier,4010.0,1,2010.0,False,False
+18791484,Atherosclerosis,Elsevier,4020.0,2,4040.0,False,False
+15386724,Phys Ther,Oxford University Press (OUP),4035.0,1,2035.0,False,False
+18737757,Child Abuse Negl,Elsevier,4050.0,2,4100.0,False,False
+23522895,Neurobiol Stress,Elsevier,4050.0,1,2050.0,False,False
+24519030,Biol Psychiatry Cogn Neurosci Neuroimaging,Elsevier,4050.0,1,2050.0,False,False
+18735347,Soc Sci Med,Elsevier,4060.0,5,10300.0,False,False
+24260266,J Prev Alzheimers Dis,Elsevier,4060.0,2,4120.0,False,False
+17417899,Reproduction,Bioscientifica,4063.0,1,2063.0,False,False
+14639084,Phys Chem Chem Phys,Royal Society of Chemistry (RSC),4067.0,1,2067.0,False,False
+17446848,Soft Matter,Royal Society of Chemistry (RSC),4067.0,1,2067.0,False,False
+17599954,Polym Chem,Royal Society of Chemistry (RSC),4067.0,1,2067.0,False,False
+20474849,Biomater Sci,Royal Society of Chemistry (RSC),4067.0,1,2067.0,False,False
+20507518,J Mater Chem B,Royal Society of Chemistry (RSC),4067.0,1,2067.0,False,False
+23986352,NPJ Digit Med,Springer Nature,4090.0,6,12540.0,False,False
+17422094,J Neuroinflammation,Springer Nature,4090.0,3,6270.0,False,False
+15365166,J Neuroophthalmol,Wolters Kluwer,4100.0,2,4200.0,False,False
+15561380,J Thorac Oncol,Elsevier,4100.0,1,2100.0,False,False
+15251403,Neuromodulation,Elsevier,4110.0,1,2110.0,False,False
+26321297,Brain Commun,Oxford University Press (OUP),4118.85,4,8475.400000000001,False,False
+10958584,J Mol Cell Cardiol,Elsevier,4120.0,1,2120.0,False,False
+15327361,Surgery,Elsevier,4130.0,6,12780.0,False,False
+18731740,Prog Cardiovasc Dis,Elsevier,4130.0,1,2130.0,False,False
+18758908,J Alzheimers Dis,SAGE Publications,4150.0,8,17200.0,False,False
+17407753,Clin Trials,SAGE Publications,4150.0,1,2150.0,False,False
+19313543,Chest,Elsevier,4160.0,1,2160.0,False,False
+13618423,Med Image Anal,Elsevier,4170.0,1,2170.0,False,False
+18729754,Neurochem Int,Elsevier,4170.0,1,2170.0,False,False
+15280012,Gastroenterology,Elsevier,4180.0,2,4360.0,False,False
+15288447,J Pain,Elsevier,4180.0,1,2180.0,False,False
+13674811,Bioinformatics,Oxford University Press (OUP),4188.0,2,4376.0,False,False
+23993642,Commun Biol,Springer Nature,4190.0,6,13140.0,False,False
+20573995,NPJ Regen Med,Springer Nature,4190.0,3,6570.0,False,False
+1466609X,Crit Care,Springer Nature,4190.0,2,4380.0,False,False
+17417015,BMC Med,Springer Nature,4190.0,2,4380.0,False,False
+20567944,NPJ Genom Med,Springer Nature,4190.0,1,2190.0,False,False
+10976787,J Am Acad Dermatol,Elsevier,4200.0,8,17600.0,False,False
+18790380,Curr Opin Genet Dev,Elsevier,4200.0,3,6600.0,False,False
+26660873,JACC CardioOncol,Elsevier,4200.0,1,2200.0,False,False
+27526542,PNAS Nexus,Oxford University Press (OUP),4202.0,1,2202.0,False,False
+15565653,Fertil Steril,Elsevier,4220.0,1,2220.0,False,False
+18727123,Psychiatry Res,Elsevier,4230.0,1,2230.0,False,False
+18734596,Free Radic Biol Med,Elsevier,4240.0,2,4480.0,False,False
+18791026,Sci Total Environ,Elsevier,4250.0,3,6750.0,False,False
+23288957,Open Forum Infect Dis,Oxford University Press (OUP),4256.0,2,4512.0,False,False
+23522518,Curr Opin Psychol,Elsevier,4260.0,1,2260.0,False,False
+18790852,Eur J Cancer,Elsevier,4270.0,1,2270.0,False,False
+15691802,Matrix Biol,Elsevier,4280.0,1,2280.0,False,False
+14209071,Cell Mol Life Sci,Springer Nature,4290.0,2,4580.0,False,False
+17589193,Alzheimers Res Ther,Springer Nature,4290.0,2,4580.0,False,False
+20555008,NPJ Biofilms Microbiomes,Springer Nature,4290.0,1,2290.0,False,False
+21507511,mBio,American Society for Microbiology,4300.0,8,18400.0,False,False
+15400514,Shock,Wolters Kluwer,4300.0,3,6900.0,False,False
+15464156,Alzheimer Dis Assoc Disord,Wolters Kluwer,4300.0,3,6900.0,False,False
+18737064,Neuropharmacology,Elsevier,4300.0,2,4600.0,False,False
+23795077,mSystems,American Society for Microbiology,4300.0,2,4600.0,False,False
+23795042,mSphere,American Society for Microbiology,4300.0,1,2300.0,False,False
+18736882,Curr Opin Neurobiol,Elsevier,4320.0,1,2320.0,False,False
+18734758,Int J Drug Policy,Elsevier,4350.0,1,2350.0,False,False
+18785506,Sleep Med,Elsevier,4350.0,1,2350.0,False,False
+1879033X,Curr Opin Struct Biol,Elsevier,4360.0,1,2360.0,False,False
+23521546,Curr Opin Behav Sci,Elsevier,4360.0,1,2360.0,False,False
+1532866X,Semin Arthritis Rheum,Elsevier,4370.0,2,4740.0,False,False
+19353456,Mucosal Immunol,Elsevier,4370.0,2,4740.0,False,False
+15389375,J Am Med Dir Assoc,Elsevier,4370.0,1,2370.0,False,False
+10956859,Gynecol Oncol,Elsevier,4380.0,2,4760.0,False,False
+18791891,Am J Ophthalmol,Elsevier,4380.0,1,2380.0,False,False
+15509109,Sleep,Oxford University Press (OUP),4388.0,4,9552.0,False,False
+15374424,J Clin Child Adolesc Psychol,Taylor & Francis,4390.0,3,7170.0,False,False
+13646915,Aging Ment Health,Taylor & Francis,4390.0,2,4780.0,False,False
+10292403,Leuk Lymphoma,Taylor & Francis,4390.0,1,2390.0,False,False
+14602202,Curr Eye Res,Taylor & Francis,4390.0,1,2390.0,False,False
+18790410,Curr Opin Cell Biol,Elsevier,4390.0,1,2390.0,False,False
+15526887,J Aging Health,SAGE Publications,4400.0,3,7200.0,False,False
+15524531,J Biol Rhythms,SAGE Publications,4400.0,2,4800.0,False,False
+15526127,Health Educ Behav,SAGE Publications,4400.0,2,4800.0,False,False
+15457214,Am J Geriatr Psychiatry,Elsevier,4400.0,1,2400.0,False,False
+15524523,J Appl Gerontol,SAGE Publications,4400.0,1,2400.0,False,False
+1552681X,Med Decis Making,SAGE Publications,4400.0,1,2400.0,False,False
+18790372,Curr Opin Immunol,Elsevier,4410.0,1,2410.0,False,False
+15315037,J Pediatr Surg,Elsevier,4430.0,2,4860.0,False,False
+18764754,Brain Stimul,Elsevier,4430.0,2,4860.0,False,False
+18734995,J Control Release,Elsevier,4440.0,1,2440.0,False,False
+18736327,Addict Behav,Elsevier,4450.0,2,4900.0,False,False
+14716771,Br J Anaesth,Elsevier,4450.0,1,2450.0,False,False
+15427714,Clin Gastroenterol Hepatol,Elsevier,4470.0,5,12350.0,False,False
+15300285,Mod Pathol,Elsevier,4480.0,1,2480.0,False,False
+17208319,Aging Clin Exp Res,Springer Nature,4490.0,1,2490.0,False,False
+15205126,J Am Chem Soc,American Chemical Society (ACS),4500.0,9,22500.0,False,False
+15204995,Biochemistry,American Chemical Society (ACS),4500.0,4,10000.0,False,False
+15206882,Anal Chem,American Chemical Society (ACS),4500.0,4,10000.0,False,False
+15353907,J Proteome Res,American Chemical Society (ACS),4500.0,4,10000.0,False,False
+1936086X,ACS Nano,American Chemical Society (ACS),4500.0,4,10000.0,False,False
+21541671,Hosp Pediatr,American Academy of Pediatrics (AAP),4500.0,4,10000.0,False,False
+10984275,Pediatrics,American Academy of Pediatrics (AAP),4500.0,2,5000.0,False,False
+1520510X,Inorg Chem,American Chemical Society (ACS),4500.0,2,5000.0,False,False
+15205851,Environ Sci Technol,American Chemical Society (ACS),4500.0,2,5000.0,False,False
+15206890,Chem Rev,American Chemical Society (ACS),4500.0,2,5000.0,False,False
+15306992,Nano Lett,American Chemical Society (ACS),4500.0,2,5000.0,False,False
+19487185,J Phys Chem Lett,American Chemical Society (ACS),4500.0,2,5000.0,False,False
+19487193,ACS Chem Neurosci,American Chemical Society (ACS),4500.0,2,5000.0,False,False
+25759108,ACS Pharmacol Transl Sci,American Chemical Society (ACS),4500.0,2,5000.0,False,False
+00219584,J Chem Educ,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+1097685X,J Thorac Cardiovasc Surg,Elsevier,4500.0,1,2500.0,False,False
+15204812,Bioconjug Chem,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+15205207,J Phys Chem B,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+15205827,Langmuir,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+15206904,J Org Chem,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+1549960X,J Chem Inf Model,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+15548937,ACS Chem Biol,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+18673880,ChemCatChem,Wiley,4500.0,1,2500.0,False,False
+18791123,J Am Soc Mass Spectrom,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+19448252,ACS Appl Mater Interfaces,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+19485875,ACS Med Chem Lett,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+21611653,ACS Macro Lett,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+21615063,ACS Synth Biol,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+23793694,ACS Sens,American Chemical Society (ACS),4500.0,1,2500.0,False,False
+18790402,Curr Opin Chem Biol,Elsevier,4510.0,1,2510.0,False,False
+1527974X,J Am Med Inform Assoc,Oxford University Press (OUP),4549.0,21,53529.0,False,False
+10976833,J Pediatr,Elsevier,4570.0,2,5140.0,False,False
+10898638,J Mol Biol,Elsevier,4580.0,4,10320.0,False,False
+16006143,Am J Transplant,Elsevier,4600.0,4,10400.0,False,False
+15244040,Neurosurgery,Wolters Kluwer,4600.0,1,2600.0,False,False
+15297268,Biol Reprod,Oxford University Press (OUP),4605.0,2,5210.0,False,False
+19432631,Genetics,Oxford University Press (OUP),4611.0,2,5222.0,False,False
+14643685,Int J Epidemiol,Oxford University Press (OUP),4621.05,1,2621.05,False,False
+14683296,Thorax,BMJ,4627.0,1,2627.0,False,False
+1758535X,J Gerontol A Biol Sci Med Sci,Oxford University Press (OUP),4628.0,6,15768.0,False,False
+17585368,J Gerontol B Psychol Sci Soc Sci,Oxford University Press (OUP),4628.0,6,15768.0,False,False
+17585341,Gerontologist,Oxford University Press (OUP),4628.0,1,2628.0,False,False
+24739537,Blood Adv,American Society of Hematology,4635.0,1,2635.0,False,False
+18737897,J Anxiety Disord,Elsevier,4650.0,2,5300.0,False,False
+15328406,J Arthroplasty,Elsevier,4650.0,1,2650.0,False,False
+10963634,Semin Cell Dev Biol,Elsevier,4670.0,1,2670.0,False,False
+15720241,Am J Gastroenterol,Wolters Kluwer,4700.0,3,8100.0,False,False
+15371948,Med Care,Wolters Kluwer,4700.0,2,5400.0,False,False
+15384667,Ear Hear,Wolters Kluwer,4700.0,2,5400.0,False,False
+15297535,Pediatr Crit Care Med,Wolters Kluwer,4700.0,1,2700.0,False,False
+15300293,Crit Care Med,Wolters Kluwer,4700.0,1,2700.0,False,False
+18791190,J Am Coll Surg,Wolters Kluwer,4700.0,1,2700.0,False,False
+17444144,Clin Neuropsychol,Taylor & Francis,4720.0,2,5440.0,False,False
+18736750,Environ Int,Elsevier,4750.0,5,13750.0,False,False
+2452302X,JACC Basic Transl Sci,Elsevier,4750.0,1,2750.0,False,False
+18736513,J Pain Symptom Manage,Elsevier,4760.0,1,2760.0,False,False
+1873233X,Obstet Gynecol,Wolters Kluwer,4800.0,8,22400.0,False,False
+18735843,Arch Clin Neuropsychol,Oxford University Press (OUP),4823.0,4,11292.0,False,False
+14766256,Am J Epidemiol,Oxford University Press (OUP),4856.0,1,2856.0,False,False
+20597908,BMJ Glob Health,BMJ,4858.0,1,2858.0,False,False
+14735571,AIDS,Wolters Kluwer,4900.0,14,40600.0,False,False
+23793708,JCI Insight,American Society for Clinical Investigation,4900.0,11,31900.0,False,False
+19447884,J Acquir Immune Defic Syndr,Wolters Kluwer,4900.0,10,29000.0,False,False
+10976825,J Allergy Clin Immunol,Elsevier,4900.0,7,20300.0,False,False
+1526632X,Neurology,Wolters Kluwer,4900.0,3,8700.0,False,False
+15281140,Ann Surg,Wolters Kluwer,4900.0,3,8700.0,False,False
+15346080,Transplantation,Wolters Kluwer,4900.0,3,8700.0,False,False
+1938808X,Acad Med,Wolters Kluwer,4900.0,3,8700.0,False,False
+18726623,Pain,Wolters Kluwer,4900.0,2,5800.0,False,False
+14735598,J Hypertens,Wolters Kluwer,4900.0,1,2900.0,False,False
+1533712X,J Clin Psychopharmacol,Wolters Kluwer,4900.0,1,2900.0,False,False
+15392864,Retina,Wolters Kluwer,4900.0,1,2900.0,False,False
+26663899,Patterns (N Y),Elsevier,4900.0,1,2900.0,False,False
+14602423,Glycobiology,Oxford University Press (OUP),4923.36,1,2923.3599999999997,False,False
+2667193X,Lancet Reg Health Am,Elsevier,4930.0,1,2930.0,False,False
+14702738,J Epidemiol Community Health,BMJ,4953.0,1,2953.0,False,False
+14755785,Inj Prev,BMJ,4953.0,1,2953.0,False,False
+20454368,BMJ Support Palliat Care,BMJ,4953.0,1,2953.0,False,False
+18727980,Cancer Lett,Elsevier,4960.0,1,2960.0,False,False
+18781632,Spine J,Elsevier,4980.0,2,5960.0,False,False
+17451701,Schizophr Bull,Oxford University Press (OUP),4981.0,2,5962.0,False,False
+20492618,Microbiome,Springer Nature,4990.0,1,2990.0,False,False
+22131787,JACC Heart Fail,Elsevier,5000.0,4,12000.0,False,False
+15387755,Cancer Epidemiol Biomarkers Prev,American Association for Cancer Research (AACR),5000.0,1,3000.0,False,False
+1746045X,Expert Opin Drug Discov,Taylor & Francis,5000.0,1,3000.0,False,False
+18767591,JACC Cardiovasc Imaging,Elsevier,5000.0,1,3000.0,False,False
+24055018,JACC Clin Electrophysiol,Elsevier,5000.0,1,3000.0,False,False
+15376613,J Infect Dis,Oxford University Press (OUP),5001.0,4,12004.0,False,False
+15376591,Clin Infect Dis,Oxford University Press (OUP),5001.0,3,9003.0,False,False
+15546578,J Neuropathol Exp Neurol,Oxford University Press (OUP),5036.0,2,6072.0,False,False
+14602199,Cereb Cortex,Oxford University Press (OUP),5038.0,3,9114.0,False,False
+15300366,Genet Med,Elsevier,5110.0,3,9330.0,False,False
+15235866,Neuro Oncol,Oxford University Press (OUP),5132.0,5,15660.0,False,False
+15376605,Am J Hum Genet,Elsevier,5150.0,3,9450.0,False,False
+14779129,Development,The Company of Biologists,5200.0,7,22400.0,False,False
+15333450,J Am Soc Nephrol,Wolters Kluwer,5200.0,5,16000.0,False,False
+15416100,J Nutr,Elsevier,5200.0,4,12800.0,False,False
+19383207,Am J Clin Nutr,Elsevier,5200.0,3,9600.0,False,False
+15495469,Genome Res,Cold Spring Harbor Laboratory,5200.0,2,6400.0,False,False
+14779137,J Cell Sci,The Company of Biologists,5200.0,1,3200.0,False,False
+14779145,J Exp Biol,The Company of Biologists,5200.0,1,3200.0,False,False
+21565376,Adv Nutr,Elsevier,5200.0,1,3200.0,False,False
+1555905X,Clin J Am Soc Nephrol,Wolters Kluwer,5250.0,3,9750.0,False,False
+21583188,Transl Psychiatry,Springer Nature,5290.0,3,9870.0,False,False
+1756994X,Genome Med,Springer Nature,5290.0,2,6580.0,False,False
+10902139,Brain Behav Immun,Elsevier,5400.0,7,23800.0,False,False
+15244539,Circulation,Wolters Kluwer,5400.0,7,23800.0,False,False
+15244628,Stroke,Wolters Kluwer,5400.0,5,17000.0,False,False
+15244571,Circ Res,Wolters Kluwer,5400.0,4,13600.0,False,False
+15244636,Arterioscler Thromb Vasc Biol,Wolters Kluwer,5400.0,4,13600.0,False,False
+15273792,J Urol,Wolters Kluwer,5400.0,4,13600.0,False,False
+19413297,Circ Heart Fail,Wolters Kluwer,5400.0,4,13600.0,False,False
+19417705,Circ Cardiovasc Qual Outcomes,Wolters Kluwer,5400.0,2,6800.0,False,False
+19420080,Circ Cardiovasc Imaging,Wolters Kluwer,5400.0,2,6800.0,False,False
+15244563,Hypertension,Wolters Kluwer,5400.0,1,3400.0,False,False
+25748300,Circ Genom Precis Med,Wolters Kluwer,5400.0,1,3400.0,False,False
+10976868,Am J Obstet Gynecol,Elsevier,5410.0,10,34100.0,False,False
+14602105,J Natl Cancer Inst,Oxford University Press (OUP),5436.0,3,10308.0,False,False
+23752548,Sci Adv,American Association for the Advancement of Science (AAAS),5450.0,15,51750.0,False,False
+18732402,Biol Psychiatry,Elsevier,5489.0,1,3489.0,False,False
+1474760X,Genome Biol,Springer Nature,5490.0,6,20940.0,False,False
+1469994X,Nicotine Tob Res,Oxford University Press (OUP),5500.0,5,17500.0,False,False
+15277755,J Clin Oncol,American Society of Clinical Oncology (ASCO),5500.0,4,14000.0,False,False
+26881535,JCO Oncol Pract,American Society of Clinical Oncology (ASCO),5500.0,3,10500.0,False,False
+15457885,PLoS Biol,Public Library of Science (PLoS),5500.0,1,3500.0,False,False
+17553245,Cardiovasc Res,Oxford University Press (OUP),5516.55,2,7033.1,False,False
+14683288,Gut,BMJ,5537.0,2,7074.0,False,False
+22111247,Cell Rep,Elsevier,5620.0,14,50680.0,False,False
+26663791,Cell Rep Med,Elsevier,5620.0,5,18100.0,False,False
+1879016X,Pharmacol Ther,Elsevier,5660.0,1,3660.0,False,False
+15588238,J Clin Invest,American Society for Clinical Investigation,5700.0,29,107300.0,False,False
+14602156,Brain,Oxford University Press (OUP),5702.4,4,14809.599999999999,False,False
+00108545,Coord Chem Rev,Elsevier,5740.0,1,3740.0,False,False
+10916490,Proc Natl Acad Sci U S A,Proceedings of the National Academy of Sciences,5995.0,32,127840.0,False,False
+21686211,JAMA Pediatr,American Medical Association (AMA),6000.0,4,16000.0,False,False
+23806591,JAMA Cardiol,American Medical Association (AMA),6000.0,3,12000.0,False,False
+15408140,J Cell Biol,Rockefeller University Press,6000.0,2,8000.0,False,False
+15409538,J Exp Med,Rockefeller University Press,6000.0,1,4000.0,False,False
+21686173,JAMA Ophthalmol,American Medical Association (AMA),6000.0,1,4000.0,False,False
+21686238,JAMA Psychiatry,American Medical Association (AMA),6000.0,1,4000.0,False,False
+15229645,Eur Heart J,Oxford University Press (OUP),6130.8,4,16523.2,False,False
+15292401,J Neurosci,Society for Neuroscience,6270.0,8,34160.0,False,False
+15491676,PLoS Med,Public Library of Science (PLoS),6460.0,1,4460.0,False,False
+15280020,Blood,American Society of Hematology,6600.0,4,18400.0,False,False
+2666979X,Cell Genom,Elsevier,6675.0,4,18700.0,False,False
+2214109X,Lancet Glob Health,Elsevier,6680.0,1,4680.0,False,False
+23524650,Lancet Child Adolesc Health,Elsevier,6680.0,1,4680.0,False,False
+25425196,Lancet Planet Health,Elsevier,6680.0,1,4680.0,False,False
+20411723,Nat Commun,Springer Nature,6990.0,56,279440.0,False,False
+15388514,Mol Cancer Ther,American Association for Cancer Research (AACR),7000.0,2,10000.0,False,False
+15573125,Mol Cancer Res,American Association for Cancer Research (AACR),7000.0,2,10000.0,False,False
+18790445,Curr Biol,Elsevier,7030.0,4,20120.0,False,False
+01689525,Trends Genet,Elsevier,7030.0,2,10060.0,False,False
+1879307X,Trends Cogn Sci,Elsevier,7030.0,2,10060.0,False,False
+1471499X,Trends Mol Med,Elsevier,7030.0,1,5030.0,False,False
+14715007,Trends Parasitol,Elsevier,7030.0,1,5030.0,False,False
+1878108X,Trends Neurosci,Elsevier,7030.0,1,5030.0,False,False
+24058025,Trends Cancer,Elsevier,7030.0,1,5030.0,False,False
+15583597,J Am Coll Cardiol,Elsevier,7166.0,6,30996.0,False,False
+14744465,Lancet Neurol,Elsevier,7280.0,2,10560.0,False,False
+1474547X,Lancet,Elsevier,7890.0,5,29450.0,False,False
+14602075,EMBO J,Springer Nature,7990.0,1,5990.0,False,False
+17444292,Mol Syst Biol,Springer Nature,7990.0,1,5990.0,False,False
+15573265,Clin Cancer Res,American Association for Cancer Research (AACR),8000.0,12,72000.0,False,False
+15387445,Cancer Res,American Association for Cancer Research (AACR),8000.0,5,30000.0,False,False
+24519448,Cell Chem Biol,Elsevier,9350.0,2,14700.0,False,False
+18784186,Structure,Elsevier,9350.0,1,7350.0,False,False
+24054720,Cell Syst,Elsevier,9350.0,1,7350.0,False,False
+10974199,Neuron,Elsevier,10400.0,7,58800.0,False,False
+10974164,Mol Cell,Elsevier,10400.0,4,33600.0,False,False
+19327420,Cell Metab,Elsevier,10400.0,4,33600.0,False,False
+10974180,Immunity,Elsevier,10400.0,2,16800.0,False,False
+19346069,Cell Host Microbe,Elsevier,10400.0,1,8400.0,False,False
+21598290,Cancer Discov,American Association for Cancer Research (AACR),11000.0,5,45000.0,False,False
+10974172,Cell,Elsevier,11400.0,2,18800.0,False,False
+14764687,Nature,Springer Nature,12690.0,12,128280.0,False,False
+15461718,Nat Genet,Springer Nature,12690.0,8,85520.0,False,False
+1546170X,Nat Med,Springer Nature,12690.0,7,74830.0,False,False
+15461726,Nat Neurosci,Springer Nature,12690.0,5,53450.0,False,False
+15292916,Nat Immunol,Springer Nature,12690.0,4,42760.0,False,False
+15524469,Nat Chem Biol,Springer Nature,12690.0,4,42760.0,False,False
+15487105,Nat Methods,Springer Nature,12690.0,2,21380.0,False,False
+20585276,Nat Microbiol,Springer Nature,12690.0,2,21380.0,False,False
+25225812,Nat Metab,Springer Nature,12690.0,2,21380.0,False,False
+15459985,Nat Struct Mol Biol,Springer Nature,12690.0,1,10690.0,False,False
+17483395,Nat Nanotechnol,Springer Nature,12690.0,1,10690.0,False,False
+2157846X,Nat Biomed Eng,Springer Nature,12690.0,1,10690.0,False,False
+2397334X,Nat Ecol Evol,Springer Nature,12690.0,1,10690.0,False,False
+26628465,Nat Aging,Springer Nature,12690.0,1,10690.0,False,False
+27310590,Nat Cardiovasc Res,Springer Nature,12690.0,1,10690.0,False,False

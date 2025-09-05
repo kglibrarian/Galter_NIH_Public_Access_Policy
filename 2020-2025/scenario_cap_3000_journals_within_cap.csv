@@ -1,268 +1,772 @@
-_issn_norm,_journal_label,_publisher,apc,papers,uncovered_total,within_cap
-15221466,Am J Physiol Renal Physiol,American Physiological Society,0.0,17,0.0,True
-15221504,Am J Physiol Lung Cell Mol Physiol,American Physiological Society,0.0,13,0.0,True
-15221547,Am J Physiol Gastrointest Liver Physiol,American Physiological Society,0.0,10,0.0,True
-23747943,ACS Cent Sci,American Chemical Society (ACS),0.0,8,0.0,True
-15534014,Annu Rev Pathol,Annual Reviews,0.0,6,0.0,True
-20416520,Chem Sci,Royal Society of Chemistry (RSC),0.0,6,0.0,True
-15529924,Environ Health Perspect,Environmental Health Perspectives,0.0,4,0.0,True
-14708736,Clin Sci (Lond),Portland Press,0.0,2,0.0,True
-14708752,Biochem Soc Trans,Portland Press,0.0,2,0.0,True
-15221490,Am J Physiol Regul Integr Comp Physiol,American Physiological Society,0.0,2,0.0,True
-15221601,J Appl Physiol (1985),American Physiological Society,0.0,2,0.0,True
-15441717,Ann Fam Med,Annals of Family Medicine,0.0,2,0.0,True
-15587118,J Am Board Fam Med,American Board of Family Medicine (ABFM),0.0,2,0.0,True
-14219859,Dev Neurosci,Karger Publishers,0.0,1,0.0,True
-15221555,Am J Physiol Endocrinol Metab,American Physiological Society,0.0,1,0.0,True
-15357597,Epilepsy Curr,SAGE Publications,0.0,1,0.0,True
-19362692,Am J Manag Care,"Clinical Care Targeted Communications Group, LLC",0.0,1,0.0,True
-25730142,Proc ACM Hum Comput Interact,Association for Computing Machinery (ACM),350.0,9,0.0,True
-25789430,MicroPubl Biol,Caltech Library,350.0,4,0.0,True
-21688184,Cureus,Springer Nature,590.0,2,0.0,True
-26660849,JACC Case Rep,Elsevier,850.0,2,0.0,True
-15221598,J Neurophysiol,American Physiological Society,995.0,18,0.0,True
-15221539,Am J Physiol Heart Circ Physiol,American Physiological Society,995.0,12,0.0,True
-15221563,Am J Physiol Cell Physiol,American Physiological Society,995.0,2,0.0,True
-26334895,Implement Res Pract,SAGE Publications,1000.0,3,0.0,True
-17470161,Res Ethics,SAGE Publications,1000.0,1,0.0,True
-23968923,Biol Methods Protoc,Oxford University Press (OUP),1120.0,1,0.0,True
-23318325,Bio Protoc,Bio-Protocol,1200.0,6,0.0,True
-15308898,J Cogn Neurosci,MIT Press,1250.0,8,0.0,True
-22150161,MethodsX,Elsevier,1260.0,1,0.0,True
-19384114,J Stud Alcohol Drugs,Alcohol Research Documentation,1275.0,4,0.0,True
-27314251,Npj Ment Health Res,Springer Nature,1390.0,3,0.0,True
-23069740,Mhealth,AME Publishing Company,1390.0,1,0.0,True
-2576098X,Microbiol Resour Announc,American Society for Microbiology,1400.0,12,0.0,True
-2398502X,Wellcome Open Res,Taylor & Francis,1408.0,3,0.0,True
-26911191,JASA Express Lett,Acoustical Society of America (ASA),1450.0,4,0.0,True
-27536130,Glob Adv Integr Med Health,SAGE Publications,1500.0,1,0.0,True
-26665603,SSM Ment Health,Elsevier,1540.0,2,0.0,True
-26661667,STAR Protoc,Elsevier,1550.0,28,0.0,True
-10985514,J Virol,American Society for Microbiology,1580.0,32,0.0,True
-24519936,Am J Ophthalmol Case Rep,Elsevier,1590.0,1,0.0,True
-28376056,Imaging Neurosci (Camb),MIT Press,1600.0,7,0.0,True
-20461402,F1000Res,Taylor & Francis,1643.0,1,0.0,True
-23120541,ERJ Open Res,European Respiratory Society (ERS),1659.0,3,0.0,True
-15602281,J Biomed Opt,"SPIE, the international society for optics and photonics",1675.0,5,0.0,True
-23294302,J Med Imaging (Bellingham),"SPIE, the international society for optics and photonics",1675.0,2,0.0,True
-20721439,J Thorac Dis,AME Publishing Company,1680.0,10,0.0,True
-17560500,BMC Res Notes,Springer Nature,1690.0,1,0.0,True
-25737732,Immunohorizons,Oxford University Press (OUP),1700.0,10,0.0,True
-20462069,RSC Adv,Royal Society of Chemistry (RSC),1762.0,3,0.0,True
-27726282,PEC Innov,Elsevier,1790.0,3,0.0,True
-1940087X,J Vis Exp,MyJove,1800.0,15,0.0,True
-26417650,Kidney360,Wolters Kluwer,1800.0,15,0.0,True
-26414368,Neurobiol Lang (Camb),MIT Press,1800.0,5,0.0,True
-15525783,Invest Ophthalmol Vis Sci,Association for Research in Vision and Ophthalmology (ARVO),1850.0,29,0.0,True
-26629992,Humanit Soc Sci Commun,Springer Nature,1890.0,1,0.0,True
-19290748,JMIR Res Protoc,JMIR Publications,1900.0,17,0.0,True
-22118179,Glob Heart,Ubiquity Press,1900.0,1,0.0,True
-26666677,Am J Prev Cardiol,Elsevier,1900.0,1,0.0,True
-24701343,ACS Omega,American Chemical Society (ACS),1935.0,2,0.0,True
-21642591,Transl Vis Sci Technol,Association for Research in Vision and Ophthalmology (ARVO),1950.0,12,0.0,True
-26665778,AJOG Glob Rep,Elsevier,1980.0,1,0.0,True
-23691999,JMIR Cancer,JMIR Publications,1985.0,7,0.0,True
-22929495,JMIR Hum Factors,JMIR Publications,1985.0,5,0.0,True
-25616722,JMIR Pediatr Parent,JMIR Publications,1985.0,3,0.0,True
-25617605,JMIR Aging,JMIR Publications,1985.0,2,0.0,True
-23714379,JMIR Diabetes,JMIR Publications,1985.0,1,0.0,True
-25098020,J Patient Rep Outcomes,Springer Nature,1990.0,6,0.0,True
-21678359,PeerJ,PeerJ,1995.0,1,0.0,True
-15354989,Am J Respir Cell Mol Biol,American Thoracic Society,2000.0,71,0.0,True
-15354970,Am J Respir Crit Care Med,American Thoracic Society,2000.0,40,0.0,True
-15589102,J Speech Lang Hear Res,American Speech Language Hearing Association,2000.0,18,0.0,True
-23256621,Ann Am Thorac Soc,American Thoracic Society,2000.0,18,0.0,True
-15589110,Am J Speech Lang Pathol,American Speech Language Hearing Association,2000.0,16,0.0,True
-26398028,Crit Care Explor,Wolters Kluwer,2000.0,11,0.0,True
-15407748,J Gen Physiol,Rockefeller University Press,2000.0,6,0.0,True
-24731242,Health Equity,Mary Ann Liebert,2000.0,6,0.0,True
-26663341,F S Rep,Elsevier,2000.0,3,0.0,True
-26670267,JID Innov,Elsevier,2000.0,3,0.0,True
-27725723,Gastro Hep Adv,Elsevier,2000.0,3,0.0,True
-27728293,J Allergy Clin Immunol Glob,Elsevier,2000.0,2,0.0,True
-19385404,Radiat Res,Radiation Research Society,2000.0,1,0.0,True
-21567085,Biomed Opt Express,Optica Publishing Group,2005.0,10,0.0,True
-2051817X,Physiol Rep,Wiley,2050.0,6,0.0,True
-25155091,JNCI Cancer Spectr,Oxford University Press (OUP),2050.0,2,0.0,True
-26325012,Sleep Adv,Oxford University Press (OUP),2054.0,1,0.0,True
-24725560,SLAS Discov,Elsevier,2070.0,1,0.0,True
-15580210,IEEE Trans Neural Syst Rehabil Eng,Institute of Electrical and Electronics Engineers (IEEE),2075.0,7,0.0,True
-21693536,IEEE Access,Institute of Electrical and Electronics Engineers (IEEE),2075.0,1,0.0,True
-23796146,Learn Health Syst,Wiley,2080.0,5,0.0,True
-10986596,Antimicrob Agents Chemother,American Society for Microbiology,2100.0,20,0.0,True
-10985530,J Bacteriol,American Society for Microbiology,2100.0,15,0.0,True
-10985522,Infect Immun,American Society for Microbiology,2100.0,9,0.0,True
-1098660X,J Clin Microbiol,American Society for Microbiology,2100.0,8,0.0,True
-15365964,Medicine (Baltimore),Wolters Kluwer,2100.0,4,0.0,True
-23259582,J Int Assoc Provid AIDS Care,SAGE Publications,2100.0,4,0.0,True
-26913593,Ann Surg Open,Wolters Kluwer,2100.0,3,0.0,True
-10985336,Appl Environ Microbiol,American Society for Microbiology,2100.0,1,0.0,True
-27727246,Drug Alcohol Depend Rep,Elsevier,2120.0,1,0.0,True
-15328511,J Stroke Cerebrovasc Dis,Elsevier,2170.0,26,0.0,True
-27313395,Commun Eng,Springer Nature,2190.0,1,0.0,True
-20466390,Biol Open,The Company of Biologists,2200.0,6,0.0,True
-2452199X,Bioact Mater,Elsevier,2200.0,6,0.0,True
-22115463,FEBS Open Bio,Wiley,2210.0,1,0.0,True
-24750379,Res Pract Thromb Haemost,Elsevier,2250.0,5,0.0,True
-24721751,Netw Neurosci,MIT Press,2250.0,2,0.0,True
-20358385,Neurol Int,MDPI,2250.0,1,0.0,True
-26622211,Implement Sci Commun,Springer Nature,2290.0,14,0.0,True
-20550928,BMC Nutr,Springer Nature,2290.0,2,0.0,True
-21971714,Inj Epidemiol,Springer Nature,2290.0,1,0.0,True
-23738731,Transplant Direct,Wolters Kluwer,2300.0,6,0.0,True
-22919694,JMIR Med Inform,JMIR Publications,2300.0,2,0.0,True
-20458932,Pulm Circ,Wiley,2310.0,4,0.0,True
-24518654,Contemp Clin Trials Commun,Elsevier,2320.0,6,0.0,True
-18767753,Stem Cell Res,Elsevier,2360.0,2,0.0,True
-19326203,PLoS One,Public Library of Science (PLoS),2382.0,152,0.0,True
-26670747,Biophys Rep (N Y),Elsevier,2400.0,1,0.0,True
-23996641,BMJ Open Qual,BMJ,2429.0,3,0.0,True
-29961394,JCSM Commun,Wiley,2430.0,2,0.0,True
-26662736,JTCVS Open,Elsevier,2431.0,1,0.0,True
-15394794,Opt Lett,Optica Publishing Group,2440.0,5,0.0,True
-10944087,Opt Express,Optica Publishing Group,2440.0,2,0.0,True
-15208532,J Opt Soc Am A Opt Image Sci Vis,Optica Publishing Group,2440.0,1,0.0,True
-2372952X,Chronic Obstr Pulm Dis,COPD Foundation,2450.0,1,0.0,True
-20585888,Environ Epigenet,Oxford University Press (OUP),2471.0,1,0.0,True
-26878941,JCO Glob Oncol,American Society of Clinical Oncology (ASCO),2472.0,4,0.0,True
-25729241,Hemasphere,Wiley,2480.0,1,0.0,True
-20524463,Sci Data,Springer Nature,2490.0,3,0.0,True
-20555784,Pilot Feasibility Stud,Springer Nature,2490.0,2,0.0,True
-27673375,PLOS Glob Public Health,Public Library of Science (PLoS),2496.0,6,0.0,True
-28378156,PLOS Ment Health,Public Library of Science (PLoS),2496.0,2,0.0,True
-2561326X,JMIR Form Res,JMIR Publications,2500.0,42,0.0,True
-19355548,Diabetes Care,American Diabetes Association,2500.0,22,0.0,True
-1939327X,Diabetes,American Diabetes Association,2500.0,11,0.0,True
-15410048,Am J Public Health,American Public Health Association,2500.0,7,0.0,True
-1936959X,AJNR Am J Neuroradiol,American Society of Neuroradiology (ASNR),2500.0,5,0.0,True
-26669145,Ophthalmol Sci,Elsevier,2500.0,5,0.0,True
-25901095,Arch Rehabil Res Clin Transl,Elsevier,2500.0,2,0.0,True
-24521094,Adv Radiat Oncol,Elsevier,2500.0,1,0.0,True
-26884844,Womens Health Rep (New Rochelle),Mary Ann Liebert,2500.0,1,0.0,True
-29497884,CHEST Crit Care,Elsevier,2500.0,1,0.0,True
-23528737,Alzheimers Dement (N Y),Wiley,2540.0,24,0.0,True
-23528729,Alzheimers Dement (Amst),Wiley,2540.0,18,0.0,True
-27679764,Cancer Res Commun,American Association for Cancer Research (AACR),2550.0,7,0.0,True
-10958541,J Theor Biol,Elsevier,2550.0,2,0.0,True
-20457758,Ecol Evol,Wiley,2570.0,1,0.0,True
-25900595,Kidney Med,Elsevier,2590.0,7,0.0,True
-15208524,J Acoust Soc Am,Acoustical Society of America (ASA),2600.0,2,0.0,True
-17582652,J Int AIDS Soc,Wiley,2600.0,2,0.0,True
-22113355,Prev Med Rep,Elsevier,2610.0,3,0.0,True
-26322498,Neurooncol Adv,Oxford University Press (OUP),2615.0,13,0.0,True
-23102861,Gels,MDPI,2625.0,1,0.0,True
-19491042,Nucleus,Taylor & Francis,2630.0,2,0.0,True
-17590914,ASN Neuro,Taylor & Francis,2630.0,1,0.0,True
-1558254X,IEEE Trans Med Imaging,Institute of Electrical and Electronics Engineers (IEEE),2645.0,12,0.0,True
-15582531,IEEE Trans Biomed Eng,Institute of Electrical and Electronics Engineers (IEEE),2645.0,7,0.0,True
-21682208,IEEE J Biomed Health Inform,Institute of Electrical and Electronics Engineers (IEEE),2645.0,6,0.0,True
-19409990,IEEE Trans Biomed Circuits Syst,Institute of Electrical and Electronics Engineers (IEEE),2645.0,1,0.0,True
-19352735,PLoS Negl Trop Dis,Public Library of Science (PLoS),2670.0,2,0.0,True
-20452322,Sci Rep,Springer Nature,2690.0,173,0.0,True
-20567936,NPJ Sci Learn,Springer Nature,2690.0,5,0.0,True
-17560381,BioData Min,Springer Nature,2690.0,1,0.0,True
-20587716,Cell Death Discov,Springer Nature,2690.0,1,0.0,True
-29500044,J Mood Anxiety Disord,Elsevier,2700.0,1,0.0,True
-26929384,JCPP Adv,Wiley,2705.0,3,0.0,True
-17580463,Database (Oxford),Oxford University Press (OUP),2729.0,6,0.0,True
-25901125,Clin Park Relat Disord,Elsevier,2730.0,1,0.0,True
-23687959,JMIR Ment Health,JMIR Publications,2750.0,12,0.0,True
-20763425,Brain Sci,MDPI,2750.0,8,0.0,True
-20760817,Pathogens,MDPI,2750.0,6,0.0,True
-14673045,Curr Issues Mol Biol,MDPI,2750.0,1,0.0,True
-24054577,Clin Nutr ESPEN,Elsevier,2750.0,1,0.0,True
-26319268,NAR Genom Bioinform,Oxford University Press (OUP),2766.0,4,0.0,True
-26884526,BJUI Compass,Wiley,2770.0,1,0.0,True
-16180631,Pathol Res Pract,Elsevier,2780.0,1,0.0,True
-23975776,Trauma Surg Acute Care Open,BMJ,2785.0,1,0.0,True
-17456215,Trials,Springer Nature,2790.0,19,0.0,True
-14712296,BMC Fam Pract,Springer Nature,2790.0,2,0.0,True
-21601836,G3 (Bethesda),Oxford University Press (OUP),2790.0,2,0.0,True
-27314553,BMC Prim Care,Springer Nature,2790.0,1,0.0,True
-2948197X,Npj Imaging,Springer Nature,2790.0,1,0.0,True
-14712954,Proc Biol Sci,The Royal Society,2795.0,1,0.0,True
-14712970,Philos Trans R Soc Lond B Biol Sci,The Royal Society,2795.0,1,0.0,True
-15252191,Am J Pathol,Elsevier,2800.0,21,0.0,True
-15276473,Liver Transpl,Wolters Kluwer,2800.0,10,0.0,True
-21501327,J Prim Care Community Health,SAGE Publications,2800.0,10,0.0,True
-24680249,Kidney Int Rep,Elsevier,2800.0,9,0.0,True
-1877718X,J Parkinsons Dis,SAGE Publications,2800.0,7,0.0,True
-25424823,J Alzheimers Dis Rep,SAGE Publications,2800.0,5,0.0,True
-20552076,Digit Health,SAGE Publications,2800.0,2,0.0,True
-15262359,Cancer Control,SAGE Publications,2800.0,1,0.0,True
-15470164,Subst Abus,SAGE Publications,2800.0,1,0.0,True
-15553892,Cell Transplant,SAGE Publications,2800.0,1,0.0,True
-15579891,Am J Mens Health,SAGE Publications,2800.0,1,0.0,True
-20477163,Sci Prog,SAGE Publications,2800.0,1,0.0,True
-20499361,Ther Adv Infect Dis,SAGE Publications,2800.0,1,0.0,True
-29768357,Subst Use,SAGE Publications,2800.0,1,0.0,True
-26666022,Am Heart J Plus,Elsevier,2810.0,3,0.0,True
-26330679,RSC Chem Biol,Royal Society of Chemistry (RSC),2847.0,1,0.0,True
-17596653,Genome Biol Evol,Oxford University Press (OUP),2850.0,4,0.0,True
-14661268,Cell Stress Chaperones,Elsevier,2850.0,3,0.0,True
-22601341,J Frailty Aging,Elsevier,2850.0,2,0.0,True
-26886146,EJHaem,Wiley,2860.0,1,0.0,True
-18726844,Epilepsy Res,Elsevier,2880.0,1,0.0,True
-24734039,JBMR Plus,Oxford University Press (OUP),2888.0,2,0.0,True
-26663546,Brain Behav Immun Health,Elsevier,2890.0,10,0.0,True
-19400640,Addict Sci Clin Pract,Springer Nature,2890.0,5,0.0,True
-14726874,BMC Womens Health,Springer Nature,2890.0,1,0.0,True
-14752875,Malar J,Springer Nature,2890.0,1,0.0,True
-20453701,Cell Biosci,Springer Nature,2890.0,1,0.0,True
-23806761,Bioeng Transl Med,Wiley,2890.0,1,0.0,True
-2471254X,Hepatol Commun,Wolters Kluwer,2900.0,10,0.0,True
-23788038,Laryngoscope Investig Otolaryngol,Wiley,2900.0,5,0.0,True
-18783511,Int J Infect Dis,Elsevier,2900.0,1,0.0,True
-23528273,SSM Popul Health,Elsevier,2930.0,1,0.0,True
-2772963X,JACC Adv,Elsevier,2936.0,8,0.0,True
-18734332,J Pediatr Adolesc Gynecol,Elsevier,2950.0,1,0.0,True
-21576580,Stem Cells Transl Med,Oxford University Press (OUP),2963.0,3,0.0,True
-15322688,Seizure,Elsevier,2970.0,3,0.0,True
-18727905,J Immunol Methods,Elsevier,2970.0,1,0.0,True
-18791271,"Clin Biomech (Bristol, Avon)",Elsevier,2980.0,2,0.0,True
-14726947,BMC Med Inform Decis Mak,Springer Nature,2990.0,16,0.0,True
-14726920,BMC Med Educ,Springer Nature,2990.0,4,0.0,True
-18689884,Sex Res Social Policy,Springer Nature,2990.0,3,0.0,True
-27307174,Res Child Adolesc Psychopathol,Springer Nature,2990.0,3,0.0,True
-11775467,Clin Ophthalmol,Taylor & Francis,2990.0,2,0.0,True
-17501172,Orphanet J Rare Dis,Springer Nature,2990.0,2,0.0,True
-25787470,HIV Res Clin Pract,Taylor & Francis,2990.0,2,0.0,True
-13652060,Ann Med,Taylor & Francis,2990.0,1,0.0,True
-17426405,AIDS Res Ther,Springer Nature,2990.0,1,0.0,True
-2050084X,Elife,eLife,3000.0,121,0.0,True
-23290382,Psychol Sex Orientat Gend Divers,American Psychological Association (APA),3000.0,23,0.0,True
-19392117,J Consult Clin Psychol,American Psychological Association (APA),3000.0,17,0.0,True
-1532429X,J Cardiovasc Magn Reson,Elsevier,3000.0,16,0.0,True
-15509397,J Clin Sleep Med,American Academy of Sleep Medicine (AASM),3000.0,13,0.0,True
-19391315,J Pers Soc Psychol,American Psychological Association (APA),3000.0,13,0.0,True
-19391498,Psychol Aging,American Psychological Association (APA),3000.0,12,0.0,True
-15420086,Biophys J,Elsevier,3000.0,11,0.0,True
-2769755X,J Psychopathol Clin Sci,American Psychological Association (APA),3000.0,11,0.0,True
-19330693,J Neurosurg,Journal of Neurosurgery Publishing Group (JNSPG),3000.0,9,0.0,True
-19390602,Fam Syst Health,American Psychological Association (APA),3000.0,8,0.0,True
-1939134X,Psychol Assess,American Psychological Association (APA),3000.0,8,0.0,True
-19307810,Health Psychol,American Psychological Association (APA),3000.0,7,0.0,True
-14761645,Am J Trop Med Hyg,American Society of Tropical Medicine and Hygiene,3000.0,6,0.0,True
-1935990X,Am Psychol,American Psychological Association (APA),3000.0,6,0.0,True
-23527226,Sleep Health,Elsevier,3000.0,5,0.0,True
-10999809,Cultur Divers Ethnic Minor Psychol,American Psychological Association (APA),3000.0,4,0.0,True
-15288951,J Biomech Eng,ASME International,3000.0,4,0.0,True
-19311559,Neuropsychology,American Psychological Association (APA),3000.0,4,0.0,True
-19390084,Behav Neurosci,American Psychological Association (APA),3000.0,4,0.0,True
-19391293,J Fam Psychol,American Psychological Association (APA),3000.0,4,0.0,True
-19391501,Psychol Addict Behav,American Psychological Association (APA),3000.0,4,0.0,True
-23766972,Stigma Health,American Psychological Association (APA),3000.0,4,0.0,True
-19390025,Am J Orthopsychiatry,American Psychological Association (APA),3000.0,3,0.0,True
-19391463,Psychol Methods,American Psychological Association (APA),3000.0,3,0.0,True
-19392222,J Exp Psychol Gen,American Psychological Association (APA),3000.0,3,0.0,True
-21520828,Psychol Violence,American Psychological Association (APA),3000.0,3,0.0,True
-00220167,J Couns Psychol,American Psychological Association (APA),3000.0,2,0.0,True
-19311516,Emotion,American Psychological Association (APA),3000.0,2,0.0,True
-19362293,Exp Clin Psychopharmacol,American Psychological Association (APA),3000.0,2,0.0,True
-19391471,Psychol Rev,American Psychological Association (APA),3000.0,2,0.0,True
-2379139X,Tomography,MDPI,3000.0,2,0.0,True
-15903729,Nutr Metab Cardiovasc Dis,Elsevier,3000.0,1,0.0,True
-19437811,J Mol Diagn,Elsevier,3000.0,1,0.0,True
-21694826,Clin Pract Pediatr Psychol,SAGE Publications,3000.0,1,0.0,True
-22279067,Children (Basel),MDPI,3000.0,1,0.0,True
-24712531,Pain Rep,Wolters Kluwer,3000.0,1,0.0,True
+_issn_norm,_journal_label,_publisher,apc,papers,uncovered_total,waived,within_cap
+15525279,Alzheimers Dement,Wiley,0.0,136,0.0,True,True
+20479980,J Am Heart Assoc,Wolters Kluwer,0.0,100,0.0,True,True
+15733254,AIDS Behav,Springer Nature,0.0,57,0.0,True,True
+15251497,J Gen Intern Med,Springer Nature,0.0,39,0.0,True,True
+15325415,J Am Geriatr Soc,Wiley,0.0,36,0.0,True,True
+13652982,Neurogastroenterol Motil,Wiley,0.0,35,0.0,True,True
+15222594,Magn Reson Med,Wiley,0.0,35,0.0,True,True
+15206777,Neurourol Urodyn,Wiley,0.0,33,0.0,True,True
+21514658,Arthritis Care Res (Hoboken),Wiley,0.0,29,0.0,True,True
+10969098,J Surg Oncol,Wiley,0.0,28,0.0,True,True
+10970142,Cancer,Wiley,0.0,28,0.0,True,True
+15732800,Arch Sex Behav,Springer Nature,0.0,27,0.0,True,True
+1432069X,Arch Dermatol Res,Springer Nature,0.0,25,0.0,True,True
+15306860,FASEB J,Wiley,0.0,25,0.0,True,True
+10970258,Stat Med,Wiley,0.0,24,0.0,True,True
+14697793,J Physiol,Wiley,0.0,24,0.0,True,True
+15222586,J Magn Reson Imaging,Wiley,0.0,22,0.0,True,True
+21968837,J Racial Ethn Health Disparities,Springer Nature,0.0,22,0.0,True,True
+23265205,Arthritis Rheumatol,Wiley,0.0,22,0.0,True,True
+10970193,Hum Brain Mapp,Wiley,0.0,21,0.0,True,True
+15318257,Mov Disord,Wiley,0.0,21,0.0,True,True
+15344681,Ann Surg Oncol,Springer Nature,0.0,21,0.0,True,True
+23528729,Alzheimers Dement (Amst),Wiley,0.0,21,0.0,True,True
+14320533,Acta Neuropathol,Springer Nature,0.0,20,0.0,True,True
+18790844,Eur J Heart Fail,Wiley,0.0,20,0.0,True,True
+15213773,Angew Chem Int Ed Engl,Wiley,0.0,19,0.0,True,True
+10991611,Psychooncology,Wiley,0.0,18,0.0,True,True
+14765578,Mol Psychiatry,Springer Nature,0.0,18,0.0,True,True
+1930739X,Obesity (Silver Spring),Wiley,0.0,18,0.0,True,True
+23289503,Ann Clin Transl Neurol,Wiley,0.0,18,0.0,True,True
+15732649,Qual Life Res,Springer Nature,0.0,17,0.0,True,True
+23528737,Alzheimers Dement (N Y),Wiley,0.0,17,0.0,True,True
+1098108X,Int J Eat Disord,Wiley,0.0,16,0.0,True,True
+15318249,Ann Neurol,Wiley,0.0,16,0.0,True,True
+15733521,J Behav Med,Springer Nature,0.0,16,0.0,True,True
+13989995,Allergy,Wiley,0.0,15,0.0,True,True
+14765594,Oncogene,Springer Nature,0.0,15,0.0,True,True
+15300447,Pediatr Res,Springer Nature,0.0,15,0.0,True,True
+15560961,Neurocrit Care,Springer Nature,0.0,15,0.0,True,True
+19341563,PM R,Wiley,0.0,15,0.0,True,True
+14320460,Dysphagia,Springer Nature,0.0,14,0.0,True,True
+1469896X,Protein Sci,Wiley,0.0,14,0.0,True,True
+15327558,Int J Behav Med,Springer Nature,0.0,14,0.0,True,True
+15326535,Clin Pharmacol Ther,Wiley,0.0,13,0.0,True,True
+15408167,J Cardiovasc Electrophysiol,Wiley,0.0,13,0.0,True,True
+15736695,Prev Sci,Springer Nature,0.0,13,0.0,True,True
+21983844,Adv Sci (Weinh),Wiley,0.0,13,0.0,True,True
+25092723,Geroscience,Springer Nature,0.0,13,0.0,True,True
+15221466,Am J Physiol Renal Physiol,American Physiological Society,0.0,12,0.0,False,True
+15532712,Acad Emerg Med,Wiley,0.0,12,0.0,True,True
+16136829,Small,Wiley,0.0,12,0.0,True,True
+21922659,Adv Healthc Mater,Wiley,0.0,11,0.0,True,True
+10991492,NMR Biomed,Wiley,0.0,10,0.0,True,True
+14337339,Support Care Cancer,Springer Nature,0.0,10,0.0,True,True
+14765551,Leukemia,Springer Nature,0.0,10,0.0,True,True
+15214095,Adv Mater,Wiley,0.0,10,0.0,True,True
+15455017,Pediatr Blood Cancer,Wiley,0.0,10,0.0,True,True
+15733432,J Autism Dev Disord,Springer Nature,0.0,10,0.0,True,True
+15737330,J Assist Reprod Genet,Springer Nature,0.0,10,0.0,True,True
+1740634X,Neuropsychopharmacology,Springer Nature,0.0,10,0.0,True,True
+23747943,ACS Cent Sci,American Chemical Society (ACS),0.0,10,0.0,False,True
+10970215,Int J Cancer,Wiley,0.0,9,0.0,True,True
+13652869,J Sleep Res,Wiley,0.0,9,0.0,True,True
+13993062,Transpl Infect Dis,Wiley,0.0,9,0.0,True,True
+14765543,J Perinatol,Springer Nature,0.0,9,0.0,True,True
+15221504,Am J Physiol Lung Cell Mol Physiol,American Physiological Society,0.0,9,0.0,False,True
+15281167,Epilepsia,Wiley,0.0,9,0.0,True,True
+15364801,J Pediatr Gastroenterol Nutr,Wiley,0.0,9,0.0,True,True
+15570657,Int J Methods Psychiatr Res,Wiley,0.0,9,0.0,True,True
+15737217,Breast Cancer Res Treat,Springer Nature,0.0,9,0.0,True,True
+18758312,Int J Cardiovasc Imaging,Unknown,0.0,9,0.0,True,True
+20426984,Int Forum Allergy Rhinol,Wiley,0.0,9,0.0,True,True
+14320428,Diabetologia,Springer Nature,0.0,8,0.0,True,True
+14698749,Dev Med Child Neurol,Wiley,0.0,8,0.0,True,True
+14749726,Aging Cell,Wiley,0.0,8,0.0,True,True
+15221547,Am J Physiol Gastrointest Liver Physiol,American Physiological Society,0.0,8,0.0,False,True
+15739686,Ann Biomed Eng,Springer Nature,0.0,8,0.0,True,True
+19322267,J Cancer Surviv,Springer Nature,0.0,8,0.0,True,True
+20457634,Cancer Med,Wiley,0.0,8,0.0,True,True
+20555822,ESC Heart Fail,Wiley,0.0,8,0.0,True,True
+10969861,J Comp Neurol,Wiley,0.0,7,0.0,True,True
+10970045,Prostate,Wiley,0.0,7,0.0,True,True
+10990496,Pediatr Pulmonol,Wiley,0.0,7,0.0,True,True
+13653016,Paediatr Perinat Epidemiol,Wiley,0.0,7,0.0,True,True
+14321106,Exp Brain Res,Springer Nature,0.0,7,0.0,True,True
+14338491,Eur Arch Psychiatry Clin Neurosci,Unknown,0.0,7,0.0,True,True
+14609568,Eur J Neurosci,Wiley,0.0,7,0.0,True,True
+14681293,HIV Med,Wiley,0.0,7,0.0,True,True
+14697610,J Child Psychol Psychiatry,Wiley,0.0,7,0.0,True,True
+14714159,J Neurochem,Wiley,0.0,7,0.0,True,True
+15733289,Adm Policy Ment Health,Springer Nature,0.0,7,0.0,True,True
+17528062,Clin Transl Sci,Wiley,0.0,7,0.0,True,True
+20416520,Chem Sci,Royal Society of Chemistry (RSC),0.0,7,0.0,False,True
+23796146,Learn Health Syst,Wiley,0.0,7,0.0,True,True
+10982302,Dev Psychobiol,Wiley,0.0,6,0.0,True,True
+10991166,Int J Geriatr Psychiatry,Wiley,0.0,6,0.0,True,True
+13652036,Aliment Pharmacol Ther,Wiley,0.0,6,0.0,True,True
+13993038,Pediatr Allergy Immunol,Wiley,0.0,6,0.0,True,True
+14321998,Pediatr Radiol,Springer Nature,0.0,6,0.0,True,True
+14678624,Child Dev,Wiley,0.0,6,0.0,True,True
+14765497,Int J Obes (Lond),Springer Nature,0.0,6,0.0,True,True
+15206300,Am J Hum Biol,Wiley,0.0,6,0.0,True,True
+15529924,Environ Health Perspect,Environmental Health Perspectives,0.0,6,0.0,False,True
+15571920,J Immigr Minor Health,Springer Nature,0.0,6,0.0,True,True
+15737225,Cancer Causes Control,Springer Nature,0.0,6,0.0,True,True
+16000897,Am J Reprod Immunol,Wiley,0.0,6,0.0,True,True
+17480361,J Rural Health,Wiley,0.0,6,0.0,True,True
+17496632,Ann N Y Acad Sci,Wiley,0.0,6,0.0,True,True
+17517893,Early Interv Psychiatry,Wiley,0.0,6,0.0,True,True
+20476310,Pediatr Obes,Wiley,0.0,6,0.0,True,True
+2051817X,Physiol Rep,Wiley,0.0,6,0.0,True,True
+23988835,Health Sci Rep,Wiley,0.0,6,0.0,True,True
+10981004,Hum Mutat,Unknown,0.0,5,0.0,True,True
+10981136,Glia,Wiley,0.0,5,0.0,True,True
+13600443,Addiction,Wiley,0.0,5,0.0,True,True
+13652141,Br J Haematol,Wiley,0.0,5,0.0,True,True
+13654632,Int J Dermatol,Unknown,0.0,5,0.0,True,True
+13990012,Clin Transplant,Wiley,0.0,5,0.0,True,True
+14321971,Pediatr Cardiol,Springer Nature,0.0,5,0.0,True,True
+14322218,Surg Endosc,Springer Nature,0.0,5,0.0,True,True
+14351102,Arch Womens Ment Health,Springer Nature,0.0,5,0.0,True,True
+14676494,J Pers,Unknown,0.0,5,0.0,True,True
+14708736,Clin Sci (Lond),Portland Press,0.0,5,0.0,False,True
+14756773,Health Serv Res,Wiley,0.0,5,0.0,True,True
+14765608,Prostate Cancer Prostatic Dis,Unknown,0.0,5,0.0,True,True
+14783231,Liver Int,Wiley,0.0,5,0.0,True,True
+15206629,J Community Psychol,Wiley,0.0,5,0.0,True,True
+15221601,J Appl Physiol (1985),American Physiological Society,0.0,5,0.0,False,True
+15314995,Laryngoscope,Wiley,0.0,5,0.0,True,True
+15422011,J Midwifery Womens Health,Wiley,0.0,5,0.0,True,True
+15483576,Curr HIV/AIDS Rep,Springer Nature,0.0,5,0.0,True,True
+15535606,J Hosp Med,Wiley,0.0,5,0.0,True,True
+15728595,J Interv Card Electrophysiol,Unknown,0.0,5,0.0,True,True
+15732568,Dig Dis Sci,Springer Nature,0.0,5,0.0,True,True
+17424658,FEBS J,Wiley,0.0,5,0.0,True,True
+18733468,FEBS Lett,Wiley,0.0,5,0.0,True,True
+19337205,Reprod Sci,Unknown,0.0,5,0.0,True,True
+20420226,Cell Mol Immunol,Springer Nature,0.0,5,0.0,True,True
+21906009,J Cachexia Sarcopenia Muscle,Wiley,0.0,5,0.0,True,True
+25785745,ACR Open Rheumatol,Wiley,0.0,5,0.0,True,True
+26911299,Curr Protoc,Wiley,0.0,5,0.0,True,True
+27307174,Res Child Adolesc Psychopathol,Springer Nature,0.0,5,0.0,True,True
+10970177,Dev Dyn,Wiley,0.0,4,0.0,True,True
+10970290,Biotechnol Bioeng,Wiley,0.0,4,0.0,True,True
+11791888,Am J Clin Dermatol,Unknown,0.0,4,0.0,True,True
+13652222,Clin Exp Allergy,Unknown,0.0,4,0.0,True,True
+14321238,Intensive Care Med,Unknown,0.0,4,0.0,True,True
+14681331,Eur J Neurol,Wiley,0.0,4,0.0,True,True
+14682869,J Urban Health,Springer Nature,0.0,4,0.0,True,True
+14698986,Psychophysiology,Wiley,0.0,4,0.0,True,True
+14708752,Biochem Soc Trans,Portland Press,0.0,4,0.0,False,True
+14734230,Cerebellum,Springer Nature,0.0,4,0.0,True,True
+15214036,Biom J,Wiley,0.0,4,0.0,True,True
+15214141,Eur J Immunol,Wiley,0.0,4,0.0,True,True
+1531135X,Cogn Affect Behav Neurosci,Springer Nature,0.0,4,0.0,True,True
+15315320,Psychon Bull Rev,Springer Nature,0.0,4,0.0,True,True
+15430154,J Cancer Educ,Springer Nature,0.0,4,0.0,True,True
+15587118,J Am Board Fam Med,American Board of Family Medicine (ABFM),0.0,4,0.0,False,True
+15733610,J Community Health,Springer Nature,0.0,4,0.0,True,True
+15736628,Matern Child Health J,Springer Nature,0.0,4,0.0,True,True
+1573742X,J Thromb Thrombolysis,Unknown,0.0,4,0.0,True,True
+16000625,Exp Dermatol,Unknown,0.0,4,0.0,True,True
+1600065X,Immunol Rev,Wiley,0.0,4,0.0,True,True
+16005775,J Synchrotron Radiat,International Union of Crystallography (IUCr),0.0,4,0.0,True,True
+16177940,Biomech Model Mechanobiol,Springer Nature,0.0,4,0.0,True,True
+17517176,J Clin Hypertens (Greenwich),Unknown,0.0,4,0.0,True,True
+17582652,J Int AIDS Soc,Wiley,0.0,4,0.0,True,True
+1868601X,Transl Stroke Res,Unknown,0.0,4,0.0,True,True
+19393806,Autism Res,Wiley,0.0,4,0.0,True,True
+1943278X,Suicide Life Threat Behav,Wiley,0.0,4,0.0,True,True
+20013078,J Extracell Vesicles,Wiley,0.0,4,0.0,True,True
+23663987,Adv Ther (Weinh),Wiley,0.0,4,0.0,True,True
+24709239,Epilepsia Open,Wiley,0.0,4,0.0,True,True
+26929384,JCPP Adv,Wiley,0.0,4,0.0,True,True
+29937175,Alcohol Clin Exp Res (Hoboken),Wiley,0.0,4,0.0,True,True
+10969071,J Med Virol,Wiley,0.0,3,0.0,True,True
+10969896,J Pathol,Wiley,0.0,3,0.0,True,True
+10970134,Proteins,Wiley,0.0,3,0.0,True,True
+10974547,J Neurosci Res,Unknown,0.0,3,0.0,True,True
+10991557,Pharmacoepidemiol Drug Saf,Wiley,0.0,3,0.0,True,True
+13993046,Pediatr Transplant,Wiley,0.0,3,0.0,True,True
+14219859,Dev Neurosci,Karger Publishers,0.0,3,0.0,False,True
+1432086X,Cardiovasc Intervent Radiol,Springer Nature,0.0,3,0.0,True,True
+14321777,Mamm Genome,Unknown,0.0,3,0.0,True,True
+14333023,Int Urogynecol J,Springer Nature,0.0,3,0.0,True,True
+1435232X,J Hum Genet,Unknown,0.0,3,0.0,True,True
+14387573,J Assoc Res Otolaryngol,Springer Nature,0.0,3,0.0,True,True
+14397633,Chembiochem,Wiley,0.0,3,0.0,True,True
+14606984,Int J Lang Commun Disord,Unknown,0.0,3,0.0,True,True
+14677687,Dev Sci,Wiley,0.0,3,0.0,True,True
+14683083,J Eur Acad Dermatol Venereol,Unknown,0.0,3,0.0,True,True
+14710528,BJOG,Wiley,0.0,3,0.0,True,True
+14765438,Eur J Hum Genet,Springer Nature,0.0,3,0.0,True,True
+14765527,J Hum Hypertens,Unknown,0.0,3,0.0,True,True
+15211878,Bioessays,Wiley,0.0,3,0.0,True,True
+15213765,Chemistry,Wiley,0.0,3,0.0,True,True
+15216551,IUBMB Life,Unknown,0.0,3,0.0,True,True
+15221490,Am J Physiol Regul Integr Comp Physiol,American Physiological Society,0.0,3,0.0,False,True
+15321827,Br J Cancer,Springer Nature,0.0,3,0.0,True,True
+15327078,Infancy,Wiley,0.0,3,0.0,True,True
+15346242,Curr Atheroscler Rep,Springer Nature,0.0,3,0.0,True,True
+15346293,Curr Neurol Neurosci Rep,Springer Nature,0.0,3,0.0,True,True
+15357597,Epilepsy Curr,SAGE Publications,0.0,3,0.0,False,True
+15390829,Curr Diab Rep,Springer Nature,0.0,3,0.0,True,True
+15451151,Prev Chronic Dis,Centers for Disease Control and Prevention (CDC),0.0,3,0.0,False,True
+15534014,Annu Rev Pathol,Annual Reviews,0.0,3,0.0,False,True
+15543528,Behav Res Methods,Springer Nature,0.0,3,0.0,True,True
+1559064X,J Expo Sci Environ Epidemiol,Springer Nature,0.0,3,0.0,True,True
+15732827,Clin Child Fam Psychol Rev,Unknown,0.0,3,0.0,True,True
+17486653,J Neuropsychol,Unknown,0.0,3,0.0,True,True
+17503639,Brain Pathol,Wiley,0.0,3,0.0,True,True
+1755148X,Pigment Cell Melanoma Res,Wiley,0.0,3,0.0,True,True
+18632300,Semin Immunopathol,Unknown,0.0,3,0.0,True,True
+18759114,Pharmacotherapy,Wiley,0.0,3,0.0,True,True
+20457022,Clin Transl Allergy,Unknown,0.0,3,0.0,True,True
+23669608,Small Methods,Wiley,0.0,3,0.0,True,True
+23788038,Laryngoscope Investig Otolaryngol,Wiley,0.0,3,0.0,True,True
+26293277,Stem Cell Rev Rep,Unknown,0.0,3,0.0,True,True
+2662205X,Affect Sci,Springer Nature,0.0,3,0.0,True,True
+26999307,Adv Nanobiomed Res,Wiley,0.0,3,0.0,True,True
+10969888,J Mass Spectrom,Wiley,0.0,2,0.0,True,True
+10970223,Prenat Diagn,Wiley,0.0,2,0.0,True,True
+10970347,Head Neck,Wiley,0.0,2,0.0,True,True
+10974598,Muscle Nerve,Wiley,0.0,2,0.0,True,True
+10974652,J Cell Physiol,Wiley,0.0,2,0.0,True,True
+10981063,Hippocampus,Unknown,0.0,2,0.0,True,True
+10981128,Med Res Rev,Unknown,0.0,2,0.0,True,True
+10982272,Genet Epidemiol,Wiley,0.0,2,0.0,True,True
+11791969,Drugs Aging,Springer Nature,0.0,2,0.0,True,True
+13652125,Br J Clin Pharmacol,Wiley,0.0,2,0.0,True,True
+13652214,Child Care Health Dev,Unknown,0.0,2,0.0,True,True
+13652559,Histopathology,Unknown,0.0,2,0.0,True,True
+13652648,J Adv Nurs,Wiley,0.0,2,0.0,True,True
+13652753,J Eval Clin Pract,Unknown,0.0,2,0.0,True,True
+14321459,J Neurol,Springer Nature,0.0,2,0.0,True,True
+1432198X,Pediatr Nephrol,Springer Nature,0.0,2,0.0,True,True
+14322072,Psychopharmacology (Berl),Springer Nature,0.0,2,0.0,True,True
+14339285,Soc Psychiatry Psychiatr Epidemiol,Springer Nature,0.0,2,0.0,True,True
+14366215,Eur J Nutr,Springer Nature,0.0,2,0.0,True,True
+14397641,Chemphyschem,Wiley,0.0,2,0.0,True,True
+14401711,Immunol Cell Biol,Unknown,0.0,2,0.0,True,True
+14631326,Diabetes Obes Metab,Wiley,0.0,2,0.0,True,True
+14645491,Diabet Med,Wiley,0.0,2,0.0,True,True
+14695073,Genet Res (Camb),Unknown,0.0,2,0.0,True,True
+14731150,Pharmacogenomics J,Unknown,0.0,2,0.0,True,True
+14765381,Br J Pharmacol,Wiley,0.0,2,0.0,True,True
+14765403,Cell Death Differ,Springer Nature,0.0,2,0.0,True,True
+14765454,Eye (Lond),Springer Nature,0.0,2,0.0,True,True
+14765462,Gene Ther,Springer Nature,0.0,2,0.0,True,True
+15206394,Depress Anxiety,Unknown,0.0,2,0.0,True,True
+15222683,Electrophoresis,Wiley,0.0,2,0.0,True,True
+15229602,Bull Math Biol,Springer Nature,0.0,2,0.0,True,True
+15251470,Pediatr Dermatol,Wiley,0.0,2,0.0,True,True
+15251594,Artif Organs,Wiley,0.0,2,0.0,True,True
+15264610,Headache,Wiley,0.0,2,0.0,True,True
+15343170,Curr Cardiol Rep,Springer Nature,0.0,2,0.0,True,True
+15346307,Curr Rheumatol Rep,Unknown,0.0,2,0.0,True,True
+15372995,Transfusion,Wiley,0.0,2,0.0,True,True
+15382443,J Neurovirol,Unknown,0.0,2,0.0,True,True
+15391612,Pharm Stat,Unknown,0.0,2,0.0,True,True
+15408159,Pacing Clin Electrophysiol,Unknown,0.0,2,0.0,True,True
+15408175,Echocardiography,Unknown,0.0,2,0.0,True,True
+15441717,Ann Fam Med,Annals of Family Medicine,0.0,2,0.0,False,True
+15442241,Curr Osteoporos Rep,Springer Nature,0.0,2,0.0,True,True
+15455300,Fam Process,Wiley,0.0,2,0.0,True,True
+15469549,Curr Heart Fail Rep,Unknown,0.0,2,0.0,True,True
+1552146X,Hastings Cent Rep,Unknown,0.0,2,0.0,True,True
+15524604,J Clin Pharmacol,Wiley,0.0,2,0.0,True,True
+15524833,Am J Med Genet A,Wiley,0.0,2,0.0,True,True
+1554527X,J Orthop Res,Wiley,0.0,2,0.0,True,True
+15563308,J Behav Health Serv Res,Unknown,0.0,2,0.0,True,True
+15590089,Neuroinformatics,Springer Nature,0.0,2,0.0,True,True
+15733327,Child Psychiatry Hum Dev,Springer Nature,0.0,2,0.0,True,True
+15733572,J Clin Psychol Med Settings,Unknown,0.0,2,0.0,True,True
+15733599,J Genet Couns,Wiley,0.0,2,0.0,True,True
+15733890,Metabolomics,Springer Nature,0.0,2,0.0,True,True
+15737373,J Neurooncol,Springer Nature,0.0,2,0.0,True,True
+15824934,J Cell Mol Med,Wiley,0.0,2,0.0,True,True
+16159861,Proteomics,Wiley,0.0,2,0.0,True,True
+16512227,Acta Paediatr,Wiley,0.0,2,0.0,True,True
+17080428,Obes Surg,Springer Nature,0.0,2,0.0,True,True
+18607187,ChemMedChem,Wiley,0.0,2,0.0,True,True
+18607314,Biotechnol J,Unknown,0.0,2,0.0,True,True
+18694098,Cardiovasc Eng Technol,Unknown,0.0,2,0.0,True,True
+1874270X,Biomol NMR Assign,Springer Nature,0.0,2,0.0,True,True
+18780261,Mol Oncol,Wiley,0.0,2,0.0,True,True
+19362692,Am J Manag Care,"Clinical Care Targeted Communications Group, LLC",0.0,2,0.0,False,True
+1943393X,Atten Percept Psychophys,Springer Nature,0.0,2,0.0,True,True
+19493592,Cytoskeleton (Hoboken),Wiley,0.0,2,0.0,True,True
+20011326,Clin Transl Med,Wiley,0.0,2,0.0,True,True
+2053230X,Acta Crystallogr F Struct Biol Commun,International Union of Crystallography (IUCr),0.0,2,0.0,True,True
+21623279,Brain Behav,Wiley,0.0,2,0.0,True,True
+21963061,Curr Treat Options Psychiatry,Unknown,0.0,2,0.0,True,True
+21965412,Curr Environ Health Rep,Springer Nature,0.0,2,0.0,True,True
+23249269,Mol Genet Genomic Med,Unknown,0.0,2,0.0,True,True
+2365709X,Adv Mater Technol,Wiley,0.0,2,0.0,True,True
+23660058,Abdom Radiol (NY),Springer Nature,0.0,2,0.0,True,True
+23665963,J Technol Behav Sci,Springer Nature,0.0,2,0.0,True,True
+23806761,Bioeng Transl Med,Wiley,0.0,2,0.0,True,True
+24734209,Med Phys,Wiley,0.0,2,0.0,True,True
+25233548,Cancer Commun (Lond),Unknown,0.0,2,0.0,True,True
+25755609,Psychiatr Res Clin Pract,American Psychiatric Association Publishing,0.0,2,0.0,True,True
+25782363,Ethics Hum Res,Unknown,0.0,2,0.0,True,True
+26404567,Adv Intell Syst,Wiley,0.0,2,0.0,True,True
+26438909,Aging Cancer,Unknown,0.0,2,0.0,True,True
+27010198,Adv Biol (Weinh),Wiley,0.0,2,0.0,True,True
+29482933,J Imaging Inform Med,Springer Nature,0.0,2,0.0,True,True
+10806059,Emerg Infect Dis,Centers for Disease Control and Prevention (CDC),0.0,1,0.0,False,True
+10959254,J Adolesc,Wiley,0.0,1,0.0,True,True
+10968652,Am J Hematol,Wiley,0.0,1,0.0,True,True
+10969101,Lasers Surg Med,Unknown,0.0,1,0.0,True,True
+10970274,Am J Ind Med,Wiley,0.0,1,0.0,True,True
+10970355,Infant Ment Health J,Wiley,0.0,1,0.0,True,True
+10974644,J Cell Biochem,Unknown,0.0,1,0.0,True,True
+10974679,J Clin Psychol,Unknown,0.0,1,0.0,True,True
+10976817,Otolaryngol Head Neck Surg,Wiley,0.0,1,0.0,True,True
+10982264,Genes Chromosomes Cancer,Wiley,0.0,1,0.0,True,True
+10982396,Synapse,Unknown,0.0,1,0.0,True,True
+1098240X,Res Nurs Health,Unknown,0.0,1,0.0,True,True
+10982744,Mol Carcinog,Wiley,0.0,1,0.0,True,True
+10991050,Health Econ,Wiley,0.0,1,0.0,True,True
+1179190X,BioDrugs,Unknown,0.0,1,0.0,True,True
+11791942,Drug Saf,Unknown,0.0,1,0.0,True,True
+13265377,Med J Aust,Unknown,0.0,1,0.0,True,True
+13484214,Hypertens Res,Unknown,0.0,1,0.0,True,True
+13652265,Clin Endocrinol (Oxf),Unknown,0.0,1,0.0,True,True
+13652567,Immunology,Wiley,0.0,1,0.0,True,True
+1365277X,J Hum Nutr Diet,Unknown,0.0,1,0.0,True,True
+13652818,J Microsc,Unknown,0.0,1,0.0,True,True
+13653156,Trop Med Int Health,Wiley,0.0,1,0.0,True,True
+13691600,Addict Biol,Wiley,0.0,1,0.0,True,True
+13697625,Health Expect,Wiley,0.0,1,0.0,True,True
+13993089,Xenotransplantation,Wiley,0.0,1,0.0,True,True
+1420908X,Inflamm Res,Unknown,0.0,1,0.0,True,True
+14302772,Psychol Res,Unknown,0.0,1,0.0,True,True
+1432072X,Arch Microbiol,Unknown,0.0,1,0.0,True,True
+14320738,Arch Toxicol,Springer Nature,0.0,1,0.0,True,True
+14320843,Cancer Chemother Pharmacol,Unknown,0.0,1,0.0,True,True
+14320878,Cell Tissue Res,Unknown,0.0,1,0.0,True,True
+14320886,Chromosoma,Unknown,0.0,1,0.0,True,True
+14320932,Eur Spine J,Springer Nature,0.0,1,0.0,True,True
+14321084,Eur Radiol,Springer Nature,0.0,1,0.0,True,True
+1432119X,Histochem Cell Biol,Unknown,0.0,1,0.0,True,True
+14321203,Hum Genet,Springer Nature,0.0,1,0.0,True,True
+14321327,J Biol Inorg Chem,Springer Nature,0.0,1,0.0,True,True
+14321424,J Membr Biol,Unknown,0.0,1,0.0,True,True
+14322307,Virchows Arch,Springer Nature,0.0,1,0.0,True,True
+14322323,World J Surg,Wiley,0.0,1,0.0,True,True
+14330350,Childs Nerv Syst,Unknown,0.0,1,0.0,True,True
+14332965,Osteoporos Int,Springer Nature,0.0,1,0.0,True,True
+14349949,Clin Rheumatol,Unknown,0.0,1,0.0,True,True
+14354373,Eur J Clin Microbiol Infect Dis,Unknown,0.0,1,0.0,True,True
+14355922,J Gastroenterol,Unknown,0.0,1,0.0,True,True
+14371588,Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz,Unknown,0.0,1,0.0,True,True
+14381435,Emerg Radiol,Unknown,0.0,1,0.0,True,True
+14390272,Andrologia,Unknown,0.0,1,0.0,True,True
+14390507,Mycoses,Unknown,0.0,1,0.0,True,True
+1440169X,Dev Growth Differ,Unknown,0.0,1,0.0,True,True
+14401819,Psychiatry Clin Neurosci,Wiley,0.0,1,0.0,True,True
+14401843,Respirology,Unknown,0.0,1,0.0,True,True
+14429071,Clin Exp Ophthalmol,Unknown,0.0,1,0.0,True,True
+14609592,Paediatr Anaesth,Unknown,0.0,1,0.0,True,True
+14622920,Environ Microbiol,Unknown,0.0,1,0.0,True,True
+14625822,Cell Microbiol,Unknown,0.0,1,0.0,True,True
+1464066X,Int J Psychol,Unknown,0.0,1,0.0,True,True
+1467789X,Obes Rev,Wiley,0.0,1,0.0,True,True
+1469185X,Biol Rev Camb Philos Soc,Unknown,0.0,1,0.0,True,True
+1469445X,Exp Physiol,Wiley,0.0,1,0.0,True,True
+14708728,Biochem J,Portland Press,0.0,1,0.0,False,True
+14751313,Ophthalmic Physiol Opt,Wiley,0.0,1,0.0,True,True
+14765365,Bone Marrow Transplant,Springer Nature,0.0,1,0.0,True,True
+14765470,Genes Immun,Springer Nature,0.0,1,0.0,True,True
+14765489,Int J Impot Res,Unknown,0.0,1,0.0,True,True
+14765500,Cancer Gene Ther,Springer Nature,0.0,1,0.0,True,True
+14765624,Spinal Cord,Unknown,0.0,1,0.0,True,True
+15210391,Am J Addict,Wiley,0.0,1,0.0,True,True
+15221555,Am J Physiol Endocrinol Metab,American Physiological Society,0.0,1,0.0,False,True
+15221709,Sleep Breath,Springer Nature,0.0,1,0.0,True,True
+1526968X,Genesis,Wiley,0.0,1,0.0,True,True
+15298019,Dermatol Ther,Unknown,0.0,1,0.0,True,True
+15312267,Physiol Genomics,American Physiological Society,0.0,1,0.0,False,True
+15322149,Eur J Pain,Unknown,0.0,1,0.0,True,True
+15322998,Stress Health,Wiley,0.0,1,0.0,True,True
+15325946,Mem Cognit,Springer Nature,0.0,1,0.0,True,True
+15327795,J Res Adolesc,Wiley,0.0,1,0.0,True,True
+15343081,Curr Pain Headache Rep,Unknown,0.0,1,0.0,True,True
+15351645,Curr Psychiatry Rep,Springer Nature,0.0,1,0.0,True,True
+15408191,J Card Surg,Unknown,0.0,1,0.0,True,True
+1542474X,Ann Noninvasive Electrocardiol,Unknown,0.0,1,0.0,True,True
+15424863,CA Cancer J Clin,Wiley,0.0,1,0.0,True,True
+15457230,Acad Psychiatry,Unknown,0.0,1,0.0,True,True
+15475069,J Nurs Scholarsh,Unknown,0.0,1,0.0,True,True
+15484475,Lab Anim (NY),Unknown,0.0,1,0.0,True,True
+15507416,AAPS J,Springer Nature,0.0,1,0.0,True,True
+15516709,Cogn Sci,Unknown,0.0,1,0.0,True,True
+15570681,Musculoskeletal Care,Unknown,0.0,1,0.0,True,True
+15571904,J Neuroimmune Pharmacol,Springer Nature,0.0,1,0.0,True,True
+15590100,Endocrine,Unknown,0.0,1,0.0,True,True
+15591182,Mol Neurobiol,Springer Nature,0.0,1,0.0,True,True
+15729249,Lifetime Data Anal,Unknown,0.0,1,0.0,True,True
+15729699,Antonie Van Leeuwenhoek,Unknown,0.0,1,0.0,True,True
+1572994X,Virus Genes,Unknown,0.0,1,0.0,True,True
+15730646,Invest New Drugs,Unknown,0.0,1,0.0,True,True
+15732606,Rev Endocr Metab Disord,Unknown,0.0,1,0.0,True,True
+15732789,Community Ment Health J,Springer Nature,0.0,1,0.0,True,True
+15733270,Appl Psychophysiol Biofeedback,Unknown,0.0,1,0.0,True,True
+15734919,Mol Cell Biochem,Unknown,0.0,1,0.0,True,True
+15734986,Glycoconj J,Unknown,0.0,1,0.0,True,True
+15735001,J Biomol NMR,Springer Nature,0.0,1,0.0,True,True
+15736571,J Relig Health,Unknown,0.0,1,0.0,True,True
+15736598,J Trauma Stress,Wiley,0.0,1,0.0,True,True
+15736601,J Youth Adolesc,Springer Nature,0.0,1,0.0,True,True
+15736792,Brain Topogr,Unknown,0.0,1,0.0,True,True
+15736873,J Comput Neurosci,Unknown,0.0,1,0.0,True,True
+1573689X,J Med Syst,Unknown,0.0,1,0.0,True,True
+15737209,Angiogenesis,Springer Nature,0.0,1,0.0,True,True
+15737241,Cardiovasc Drugs Ther,Unknown,0.0,1,0.0,True,True
+1573904X,Pharm Res,Springer Nature,0.0,1,0.0,True,True
+16000447,Acta Psychiatr Scand,Wiley,0.0,1,0.0,True,True
+16000781,Photodermatol Photoimmunol Photomed,Unknown,0.0,1,0.0,True,True
+1600079X,J Pineal Res,Unknown,0.0,1,0.0,True,True
+1601183X,Genes Brain Behav,Wiley,0.0,1,0.0,True,True
+16124790,Cogn Process,Unknown,0.0,1,0.0,True,True
+16134133,Mol Nutr Food Res,Unknown,0.0,1,0.0,True,True
+16152573,Heart Vessels,Unknown,0.0,1,0.0,True,True
+16156692,Herz,Unknown,0.0,1,0.0,True,True
+16165195,Macromol Biosci,Wiley,0.0,1,0.0,True,True
+16190904,J Artif Organs,Unknown,0.0,1,0.0,True,True
+17408709,Matern Child Nutr,Unknown,0.0,1,0.0,True,True
+17410444,Med Biol Eng Comput,Unknown,0.0,1,0.0,True,True
+1742481X,Int Wound J,Unknown,0.0,1,0.0,True,True
+1743498X,Clin Teach,Unknown,0.0,1,0.0,True,True
+1745655X,J Public Health Policy,Unknown,0.0,1,0.0,True,True
+17461561,J Sch Health,Wiley,0.0,1,0.0,True,True
+17481716,Acta Physiol (Oxf),Wiley,0.0,1,0.0,True,True
+17511097,Photochem Photobiol,Wiley,0.0,1,0.0,True,True
+17520606,J Marital Fam Ther,Unknown,0.0,1,0.0,True,True
+17527325,J Public Health Dent,Wiley,0.0,1,0.0,True,True
+17530407,J Diabetes,Unknown,0.0,1,0.0,True,True
+17544505,Spec Care Dentist,Unknown,0.0,1,0.0,True,True
+17550998,Mol Ecol Resour,Wiley,0.0,1,0.0,True,True
+17555949,CNS Neurosci Ther,Unknown,0.0,1,0.0,True,True
+17577012,Wiley Interdiscip Rev RNA,Unknown,0.0,1,0.0,True,True
+17588111,Clin Obes,Unknown,0.0,1,0.0,True,True
+17591961,Clin Exp Neuroimmunol,Unknown,0.0,1,0.0,True,True
+18366716,Monash Bioeth Rev,Unknown,0.0,1,0.0,True,True
+18610692,Clin Res Cardiol,Unknown,0.0,1,0.0,True,True
+18616429,Int J Comput Assist Radiol Surg,Springer Nature,0.0,1,0.0,True,True
+18640648,J Biophotonics,Wiley,0.0,1,0.0,True,True
+18804233,Breast Cancer,Unknown,0.0,1,0.0,True,True
+19317565,Brain Imaging Behav,Springer Nature,0.0,1,0.0,True,True
+19328737,Clin Cardiol,Wiley,0.0,1,0.0,True,True
+19360541,Hepatol Int,Unknown,0.0,1,0.0,True,True
+19375395,J Cardiovasc Transl Res,Unknown,0.0,1,0.0,True,True
+19412444,JPEN J Parenter Enteral Nutr,Unknown,0.0,1,0.0,True,True
+19433670,J Periodontol,Unknown,0.0,1,0.0,True,True
+20407947,Int J Numer Method Biomed Eng,Wiley,0.0,1,0.0,True,True
+20457758,Ecol Evol,Wiley,0.0,1,0.0,True,True
+20521707,Pharmacol Res Perspect,Wiley,0.0,1,0.0,True,True
+20539711,J Law Biosci,Oxford University Press (OUP),0.0,1,0.0,False,True
+20552238,Obes Sci Pract,Wiley,0.0,1,0.0,True,True
+20592310,HLA,Unknown,0.0,1,0.0,True,True
+21607648,Clin Pharmacol Drug Dev,Unknown,0.0,1,0.0,True,True
+21613303,Curr Obstet Gynecol Rep,Unknown,0.0,1,0.0,True,True
+21638306,CPT Pharmacometrics Syst Pharmacol,Wiley,0.0,1,0.0,True,True
+21911363,ChemistryOpen,Unknown,0.0,1,0.0,True,True
+21959595,Curr Hepatol Rep,Unknown,0.0,1,0.0,True,True
+21962952,Curr Addict Rep,Springer Nature,0.0,1,0.0,True,True
+21986096,Curr Trauma Rep,Unknown,0.0,1,0.0,True,True
+22115463,FEBS Open Bio,Wiley,0.0,1,0.0,True,True
+22121358,Spine Deform,Unknown,0.0,1,0.0,True,True
+23146141,Biomed Res Int,Unknown,0.0,1,0.0,True,True
+23147156,J Immunol Res,Unknown,0.0,1,0.0,True,True
+23301619,Mov Disord Clin Pract,Wiley,0.0,1,0.0,True,True
+23989238,Endocrinol Diabetes Metab,Wiley,0.0,1,0.0,True,True
+25201018,J Cult Cogn Sci,Unknown,0.0,1,0.0,True,True
+25208721,Hormones (Athens),Unknown,0.0,1,0.0,True,True
+25247662,Genome Instab Dis,Unknown,0.0,1,0.0,True,True
+25729241,Hemasphere,Wiley,0.0,1,0.0,True,True
+25762095,Animal Model Exp Med,Unknown,0.0,1,0.0,True,True
+26423588,Mental Health Sci,Wiley,0.0,1,0.0,True,True
+26424169,J Polym Sci (2020),Unknown,0.0,1,0.0,True,True
+26622416,Advers Resil Sci,Unknown,0.0,1,0.0,True,True
+26624079,Curr Tissue Microenviron Rep,Unknown,0.0,1,0.0,True,True
+26629275,Glob Implement Res Appl,Unknown,0.0,1,0.0,True,True
+26884526,BJUI Compass,Wiley,0.0,1,0.0,True,True
+26886146,EJHaem,Wiley,0.0,1,0.0,True,True
+26899655,Comput Syst Oncol,Unknown,0.0,1,0.0,True,True
+26929368,WIREs Mech Dis,Unknown,0.0,1,0.0,True,True
+26945746,Stroke Vasc Interv Neurol,Unknown,0.0,1,0.0,True,True
+26999293,Adv Photonics Res,Unknown,0.0,1,0.0,True,True
+27305961,AI Ethics,Unknown,0.0,1,0.0,True,True
+27315541,J Prev (2022),Unknown,0.0,1,0.0,True,True
+27682811,J Extracell Biol,Wiley,0.0,1,0.0,True,True
+27686566,JEADV Clin Pract,Unknown,0.0,1,0.0,True,True
+29961394,JCSM Commun,Wiley,0.0,1,0.0,True,True
+25730142,Proc ACM Hum Comput Interact,Association for Computing Machinery (ACM),350.0,7,0.0,False,True
+25789430,MicroPubl Biol,Caltech Library,350.0,6,0.0,False,True
+21688184,Cureus,Springer Nature,590.0,7,0.0,False,True
+26660849,JACC Case Rep,Elsevier,850.0,4,0.0,False,True
+15221598,J Neurophysiol,American Physiological Society,995.0,21,0.0,False,True
+15221539,Am J Physiol Heart Circ Physiol,American Physiological Society,995.0,10,0.0,False,True
+15221563,Am J Physiol Cell Physiol,American Physiological Society,995.0,5,0.0,False,True
+26334895,Implement Res Pract,SAGE Publications,1000.0,5,0.0,False,True
+17470161,Res Ethics,SAGE Publications,1000.0,2,0.0,False,True
+23968923,Biol Methods Protoc,Oxford University Press (OUP),1120.0,1,0.0,False,True
+23318325,Bio Protoc,Bio-Protocol,1200.0,8,0.0,False,True
+15308898,J Cogn Neurosci,MIT Press,1250.0,7,0.0,False,True
+22150161,MethodsX,Elsevier,1260.0,1,0.0,False,True
+19384114,J Stud Alcohol Drugs,Alcohol Research Documentation,1275.0,4,0.0,False,True
+27314251,Npj Ment Health Res,Springer Nature,1390.0,3,0.0,False,True
+23069740,Mhealth,AME Publishing Company,1390.0,1,0.0,False,True
+2576098X,Microbiol Resour Announc,American Society for Microbiology,1400.0,5,0.0,False,True
+2398502X,Wellcome Open Res,Taylor & Francis,1408.0,2,0.0,False,True
+26911191,JASA Express Lett,Acoustical Society of America (ASA),1450.0,4,0.0,False,True
+27536130,Glob Adv Integr Med Health,SAGE Publications,1500.0,2,0.0,False,True
+26665603,SSM Ment Health,Elsevier,1540.0,1,0.0,False,True
+26661667,STAR Protoc,Elsevier,1550.0,23,0.0,False,True
+10985514,J Virol,American Society for Microbiology,1580.0,24,0.0,False,True
+24519936,Am J Ophthalmol Case Rep,Elsevier,1590.0,1,0.0,False,True
+28376056,Imaging Neurosci (Camb),MIT Press,1600.0,5,0.0,False,True
+29949726,O G Open,Wolters Kluwer,1600.0,1,0.0,False,True
+26659131,Osteoarthr Cartil Open,Elsevier,1610.0,1,0.0,False,True
+20461402,F1000Res,Taylor & Francis,1643.0,1,0.0,False,True
+23120541,ERJ Open Res,European Respiratory Society (ERS),1659.0,3,0.0,False,True
+23294302,J Med Imaging (Bellingham),"SPIE, the international society for optics and photonics",1675.0,5,0.0,False,True
+15602281,J Biomed Opt,"SPIE, the international society for optics and photonics",1675.0,3,0.0,False,True
+20721439,J Thorac Dis,AME Publishing Company,1680.0,6,0.0,False,True
+17560500,BMC Res Notes,Springer Nature,1690.0,3,0.0,False,True
+25737732,Immunohorizons,Oxford University Press (OUP),1700.0,3,0.0,False,True
+20462069,RSC Adv,Royal Society of Chemistry (RSC),1762.0,2,0.0,False,True
+27726282,PEC Innov,Elsevier,1790.0,2,0.0,False,True
+26417650,Kidney360,Wolters Kluwer,1800.0,15,0.0,False,True
+1940087X,J Vis Exp,MyJove,1800.0,13,0.0,False,True
+26414368,Neurobiol Lang (Camb),MIT Press,1800.0,5,0.0,False,True
+15525783,Invest Ophthalmol Vis Sci,Association for Research in Vision and Ophthalmology (ARVO),1850.0,17,0.0,False,True
+26629992,Humanit Soc Sci Commun,Springer Nature,1890.0,1,0.0,False,True
+19290748,JMIR Res Protoc,JMIR Publications,1900.0,20,0.0,False,True
+22118179,Glob Heart,Ubiquity Press,1900.0,3,0.0,False,True
+26666677,Am J Prev Cardiol,Elsevier,1900.0,1,0.0,False,True
+27730654,AJPM Focus,Elsevier,1910.0,1,0.0,False,True
+24701343,ACS Omega,American Chemical Society (ACS),1935.0,3,0.0,False,True
+21642591,Transl Vis Sci Technol,Association for Research in Vision and Ophthalmology (ARVO),1950.0,13,0.0,False,True
+26665778,AJOG Glob Rep,Elsevier,1980.0,2,0.0,False,True
+23691999,JMIR Cancer,JMIR Publications,1985.0,5,0.0,False,True
+25616722,JMIR Pediatr Parent,JMIR Publications,1985.0,5,0.0,False,True
+22929495,JMIR Hum Factors,JMIR Publications,1985.0,3,0.0,False,True
+23714379,JMIR Diabetes,JMIR Publications,1985.0,2,0.0,False,True
+25617605,JMIR Aging,JMIR Publications,1985.0,1,0.0,False,True
+25098020,J Patient Rep Outcomes,Springer Nature,1990.0,6,0.0,False,True
+21678359,PeerJ,PeerJ,1995.0,1,0.0,False,True
+15354970,Am J Respir Crit Care Med,American Thoracic Society,2000.0,33,0.0,False,True
+15354989,Am J Respir Cell Mol Biol,American Thoracic Society,2000.0,28,0.0,False,True
+15589102,J Speech Lang Hear Res,American Speech Language Hearing Association,2000.0,28,0.0,False,True
+15589110,Am J Speech Lang Pathol,American Speech Language Hearing Association,2000.0,19,0.0,False,True
+23256621,Ann Am Thorac Soc,American Thoracic Society,2000.0,12,0.0,False,True
+15407748,J Gen Physiol,Rockefeller University Press,2000.0,6,0.0,False,True
+26398028,Crit Care Explor,Wolters Kluwer,2000.0,6,0.0,False,True
+24731242,Health Equity,Mary Ann Liebert,2000.0,5,0.0,False,True
+27725723,Gastro Hep Adv,Elsevier,2000.0,4,0.0,False,True
+26663341,F S Rep,Elsevier,2000.0,3,0.0,False,True
+27728293,J Allergy Clin Immunol Glob,Elsevier,2000.0,3,0.0,False,True
+19385404,Radiat Res,Radiation Research Society,2000.0,2,0.0,False,True
+26670267,JID Innov,Elsevier,2000.0,2,0.0,False,True
+20754655,Epigenomes,MDPI,2000.0,1,0.0,False,True
+21567085,Biomed Opt Express,Optica Publishing Group,2005.0,7,0.0,False,True
+25155091,JNCI Cancer Spectr,Oxford University Press (OUP),2050.0,4,0.0,False,True
+26325012,Sleep Adv,Oxford University Press (OUP),2054.0,5,0.0,False,True
+24725560,SLAS Discov,Elsevier,2070.0,1,0.0,False,True
+15580210,IEEE Trans Neural Syst Rehabil Eng,Institute of Electrical and Electronics Engineers (IEEE),2075.0,10,0.0,False,True
+21693536,IEEE Access,Institute of Electrical and Electronics Engineers (IEEE),2075.0,1,0.0,False,True
+27319121,Commun Psychol,Springer Nature,2090.0,1,0.0,False,True
+10986596,Antimicrob Agents Chemother,American Society for Microbiology,2100.0,10,0.0,False,True
+10985530,J Bacteriol,American Society for Microbiology,2100.0,9,0.0,False,True
+1098660X,J Clin Microbiol,American Society for Microbiology,2100.0,8,0.0,False,True
+10985522,Infect Immun,American Society for Microbiology,2100.0,4,0.0,False,True
+15365964,Medicine (Baltimore),Wolters Kluwer,2100.0,4,0.0,False,True
+23259582,J Int Assoc Provid AIDS Care,SAGE Publications,2100.0,4,0.0,False,True
+26913593,Ann Surg Open,Wolters Kluwer,2100.0,4,0.0,False,True
+10985336,Appl Environ Microbiol,American Society for Microbiology,2100.0,1,0.0,False,True
+27727246,Drug Alcohol Depend Rep,Elsevier,2120.0,2,0.0,False,True
+2452073X,Neurobiol Pain,Elsevier,2160.0,1,0.0,False,True
+15328511,J Stroke Cerebrovasc Dis,Elsevier,2170.0,14,0.0,False,True
+27313395,Commun Eng,Springer Nature,2190.0,1,0.0,False,True
+2452199X,Bioact Mater,Elsevier,2200.0,8,0.0,False,True
+20466390,Biol Open,The Company of Biologists,2200.0,3,0.0,False,True
+24750379,Res Pract Thromb Haemost,Elsevier,2250.0,4,0.0,False,True
+24721751,Netw Neurosci,MIT Press,2250.0,3,0.0,False,True
+20358385,Neurol Int,MDPI,2250.0,1,0.0,False,True
+20782489,Information (Basel),MDPI,2250.0,1,0.0,False,True
+24058440,Heliyon,Elsevier,2270.0,4,0.0,False,True
+26622211,Implement Sci Commun,Springer Nature,2290.0,19,0.0,False,True
+20550928,BMC Nutr,Springer Nature,2290.0,2,0.0,False,True
+21971714,Inj Epidemiol,Springer Nature,2290.0,1,0.0,False,True
+23738731,Transplant Direct,Wolters Kluwer,2300.0,7,0.0,False,True
+22919694,JMIR Med Inform,JMIR Publications,2300.0,3,0.0,False,True
+20458932,Pulm Circ,Wiley,2310.0,6,0.0,False,True
+24518654,Contemp Clin Trials Commun,Elsevier,2320.0,7,0.0,False,True
+18767753,Stem Cell Res,Elsevier,2360.0,3,0.0,False,True
+19326203,PLoS One,Public Library of Science (PLoS),2382.0,164,0.0,False,True
+20571976,Biomed Phys Eng Express,IOP Publishing,2400.0,1,0.0,False,True
+26670747,Biophys Rep (N Y),Elsevier,2400.0,1,0.0,False,True
+27729303,J Soc Cardiovasc Angiogr Interv,Elsevier,2400.0,1,0.0,False,True
+23996641,BMJ Open Qual,BMJ,2429.0,3,0.0,False,True
+26662736,JTCVS Open,Elsevier,2431.0,4,0.0,False,True
+26248212,Front Artif Intell,Frontiers,2437.5,1,0.0,False,True
+26740109,Front Netw Physiol,Frontiers,2437.5,1,0.0,False,True
+10944087,Opt Express,Optica Publishing Group,2440.0,3,0.0,False,True
+15394794,Opt Lett,Optica Publishing Group,2440.0,3,0.0,False,True
+15208532,J Opt Soc Am A Opt Image Sci Vis,Optica Publishing Group,2440.0,2,0.0,False,True
+2372952X,Chronic Obstr Pulm Dis,COPD Foundation,2450.0,2,0.0,False,True
+20585888,Environ Epigenet,Oxford University Press (OUP),2471.0,1,0.0,False,True
+26878941,JCO Glob Oncol,American Society of Clinical Oncology (ASCO),2472.0,6,0.0,False,True
+20524463,Sci Data,Springer Nature,2490.0,4,0.0,False,True
+20555784,Pilot Feasibility Stud,Springer Nature,2490.0,3,0.0,False,True
+27673375,PLOS Glob Public Health,Public Library of Science (PLoS),2496.0,4,0.0,False,True
+28378156,PLOS Ment Health,Public Library of Science (PLoS),2496.0,1,0.0,False,True
+2561326X,JMIR Form Res,JMIR Publications,2500.0,44,0.0,False,True
+19355548,Diabetes Care,American Diabetes Association,2500.0,28,0.0,False,True
+1939327X,Diabetes,American Diabetes Association,2500.0,12,0.0,False,True
+15410048,Am J Public Health,American Public Health Association,2500.0,9,0.0,False,True
+26669145,Ophthalmol Sci,Elsevier,2500.0,8,0.0,False,True
+1936959X,AJNR Am J Neuroradiol,American Society of Neuroradiology (ASNR),2500.0,6,0.0,False,True
+25901095,Arch Rehabil Res Clin Transl,Elsevier,2500.0,4,0.0,False,True
+26884844,Womens Health Rep (New Rochelle),Mary Ann Liebert,2500.0,4,0.0,False,True
+24521094,Adv Radiat Oncol,Elsevier,2500.0,1,0.0,False,True
+2689288X,Neurotrauma Rep,Mary Ann Liebert,2500.0,1,0.0,False,True
+29497884,CHEST Crit Care,Elsevier,2500.0,1,0.0,False,True
+23521872,Bone Rep,Elsevier,2540.0,1,0.0,False,True
+27679764,Cancer Res Commun,American Association for Cancer Research (AACR),2550.0,5,0.0,False,True
+10958541,J Theor Biol,Elsevier,2550.0,1,0.0,False,True
+25900595,Kidney Med,Elsevier,2590.0,5,0.0,False,True
+17468094,Biomed Signal Process Control,Elsevier,2590.0,2,0.0,False,True
+15208524,J Acoust Soc Am,Acoustical Society of America (ASA),2600.0,9,0.0,False,True
+22113355,Prev Med Rep,Elsevier,2610.0,4,0.0,False,True
+26322498,Neurooncol Adv,Oxford University Press (OUP),2615.0,8,0.0,False,True
+23102861,Gels,MDPI,2625.0,1,0.0,False,True
+19491042,Nucleus,Taylor & Francis,2630.0,2,0.0,False,True
+17590914,ASN Neuro,Taylor & Francis,2630.0,1,0.0,False,True
+26669153,J Affect Disord Rep,Elsevier,2630.0,1,0.0,False,True
+2047217X,Gigascience,Oxford University Press (OUP),2638.0,2,0.0,False,True
+15582531,IEEE Trans Biomed Eng,Institute of Electrical and Electronics Engineers (IEEE),2645.0,8,0.0,False,True
+1558254X,IEEE Trans Med Imaging,Institute of Electrical and Electronics Engineers (IEEE),2645.0,6,0.0,False,True
+21682208,IEEE J Biomed Health Inform,Institute of Electrical and Electronics Engineers (IEEE),2645.0,5,0.0,False,True
+15579964,IEEE/ACM Trans Comput Biol Bioinform,Institute of Electrical and Electronics Engineers (IEEE),2645.0,1,0.0,False,True
+19409990,IEEE Trans Biomed Circuits Syst,Institute of Electrical and Electronics Engineers (IEEE),2645.0,1,0.0,False,True
+1879291X,Ultrasound Med Biol,Elsevier,2650.0,1,0.0,False,True
+19352735,PLoS Negl Trop Dis,Public Library of Science (PLoS),2670.0,3,0.0,False,True
+20452322,Sci Rep,Springer Nature,2690.0,167,0.0,False,True
+20567936,NPJ Sci Learn,Springer Nature,2690.0,4,0.0,False,True
+20587716,Cell Death Discov,Springer Nature,2690.0,2,0.0,False,True
+17560381,BioData Min,Springer Nature,2690.0,1,0.0,False,True
+21697574,Plast Reconstr Surg Glob Open,Wolters Kluwer,2695.0,1,0.0,False,True
+29500044,J Mood Anxiety Disord,Elsevier,2700.0,1,0.0,False,True
+17580463,Database (Oxford),Oxford University Press (OUP),2729.0,3,0.0,False,True
+15677257,Infect Genet Evol,Elsevier,2730.0,1,0.0,False,True
+25901125,Clin Park Relat Disord,Elsevier,2730.0,1,0.0,False,True
+23687959,JMIR Ment Health,JMIR Publications,2750.0,12,0.0,False,True
+20760817,Pathogens,MDPI,2750.0,6,0.0,False,True
+20763425,Brain Sci,MDPI,2750.0,6,0.0,False,True
+14673045,Curr Issues Mol Biol,MDPI,2750.0,3,0.0,False,True
+20770375,Membranes (Basel),MDPI,2750.0,2,0.0,False,True
+16489144,Medicina (Kaunas),MDPI,2750.0,1,0.0,False,True
+20796374,Biosensors (Basel),MDPI,2750.0,1,0.0,False,True
+24054577,Clin Nutr ESPEN,Elsevier,2750.0,1,0.0,False,True
+24732877,APL Bioeng,AIP Publishing,2750.0,1,0.0,False,True
+26319268,NAR Genom Bioinform,Oxford University Press (OUP),2766.0,4,0.0,False,True
+16180631,Pathol Res Pract,Elsevier,2780.0,1,0.0,False,True
+23975776,Trauma Surg Acute Care Open,BMJ,2785.0,1,0.0,False,True
+17456215,Trials,Springer Nature,2790.0,12,0.0,False,True
+21601836,G3 (Bethesda),Oxford University Press (OUP),2790.0,2,0.0,False,True
+14712296,BMC Fam Pract,Springer Nature,2790.0,1,0.0,False,True
+27314553,BMC Prim Care,Springer Nature,2790.0,1,0.0,False,True
+2948197X,Npj Imaging,Springer Nature,2790.0,1,0.0,False,True
+14712970,Philos Trans R Soc Lond B Biol Sci,The Royal Society,2795.0,2,0.0,False,True
+14712954,Proc Biol Sci,The Royal Society,2795.0,1,0.0,False,True
+20462441,Open Biol,The Royal Society,2795.0,1,0.0,False,True
+15276473,Liver Transpl,Wolters Kluwer,2800.0,17,0.0,False,True
+15252191,Am J Pathol,Elsevier,2800.0,10,0.0,False,True
+1877718X,J Parkinsons Dis,SAGE Publications,2800.0,9,0.0,False,True
+21501327,J Prim Care Community Health,SAGE Publications,2800.0,6,0.0,False,True
+25424823,J Alzheimers Dis Rep,SAGE Publications,2800.0,6,0.0,False,True
+15579891,Am J Mens Health,SAGE Publications,2800.0,4,0.0,False,True
+24680249,Kidney Int Rep,Elsevier,2800.0,4,0.0,False,True
+15262359,Cancer Control,SAGE Publications,2800.0,2,0.0,False,True
+20552076,Digit Health,SAGE Publications,2800.0,2,0.0,False,True
+15470164,Subst Abus,SAGE Publications,2800.0,1,0.0,False,True
+15553892,Cell Transplant,SAGE Publications,2800.0,1,0.0,False,True
+20477163,Sci Prog,SAGE Publications,2800.0,1,0.0,False,True
+20499361,Ther Adv Infect Dis,SAGE Publications,2800.0,1,0.0,False,True
+20552173,Mult Scler J Exp Transl Clin,SAGE Publications,2800.0,1,0.0,False,True
+23312165,Trends Hear,SAGE Publications,2800.0,1,0.0,False,True
+26663503,JVS Vasc Sci,Elsevier,2800.0,1,0.0,False,True
+29768357,Subst Use,SAGE Publications,2800.0,1,0.0,False,True
+26666022,Am Heart J Plus,Elsevier,2810.0,4,0.0,False,True
+24700053,Phys Rev E,American Physical Society (APS),2840.0,3,0.0,False,True
+26330679,RSC Chem Biol,Royal Society of Chemistry (RSC),2847.0,1,0.0,False,True
+14661268,Cell Stress Chaperones,Elsevier,2850.0,3,0.0,False,True
+17596653,Genome Biol Evol,Oxford University Press (OUP),2850.0,3,0.0,False,True
+22601341,J Frailty Aging,Elsevier,2850.0,2,0.0,False,True
+18726844,Epilepsy Res,Elsevier,2880.0,2,0.0,False,True
+24734039,JBMR Plus,Oxford University Press (OUP),2888.0,2,0.0,False,True
+19400640,Addict Sci Clin Pract,Springer Nature,2890.0,8,0.0,False,True
+26663546,Brain Behav Immun Health,Elsevier,2890.0,6,0.0,False,True
+14726874,BMC Womens Health,Springer Nature,2890.0,2,0.0,False,True
+14752875,Malar J,Springer Nature,2890.0,1,0.0,False,True
+20453701,Cell Biosci,Springer Nature,2890.0,1,0.0,False,True
+2471254X,Hepatol Commun,Wolters Kluwer,2900.0,10,0.0,False,True
+18783511,Int J Infect Dis,Elsevier,2900.0,2,0.0,False,True
+2155384X,Clin Transl Gastroenterol,Wolters Kluwer,2900.0,1,0.0,False,True
+23528273,SSM Popul Health,Elsevier,2930.0,2,0.0,False,True
+2772963X,JACC Adv,Elsevier,2936.0,11,0.0,False,True
+18734332,J Pediatr Adolesc Gynecol,Elsevier,2950.0,1,0.0,False,True
+21576580,Stem Cells Transl Med,Oxford University Press (OUP),2963.0,2,0.0,False,True
+15322688,Seizure,Elsevier,2970.0,3,0.0,False,True
+18727905,J Immunol Methods,Elsevier,2970.0,1,0.0,False,True
+18791271,"Clin Biomech (Bristol, Avon)",Elsevier,2980.0,2,0.0,False,True
+14726947,BMC Med Inform Decis Mak,Springer Nature,2990.0,9,0.0,False,True
+18689884,Sex Res Social Policy,Springer Nature,2990.0,8,0.0,False,True
+14712105,BMC Bioinformatics,Springer Nature,2990.0,3,0.0,False,True
+14726920,BMC Med Educ,Springer Nature,2990.0,3,0.0,False,True
+17426405,AIDS Res Ther,Springer Nature,2990.0,3,0.0,False,True
+07787367,Arch Public Health,Springer Nature,2990.0,2,0.0,False,True
+11775467,Clin Ophthalmol,Taylor & Francis,2990.0,2,0.0,False,True
+17501172,Orphanet J Rare Dis,Springer Nature,2990.0,2,0.0,False,True
+25787470,HIV Res Clin Pract,Taylor & Francis,2990.0,2,0.0,False,True
+13652060,Ann Med,Taylor & Francis,2990.0,1,0.0,False,True
+1472684X,BMC Palliat Care,Springer Nature,2990.0,1,0.0,False,True
+18661955,J Neurodev Disord,Springer Nature,2990.0,1,0.0,False,True
+2050084X,Elife,eLife,3000.0,99,0.0,False,True
+23290382,Psychol Sex Orientat Gend Divers,American Psychological Association (APA),3000.0,24,0.0,False,True
+15509397,J Clin Sleep Med,American Academy of Sleep Medicine (AASM),3000.0,17,0.0,False,True
+15420086,Biophys J,Elsevier,3000.0,16,0.0,False,True
+2769755X,J Psychopathol Clin Sci,American Psychological Association (APA),3000.0,14,0.0,False,True
+1532429X,J Cardiovasc Magn Reson,Elsevier,3000.0,12,0.0,False,True
+19307810,Health Psychol,American Psychological Association (APA),3000.0,12,0.0,False,True
+19392117,J Consult Clin Psychol,American Psychological Association (APA),3000.0,10,0.0,False,True
+1939134X,Psychol Assess,American Psychological Association (APA),3000.0,9,0.0,False,True
+19330693,J Neurosurg,Journal of Neurosurgery Publishing Group (JNSPG),3000.0,8,0.0,False,True
+19391315,J Pers Soc Psychol,American Psychological Association (APA),3000.0,8,0.0,False,True
+19311559,Neuropsychology,American Psychological Association (APA),3000.0,7,0.0,False,True
+23766972,Stigma Health,American Psychological Association (APA),3000.0,7,0.0,False,True
+19390602,Fam Syst Health,American Psychological Association (APA),3000.0,6,0.0,False,True
+19391498,Psychol Aging,American Psychological Association (APA),3000.0,6,0.0,False,True
+19311516,Emotion,American Psychological Association (APA),3000.0,5,0.0,False,True
+19391293,J Fam Psychol,American Psychological Association (APA),3000.0,5,0.0,False,True
+19391501,Psychol Addict Behav,American Psychological Association (APA),3000.0,5,0.0,False,True
+23527226,Sleep Health,Elsevier,3000.0,5,0.0,False,True
+14761645,Am J Trop Med Hyg,American Society of Tropical Medicine and Hygiene,3000.0,4,0.0,False,True
+19390025,Am J Orthopsychiatry,American Psychological Association (APA),3000.0,4,0.0,False,True
+19390084,Behav Neurosci,American Psychological Association (APA),3000.0,4,0.0,False,True
+10999809,Cultur Divers Ethnic Minor Psychol,American Psychological Association (APA),3000.0,3,0.0,False,True
+19392222,J Exp Psychol Gen,American Psychological Association (APA),3000.0,3,0.0,False,True
+15288951,J Biomech Eng,ASME International,3000.0,2,0.0,False,True
+15903729,Nutr Metab Cardiovasc Dis,Elsevier,3000.0,2,0.0,False,True
+1935990X,Am Psychol,American Psychological Association (APA),3000.0,2,0.0,False,True
+19391463,Psychol Methods,American Psychological Association (APA),3000.0,2,0.0,False,True
+19391471,Psychol Rev,American Psychological Association (APA),3000.0,2,0.0,False,True
+20763417,Appl Sci (Basel),MDPI,3000.0,2,0.0,False,True
+21694826,Clin Pract Pediatr Psychol,SAGE Publications,3000.0,2,0.0,False,True
+2379139X,Tomography,MDPI,3000.0,2,0.0,False,True
+00220167,J Couns Psychol,American Psychological Association (APA),3000.0,1,0.0,False,True
+09695893,Clin Psychol (New York),American Psychological Association (APA),3000.0,1,0.0,False,True
+19362293,Exp Clin Psychopharmacol,American Psychological Association (APA),3000.0,1,0.0,False,True
+1942969X,Psychol Trauma,American Psychological Association (APA),3000.0,1,0.0,False,True
+19437811,J Mol Diagn,Elsevier,3000.0,1,0.0,False,True
+20794991,Nanomaterials (Basel),MDPI,3000.0,1,0.0,False,True
+21520828,Psychol Violence,American Psychological Association (APA),3000.0,1,0.0,False,True
+22279067,Children (Basel),MDPI,3000.0,1,0.0,False,True
+24712531,Pain Rep,Wolters Kluwer,3000.0,1,0.0,False,True
+26672960,J Acad Consult Liaison Psychiatry,Elsevier,3000.0,1,0.0,False,True

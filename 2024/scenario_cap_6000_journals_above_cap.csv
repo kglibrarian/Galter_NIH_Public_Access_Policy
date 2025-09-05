@@ -1,48 +1,51 @@
-_issn_norm,_journal_label,_publisher,apc,papers,uncovered_total,within_cap
-15214095,Adv Mater,Wiley,6070.0,6,420.0,False
-15229645,Eur Heart J,Oxford University Press (OUP),6130.8,3,392.40000000000055,False
-15292401,J Neurosci,Society for Neuroscience,6270.0,5,1350.0,False
-15491676,PLoS Med,Public Library of Science (PLoS),6460.0,1,460.0,False
-15280020,Blood,American Society of Hematology,6600.0,1,600.0,False
-2666979X,Cell Genom,Elsevier,6675.0,3,2025.0,False
-2214109X,Lancet Glob Health,Elsevier,6680.0,1,680.0,False
-23524650,Lancet Child Adolesc Health,Elsevier,6680.0,1,680.0,False
-25425196,Lancet Planet Health,Elsevier,6680.0,1,680.0,False
-21983844,Adv Sci (Weinh),Wiley,6730.0,4,2920.0,False
-20411723,Nat Commun,Springer Nature,6990.0,59,58410.0,False
-15573125,Mol Cancer Res,American Association for Cancer Research (AACR),7000.0,3,3000.0,False
-15388514,Mol Cancer Ther,American Association for Cancer Research (AACR),7000.0,1,1000.0,False
-18790445,Curr Biol,Elsevier,7030.0,4,4120.0,False
-01689525,Trends Genet,Elsevier,7030.0,3,3090.0,False
-1471499X,Trends Mol Med,Elsevier,7030.0,2,2060.0,False
-24058025,Trends Cancer,Elsevier,7030.0,2,2060.0,False
-1878108X,Trends Neurosci,Elsevier,7030.0,1,1030.0,False
-1879307X,Trends Cogn Sci,Elsevier,7030.0,1,1030.0,False
-15583597,J Am Coll Cardiol,Elsevier,7166.0,3,3498.0,False
-14744465,Lancet Neurol,Elsevier,7280.0,8,10240.0,False
-1474547X,Lancet,Elsevier,7890.0,3,5670.0,False
-17444292,Mol Syst Biol,Springer Nature,7990.0,2,3980.0,False
-15573265,Clin Cancer Res,American Association for Cancer Research (AACR),8000.0,11,22000.0,False
-15387445,Cancer Res,American Association for Cancer Research (AACR),8000.0,3,6000.0,False
-24054720,Cell Syst,Elsevier,9350.0,1,3350.0,False
-24519448,Cell Chem Biol,Elsevier,9350.0,1,3350.0,False
-19327420,Cell Metab,Elsevier,10400.0,11,48400.0,False
-10974164,Mol Cell,Elsevier,10400.0,10,44000.0,False
-10974199,Neuron,Elsevier,10400.0,7,30800.0,False
-10974180,Immunity,Elsevier,10400.0,3,13200.0,False
-21598290,Cancer Discov,American Association for Cancer Research (AACR),11000.0,6,30000.0,False
-10974172,Cell,Elsevier,11400.0,4,21600.0,False
-15292916,Nat Immunol,Springer Nature,12690.0,26,173940.0,False
-14764687,Nature,Springer Nature,12690.0,13,86970.0,False
-1546170X,Nat Med,Springer Nature,12690.0,5,33450.0,False
-15524469,Nat Chem Biol,Springer Nature,12690.0,5,33450.0,False
-20585276,Nat Microbiol,Springer Nature,12690.0,5,33450.0,False
-25225812,Nat Metab,Springer Nature,12690.0,5,33450.0,False
-15461718,Nat Genet,Springer Nature,12690.0,4,26760.0,False
-15459985,Nat Struct Mol Biol,Springer Nature,12690.0,2,13380.0,False
-17483395,Nat Nanotechnol,Springer Nature,12690.0,2,13380.0,False
-2157846X,Nat Biomed Eng,Springer Nature,12690.0,2,13380.0,False
-15461726,Nat Neurosci,Springer Nature,12690.0,1,6690.0,False
-15487105,Nat Methods,Springer Nature,12690.0,1,6690.0,False
-2397334X,Nat Ecol Evol,Springer Nature,12690.0,1,6690.0,False
-26628465,Nat Aging,Springer Nature,12690.0,1,6690.0,False
+_issn_norm,_journal_label,_publisher,apc,papers,uncovered_total,waived,within_cap
+15229645,Eur Heart J,Oxford University Press (OUP),6130.8,4,523.2000000000007,False,False
+15292401,J Neurosci,Society for Neuroscience,6270.0,8,2160.0,False,False
+15491676,PLoS Med,Public Library of Science (PLoS),6460.0,1,460.0,False,False
+15280020,Blood,American Society of Hematology,6600.0,4,2400.0,False,False
+2666979X,Cell Genom,Elsevier,6675.0,4,2700.0,False,False
+2214109X,Lancet Glob Health,Elsevier,6680.0,1,680.0,False,False
+23524650,Lancet Child Adolesc Health,Elsevier,6680.0,1,680.0,False,False
+25425196,Lancet Planet Health,Elsevier,6680.0,1,680.0,False,False
+20411723,Nat Commun,Springer Nature,6990.0,56,55440.0,False,False
+15388514,Mol Cancer Ther,American Association for Cancer Research (AACR),7000.0,2,2000.0,False,False
+15573125,Mol Cancer Res,American Association for Cancer Research (AACR),7000.0,2,2000.0,False,False
+18790445,Curr Biol,Elsevier,7030.0,4,4120.0,False,False
+01689525,Trends Genet,Elsevier,7030.0,2,2060.0,False,False
+1879307X,Trends Cogn Sci,Elsevier,7030.0,2,2060.0,False,False
+1471499X,Trends Mol Med,Elsevier,7030.0,1,1030.0,False,False
+14715007,Trends Parasitol,Elsevier,7030.0,1,1030.0,False,False
+1878108X,Trends Neurosci,Elsevier,7030.0,1,1030.0,False,False
+24058025,Trends Cancer,Elsevier,7030.0,1,1030.0,False,False
+15583597,J Am Coll Cardiol,Elsevier,7166.0,6,6996.0,False,False
+14744465,Lancet Neurol,Elsevier,7280.0,2,2560.0,False,False
+1474547X,Lancet,Elsevier,7890.0,5,9450.0,False,False
+14602075,EMBO J,Springer Nature,7990.0,1,1990.0,False,False
+17444292,Mol Syst Biol,Springer Nature,7990.0,1,1990.0,False,False
+15573265,Clin Cancer Res,American Association for Cancer Research (AACR),8000.0,12,24000.0,False,False
+15387445,Cancer Res,American Association for Cancer Research (AACR),8000.0,5,10000.0,False,False
+24519448,Cell Chem Biol,Elsevier,9350.0,2,6700.0,False,False
+18784186,Structure,Elsevier,9350.0,1,3350.0,False,False
+24054720,Cell Syst,Elsevier,9350.0,1,3350.0,False,False
+10974199,Neuron,Elsevier,10400.0,7,30800.0,False,False
+10974164,Mol Cell,Elsevier,10400.0,4,17600.0,False,False
+19327420,Cell Metab,Elsevier,10400.0,4,17600.0,False,False
+10974180,Immunity,Elsevier,10400.0,2,8800.0,False,False
+19346069,Cell Host Microbe,Elsevier,10400.0,1,4400.0,False,False
+21598290,Cancer Discov,American Association for Cancer Research (AACR),11000.0,5,25000.0,False,False
+10974172,Cell,Elsevier,11400.0,2,10800.0,False,False
+14764687,Nature,Springer Nature,12690.0,12,80280.0,False,False
+15461718,Nat Genet,Springer Nature,12690.0,8,53520.0,False,False
+1546170X,Nat Med,Springer Nature,12690.0,7,46830.0,False,False
+15461726,Nat Neurosci,Springer Nature,12690.0,5,33450.0,False,False
+15292916,Nat Immunol,Springer Nature,12690.0,4,26760.0,False,False
+15524469,Nat Chem Biol,Springer Nature,12690.0,4,26760.0,False,False
+15487105,Nat Methods,Springer Nature,12690.0,2,13380.0,False,False
+20585276,Nat Microbiol,Springer Nature,12690.0,2,13380.0,False,False
+25225812,Nat Metab,Springer Nature,12690.0,2,13380.0,False,False
+15459985,Nat Struct Mol Biol,Springer Nature,12690.0,1,6690.0,False,False
+17483395,Nat Nanotechnol,Springer Nature,12690.0,1,6690.0,False,False
+2157846X,Nat Biomed Eng,Springer Nature,12690.0,1,6690.0,False,False
+2397334X,Nat Ecol Evol,Springer Nature,12690.0,1,6690.0,False,False
+26628465,Nat Aging,Springer Nature,12690.0,1,6690.0,False,False
+27310590,Nat Cardiovasc Res,Springer Nature,12690.0,1,6690.0,False,False
