@@ -1,0 +1,2 @@
+cap_usd,years_considered,total_papers_matched,papers_in_within_cap_journals,papers_in_above_cap_journals,unique_journals_within_cap,unique_journals_above_cap,unique_publishers,total_uncovered_usd,median_uncovered_per_paper_usd,mean_uncovered_per_paper_usd,unmatched_papers_missing_apc,issn_conflict_rows_reported
+6000,2020-2025,12462,11010,1452,1295,88,83,4613719.4,2000.0,370.22,2538,27
